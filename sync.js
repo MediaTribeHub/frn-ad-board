@@ -23,7 +23,7 @@ const AD_FIELDS = [
   // Only the object_story_spec keys we match on; the full spec is huge and trips Meta's size limit.
   "creative{id,thumbnail_url,effective_object_story_id,instagram_user_id,source_instagram_media_id,object_story_spec{page_id,instagram_actor_id,instagram_user_id}}"
 ].join(",");
-const PAGE_SIZES = [200, 100, 50, 25];
+const PAGE_SIZES = [50, 25];
 // Meta's "Please reduce the amount of data you're asking for" (code 1).
 const isTooMuchData = e => e.code === 1 && /reduce the amount of data/i.test(e.message);
 
@@ -81,6 +81,26 @@ const backoff = attempt => {
   return cap / 2 + Math.random() * (cap / 2);
 };
 
+// When Meta throttles the ad account it says (in response headers) how long until access
+// comes back. Every request then waits that long, not just the one that got throttled.
+const MAX_THROTTLE_WAIT_MS = 15 * 60 * 1000;
+let pausedUntil = 0;
+
+function throttleWaitMs(res) {
+  let ms = 0;
+  try {
+    const buc = JSON.parse(res.headers.get("x-business-use-case-usage") || "{}");
+    for (const entries of Object.values(buc)) {
+      for (const u of entries) ms = Math.max(ms, (Number(u.estimated_time_to_regain_access) || 0) * 60000);
+    }
+  } catch { /* header missing or malformed */ }
+  try {
+    const acct = JSON.parse(res.headers.get("x-ad-account-usage") || "{}");
+    ms = Math.max(ms, (Number(acct.reset_time_duration) || 0) * 1000);
+  } catch { /* header missing or malformed */ }
+  return Math.min(ms, MAX_THROTTLE_WAIT_MS);
+}
+
 async function graph(pathOrUrl, params = {}) {
   const url = pathOrUrl.startsWith("https://")
     ? new URL(pathOrUrl)
@@ -95,6 +115,7 @@ async function graph(pathOrUrl, params = {}) {
     let error;
     try {
       const body = await limit(async () => {
+        if (pausedUntil > Date.now()) await sleep(pausedUntil - Date.now());
         const res = await fetch(url, { headers: { Authorization: `Bearer ${TOKEN}` } });
         const json = await res.json().catch(() => null);
         if (res.ok && json && !json.error) return json;
@@ -103,6 +124,7 @@ async function graph(pathOrUrl, params = {}) {
         const err = new GraphError(e.message || `HTTP ${res.status}`, { status: res.status, code });
         // A too-big response won't shrink by waiting; the caller asks for less instead.
         err.retryable = !isTooMuchData(err) && (res.status === 429 || res.status >= 500 || RETRY_CODES.has(code));
+        if (err.retryable) err.waitMs = throttleWaitMs(res);
         throw err;
       });
       return body;
@@ -110,7 +132,12 @@ async function graph(pathOrUrl, params = {}) {
       error = e instanceof GraphError ? e : new GraphError(`Network error: ${e.message}`, { retryable: true });
     }
     if (!error.retryable || attempt >= MAX_RETRIES) throw error;
-    await sleep(backoff(attempt));
+    const wait = Math.max(backoff(attempt), error.waitMs || 0);
+    if (error.waitMs && Date.now() + wait > pausedUntil) {
+      pausedUntil = Date.now() + wait;
+      log(`Meta is rate-limiting the account; pausing ${Math.ceil(wait / 60000)} min as it asks.`);
+    }
+    await sleep(wait);
   }
 }
 

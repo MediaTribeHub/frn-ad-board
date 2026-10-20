@@ -238,8 +238,62 @@ function parseBatchVersion(cleaned) {
 }
 
 const bucketMatchers = config.campaignBuckets.map(b => ({ label: b.label, re: new RegExp(b.match, "i") }));
-const bucketOf = campaignName => bucketMatchers.find(b => b.re.test(campaignName || ""))?.label ?? config.fallbackBucket;
-const BUCKET_ORDER = [...config.campaignBuckets.map(b => b.label), config.fallbackBucket];
+const bucketOf = campaignName =>
+  bucketMatchers.find(b => b.re.test(campaignName || ""))?.label ??
+  (config.autoBuckets && autoBucket(campaignName)) ??
+  config.fallbackBucket;
+
+// Campaigns are named "KH | Lead Gen | Cyrus Protein Webinar - Jul 23 | CBO":
+// owner initials | type | topic | setup details. Build a label from type + topic.
+const CAMPAIGN_NOISE = /^(?:[A-Z]{2,3}|cbo|abo|asc|scaling|evergreen|v?\d+(?:\.\d+)*)$/i;
+function autoBucket(campaignName) {
+  const parts = String(campaignName || "").split("|").map(s => s.trim()).filter(Boolean);
+  if (parts.length === 0) return null;
+  const [type, topic] = parts.length >= 3 && /^[A-Z]{2,3}$/.test(parts[0]) ? [parts[1], parts[2]] : [null, parts.find(p => !CAMPAIGN_NOISE.test(p))];
+  if (!topic) return null;
+  const webinar = topic.match(/^(.*?)\s*\bwebinar\b\s*(?:-\s*)?(.*)$/i);
+  if (webinar) return `Webinar — ${webinar[1] || topic}${webinar[2] ? ` (${webinar[2]})` : ""}`;
+  return type && !/lead ?gen/i.test(type) ? `${type} — ${topic}` : topic;
+}
+
+// Configured buckets first in config order, then auto ones alphabetically, then the fallback.
+function bucketOrder(used) {
+  const fixed = config.campaignBuckets.map(b => b.label);
+  const auto = [...used].filter(b => !fixed.includes(b) && b !== config.fallbackBucket).sort();
+  return [...fixed, ...auto, config.fallbackBucket];
+}
+
+// Ad names follow "META | PROS | EVG | BV | 30%-OFF | WOMEN 40+ | EXPERT-AUTHORITY | | ITR- | V1 |
+// UGC VID | OCEAN | WL_YES | … | EXP239 | H1 - WL". Fields shift around, so pick them out by shape.
+// Returns a short title ("EXP239 · H1") and a details line ("UGC video · Ocean · Plant-based"),
+// or null when the name doesn't follow the convention (the card then shows the plain name).
+const FORMATS = { "STATIC": "Static", "UGC VID": "UGC video", "VIDEO": "Video", "MASHUP": "Mashup", "CAROUSEL": "Carousel", "GIF": "GIF" };
+const titleCase = s => s.toLowerCase().replace(/(^|[\s,\-+/])([a-z])/g, (_, p, c) => p + c.toUpperCase()).replace(/\b(Ugc|Bv|Frn)\b/g, w => w.toUpperCase());
+function describeAdName(name) {
+  const parts = String(name || "").split("|").map(s => s.trim());
+  const expAt = parts.findIndex(p => /^EXP\d+$/i.test(p));
+  if (expAt === -1) return null;
+
+  const tail = parts.slice(expAt + 1).join(" ").replace(/\s*-\s*WL\s*$/i, "").trim();
+  const hook = tail.match(/\bI?H\d+\b/i)?.[0].toUpperCase() ?? (tail ? titleCase(tail) : null);
+  const title = [parts[expAt].toUpperCase(), hook].filter(Boolean).join(" · ");
+
+  const formatAt = parts.findIndex(p => FORMATS[p.toUpperCase()]);
+  // Talent sits between the format and the WL_ flag; anything after WL_ is team initials.
+  const wlAt = parts.findIndex((p, i) => i > formatAt && /^WL_/i.test(p));
+  const talent = formatAt === -1 ? null : parts.slice(formatAt + 1, wlAt === -1 ? expAt : wlAt)
+    .find(p => p && !/^\d+x\d+$/i.test(p) && !FORMATS[p.toUpperCase()]);
+  const offerAt = parts.findIndex(p => /%|^NA$/i.test(p));
+  const audience = offerAt === -1 ? null : parts[offerAt + 1];
+
+  const details = [
+    formatAt === -1 ? null : FORMATS[parts[formatAt].toUpperCase()],
+    talent ? titleCase(talent) : null,
+    audience ? titleCase(audience) : null
+  ].filter(Boolean).join(" · ");
+
+  return { title, details: details || null };
+}
 
 function reconcile(ads) {
   const groups = new Map();
@@ -261,11 +315,12 @@ function reconcile(ads) {
       rep,
       id: rep.ad.id,
       name: rep.cleaned || rep.ad.name || "Untitled ad",
+      described: describeAdName(rep.cleaned),
       batch: rep.batch ?? parsed.batch,
       version: rep.version ?? parsed.version,
       status: live ? "live" : "paused",
       campaignName: rep.ad.campaign?.name || "",
-      buckets: BUCKET_ORDER.filter(b => bucketSet.has(b)),
+      buckets: [...bucketSet],
       launchedAt: new Date(Math.min(...members.map(m => m.createdMs))).toISOString(),
       thumbnailUrl: rep.ad.creative?.thumbnail_url || null,
       copies: members.length,
@@ -365,6 +420,8 @@ async function main() {
     .map(({ rep, ...g }) => ({
       id: g.id,
       name: g.name,
+      title: g.described?.title ?? null,
+      details: g.described?.details ?? null,
       batch: g.batch,
       version: g.version,
       status: g.status,
@@ -382,6 +439,8 @@ async function main() {
       Date.parse(b.launchedAt) - Date.parse(a.launchedAt)
     );
 
+  const order = bucketOrder(new Set(ads.flatMap(a => a.buckets)));
+  for (const ad of ads) ad.buckets.sort((a, b) => order.indexOf(a) - order.indexOf(b));
   const live = ads.filter(a => a.status === "live").length;
   const data = {
     lastUpdated: new Date().toISOString(),
@@ -389,7 +448,7 @@ async function main() {
     title: config.brand.title,
     subtitle: config.brand.subtitle,
     counts: { total: ads.length, live, paused: ads.length - live },
-    buckets: BUCKET_ORDER,
+    buckets: order,
     ads
   };
 

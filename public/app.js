@@ -139,6 +139,7 @@
       .map(a => ({
         ...a,
         name: String(a.name || "Untitled ad"),
+        label: String(a.title || a.name || "Untitled ad"),
         status: a.status === "live" ? "live" : "paused",
         buckets: Array.isArray(a.buckets) ? a.buckets : [],
         copies: Number(a.copies) || 1,
@@ -205,7 +206,7 @@
     if (state.status !== "all" && ad.status !== state.status) return false;
     if (state.query) {
       const q = state.query;
-      const hay = (ad.batch ? `${ad.name} batch ${ad.batch} b${ad.batch}` : ad.name).toLowerCase();
+      const hay = `${ad.name} ${ad.label} ${ad.details || ""}${ad.batch ? ` batch ${ad.batch} b${ad.batch}` : ""}`.toLowerCase();
       if (!q.split(/\s+/).every(word => hay.includes(word))) return false;
     }
     return true;
@@ -276,14 +277,15 @@
       type: "button",
       class: "preview-button",
       disabled: !hasPreview,
-      "aria-label": hasPreview ? `View ad preview: ${ad.name}` : null
+      "aria-label": hasPreview ? `View ad preview: ${ad.label}` : null
     }, hasPreview ? "View ad preview" : "Preview unavailable");
     if (hasPreview) button.addEventListener("click", () => openPreview(ad, button));
 
     return h("article", { class: `card${hasPreview ? " is-clickable" : ""}` },
       h("div", { class: "thumb" }, media, statusPill(ad.status)),
       h("div", { class: "card__body" },
-        h("h3", { class: "card__name", title: ad.name }, ad.name),
+        h("h3", { class: "card__name", title: ad.name }, ad.label),
+        ad.details ? h("p", { class: "card__details" }, ad.details) : null,
         chips.length ? h("div", { class: "chips" }, chips) : null,
         ad.copies > 1 ? h("p", { class: "copies" }, `${ad.copies} versions running across ad sets`) : null
       ),
@@ -297,7 +299,7 @@
     modalState.opener = opener;
     modalState.scrollY = window.scrollY;
 
-    els.modalTitle.textContent = ad.name;
+    els.modalTitle.textContent = ad.label;
     const pill = statusPill(ad.status);
     pill.id = "modal-status";
     els.modalStatus.replaceWith(pill);
@@ -308,7 +310,7 @@
     // The iframe is created only now, never in the grid.
     const frame = h("iframe", {
       src: ad.previewUrl,
-      title: `Ad preview: ${ad.name}`,
+      title: `Ad preview: ${ad.label}`,
       allow: "autoplay; encrypted-media; picture-in-picture",
       allowfullscreen: true
     });

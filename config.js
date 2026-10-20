@@ -35,11 +35,17 @@ export default {
   versionRegex: "\\bV[-_ ]?(\\d{1,3})\\b",
 
   // Campaign buckets for the filter. First match wins, order matters.
+  // "match" is checked against the campaign name (e.g. "KH | Lead Gen | Bone Vitality Webinar - Jul 15 | CBO").
   campaignBuckets: [
-    { label: "Webinar — Laurie & Ocean", match: "laurie|ocean" },
-    { label: "Cheat Sheet",              match: "cheat ?sheet" },
-    { label: "Direct Response",          match: "\\b(dr|direct ?response|sales|conversion|purchase)\\b" }
+    { label: "Cheat Sheet",                    match: "cheat ?sheet" },
+    { label: "Webinar — Ocean & Laurie",       match: "ocean|laurie" },
+    { label: "Sales — Bone Vitality",          match: "\\bsales\\b.*bone vitality" },
+    { label: "Testing",                        match: "\\btest" }
   ],
+  // A campaign that matches none of the above gets a name built from its own
+  // campaign name, e.g. "KH | Lead Gen | Cyrus Protein Webinar - Jul 23 | CBO"
+  // becomes "Webinar — Cyrus Protein (Jul 23)". New campaigns show up on their own.
+  autoBuckets: true,
   fallbackBucket: "Other",
 
   brand: {

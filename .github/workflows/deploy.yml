@@ -1,0 +1,41 @@
+name: Publish board
+
+# Publishes the public/ folder to GitHub Pages.
+# Runs when the site's files change, and after every board refresh
+# (a push made by a workflow can't trigger this on its own, so Refresh board calls it).
+on:
+  push:
+    branches: [main]
+    paths: ["public/**"]
+  workflow_dispatch:
+  workflow_call:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Check out
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Upload the board
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+      - name: Publish to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

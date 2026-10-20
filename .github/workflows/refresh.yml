@@ -18,6 +18,8 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    outputs:
+      run: ${{ steps.guard.outputs.run }}
     steps:
       - name: Only run at 8 AM Eastern
         id: guard
@@ -64,3 +66,12 @@ jobs:
             git commit -m "Refresh board data"
             git push
           fi
+
+  publish:
+    needs: refresh
+    if: needs.refresh.outputs.run == 'true'
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    uses: ./.github/workflows/deploy.yml

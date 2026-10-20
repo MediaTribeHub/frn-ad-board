@@ -1,0 +1,1347 @@
+{
+  "lastUpdated": "2026-10-20T02:08:52.176Z",
+  "timezone": "America/New_York",
+  "title": "FRN Ad Board",
+  "subtitle": "Every Complement ad running under Food Revolution Network whitelisting.",
+  "counts": {
+    "total": 76,
+    "live": 16,
+    "paused": 60
+  },
+  "buckets": [
+    "Webinar — Laurie & Ocean",
+    "Cheat Sheet",
+    "Direct Response",
+    "Other"
+  ],
+  "ads": [
+    {
+      "id": "120247537217920129",
+      "name": "META | PROS | WEBINAR | BV | 30%-OFF | WOMEN 40+ | EXPERT-AUTHORITY | | ITR- | V4 | STATIC | JULI, PAU | WL_YES | JULI, PAU | JULI, PAU | EXP249 | IH1 - WL",
+      "batch": null,
+      "version": "4",
+      "status": "live",
+      "campaignName": "KH | Lead Gen | Bone Vitality Webinar - Ocean and Laurie | Evergreen | 3.0",
+      "buckets": [
+        "Webinar — Laurie & Ocean"
+      ],
+      "launchedAt": "2026-09-16T21:05:27.000Z",
+      "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t45.1600-4/765078097_10162788891051156_450381617385761483_n.jpg?_nc_cat=101&ccb=1-7&_nc_ohc=Gsyr2XC5iogQ7kNvwESF-Ax&_nc_oc=AdrMLkJSU57Kwu3-A2Y6r-I0zlyQTsqOKCBkUmGde39t_kh_sD7ka8eU3h3E7n-JrPQ&_nc_zt=1&_nc_ht=scontent-iad3-1.xx&edm=ALfz3TcEAAAA&_nc_gid=Yu3n6rIQlbZNtfyHDf5YhQ&_nc_tpa=Q5bMBQK0-O2xUwz4NaAH_0pWTLXcKHj7l5iFT92oHPSPXW8K6euOf2UmirZOoqwgkix7-D6ROjlBIbrjpg&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_AQOaZqJntY6x57MzjHl5EnPXFJlphZ8pRZ8ZD5tl8hdZKA&oe=6ADC8C34",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQI_NVJ2FiGkJanqjKXOTEpYfpj0-NPbqkiSgyII20O94_dbJN8eBIzuw8ySArP6HN-e6VYNMqJ40qJQebZg34UdkLqB3NMclDBVCXnQb_mrYJwlcC9szY109geRhtEvmq-NxlFIgJLlXUwVqLMZs-TTZpd8lZp8CzKgIXwJiFa9ql65ECNVvnoXl6hzRyi3as3GTLX9dwDk_ZcxsoSIklque08lRv_CHLr3BzWAWiw34OykX8isuBYWVJinYkvH5gAz-UscOh5WxUjElZWKTwoaejJMTo2C_kp0ZqKrKSpczLsc0a50R9ByGF-cTBgIPp5JhPF3_bweZWnP8Vm_1A0C8Cl497DHx5-Q1Wa4oGJvH8_VCXrSzDcraJNpPLWZKuz5qKTwBmkQkRIaM4_0B5Bk20glOSnu6NfawmMioeAhM9uMCjGjEph6mo-jc8X9mp0&t=AQJv4nzXmjpVJd5K-uY",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 6,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247537217360129",
+      "name": "META | PROS | EVG | BV | 30%-OFF | PLANT-BASED | EXPERT-AUTHORITY | | ITR- | V1 | UGC VID | OCEAN | WL_YES | KISHA | MIHAELA | EXP238 | H2 - WL",
+      "batch": null,
+      "version": "1",
+      "status": "live",
+      "campaignName": "KH | Lead Gen | Bone Vitality Webinar - Ocean and Laurie | Evergreen | 3.0",
+      "buckets": [
+        "Webinar — Laurie & Ocean"
+      ],
+      "launchedAt": "2026-09-16T21:05:27.000Z",
+      "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/813613489_1379275334371189_4940163007677147194_n.jpg?_nc_cat=106&ccb=1-7&_nc_ohc=LcStUe8LR0YQ7kNvwGPFUSB&_nc_oc=AdoVjn8kyCl5LFaIE9C2DI1uwWytqnONybanT4p5so4Uo0fqL6LBdJ_dJLewZQNVya0&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ALfz3TcEAAAA&_nc_gid=LBK7cr09NZ4-AoGrpcvcWg&_nc_tpa=Q5bMBQKJilDwIqLARgD17oeUJtqLRHUDwkRGQpJQUZ55pPEC9NPs9vi3Tu8XBOvxN_3v-8FSV4E3C1zI8w&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=d2b52d&_nc_sid=58080a&oh=00_AQMmW2N_hAr8GqE6vxZKWpWs8eFsUGV1e4LZ0g1wJqs5hA&oe=6ADC8AB0",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQJKc6kTsdbXpJ7_ePsiF9JosEw8fHiBVL9FSv1DkaytAWgSW-G6JzASz0LKLmc1qvv19MXhZXRJ69-CswDxUfeaXM4rIMCt_aTWXGmoBRHsTdq59IJJkO__9noz-osCJJijRh__39tCyPPTd8e4g23gCO-XrJbaqaq-927WHe9myLVZHrj8Q5fVXPi5uGTCdwEiL_eRvVUjCp9VqbRVs0NwYtW8Y3_NV2Ilufh0II0g785r-nrKVccnwggDZECk8zQTFclZqVsoKbqYWc3Kyn-cC5EEo2yGj-uc4rcWxkt1pZuEnb4BOeXSoGxPoRpZu8uA8o35y8WRMmDvrdsuPHCki4AB32PRJPbtF49KC8_X18GmyOwFr1DUR3mU3ALxTwvCIGR6cDApC1sVLxkFYpsaNoDRWaxR6MD7K9EpYxt6zJlz-RR-GQFIBYSXR1eLWaA&t=AQJwUGkoFNeATsVY7hM",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 6,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247537217890129",
+      "name": "META | PROS | EVG | BV | 30%-OFF | PLANT-BASED | EXPERT-AUTHORITY | | ITR- | V1 | UGC VID | OCEAN | WL_YES | KISHA | MIHAELA | EXP237 | H3 - WL",
+      "batch": null,
+      "version": "1",
+      "status": "live",
+      "campaignName": "KH | Lead Gen | Bone Vitality Webinar - Ocean and Laurie | Evergreen | 3.0",
+      "buckets": [
+        "Webinar — Laurie & Ocean"
+      ],
+      "launchedAt": "2026-09-16T21:05:27.000Z",
+      "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/812817147_1058654427228618_7828517519270477828_n.jpg?_nc_cat=105&ccb=1-7&_nc_ohc=sysitOxJFBcQ7kNvwGtEbgR&_nc_oc=AdqidAfibktjdJJ7-kgjfXZCReAZ3qr9Hm-nLNdwIfeECh4uwIOLBjY5cClMbU7I9yo&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ALfz3TcEAAAA&_nc_gid=olJUmsQMMMBc_6yd9sK65g&_nc_tpa=Q5bMBQI8ibFSDTO9CEfcWC8oev-Ap8BHqBbCXy-ATo9y20EWt04bvf6wba1_e9tdMTouV1ypsjRUjJBMgQ&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=d2b52d&_nc_sid=58080a&oh=00_AQNd1PllJBf5BfiYfOmTYqFjOtOTj73knlFtIXgWaYYJZQ&oe=6ADC9031",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQK6-yPD_CLwTilP4Sr3zr6oPcsI3wF4_SlrdcR5oPXuepGkb63L_KojmPVj_3-IBtTCndXL6Wh4COp1NWmuV_H4Pk1aSqmkTiNdB8FYGk7GHASPxqZeK7KNL1H-ME57jQjfZaJGprBWSbisZqbLlXt1WL32XJxvRnfJjqWEq7F58kuySe0KvnchBnMEQ5tLAhAk64kSI2Jayi6c9qSXA7pSOwP2_WPYthEYGk5frJeOhdqds-WKOL_yHamvA_-LFSujgs-omT3GJr7svuMwryNAuwdiTiM6rLP7lbFciFl4rh1gLuyOU0ESOAO19nxsSyMMBqCh5-B90VRwGAM_baH9F3CGIa9nEniKfGKbiZN8kreyx92vvGrNXVasAwMODFest3ey2nRXEd08ag_OgPTQlZaqPHfshq9QIm7tVHY6f_WuEGd6vnDz1Y9rkFIS8gQ&t=AQI6-RSdzVrqeK1AQpw",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 6,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247537217810129",
+      "name": "META | PROS | EVG | BV | 30%-OFF | PLANT-BASED | EXPERT-AUTHORITY | | ITR- | V1 | UGC VID | OCEAN | WL_YES | KISHA | MIHAELA | EXP240 | H1 - WL",
+      "batch": null,
+      "version": "1",
+      "status": "live",
+      "campaignName": "KH | Lead Gen | Bone Vitality Webinar - Ocean and Laurie | Evergreen | 3.0",
+      "buckets": [
+        "Webinar — Laurie & Ocean"
+      ],
+      "launchedAt": "2026-09-16T21:05:27.000Z",
+      "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/812903498_1097399799922787_8992211862686139155_n.jpg?_nc_cat=105&ccb=1-7&_nc_ohc=Cg9EJMyEHhQQ7kNvwHMxsvN&_nc_oc=Adp5F1fmnUpBiUsATowfSE9Wd11jB4qLTLRTlO8TzRfaOfjMdEWm5hbpAGlqE-z2kos&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ALfz3TcEAAAA&_nc_gid=_hGjtY_Z5LUZyfTU1Gqxfw&_nc_tpa=Q5bMBQLdSU9n0SjVT3VrQ5ombrCnnSDZ5oymCMg3KuhINy3D8Crxf6aflkH0TIkWtQLhx7gXh6V7g2QSjA&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=d2b52d&_nc_sid=58080a&oh=00_AQPdt5-jxjZH9GwEbx1fKDucZYKGFs8rsy3JXAbHiDZC3A&oe=6ADC9B1B",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQJmdJ7-MLd3_klaNeObOt3F7wPLYVHRf5xRslTpoNiWtiVCacyEw4LAwWR9O6uWOMsDaQ4xT2QTyqt12tv-8RqwRVyfuAipnM6kdy2tSH0faowcWifrpOntnoimCiEjKpFKqOpHy5sh4bLNnDzjcnIeMIlouukgY1I68E4vBpdSNfXNbsDAs0lXBU265xRiZei9Z5VFWux9-g1aqd2kbg2Q7nbhWuoORsdCNr_a8895RGYV88LSPn3HMazOpH-AnRyo5UEfZRLDgmWUy6cnUsNVS3sWVmBwRDfULBk7GJ1R8GHyBC5LHLaGY6UGSoEhjb-wVgxHZeyYuEbf-Q4MuRm5mRoiRsFUYTifkk1pFJXIiKwVW68fi4aqyiduvcPs4zSRW72nCbLPhXIMBxdS1Ncl18kdVD9bXSu3dMFGh2LtvWrGg_X8b3nHza6Bvd2pl7k&t=AQINCpHffqPQUbWND-I",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 6,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247537217380129",
+      "name": "META | PROS | EVG | BV | 30%-OFF | PLANT-BASED | EXPERT-AUTHORITY | | ITR- | V1 | UGC VID | OCEAN | WL_YES | KISHA | MIHAELA | EXP239 | H1 - WL",
+      "batch": null,
+      "version": "1",
+      "status": "live",
+      "campaignName": "KH | Lead Gen | Bone Vitality Webinar - Ocean and Laurie | Evergreen | 3.0",
+      "buckets": [
+        "Webinar — Laurie & Ocean"
+      ],
+      "launchedAt": "2026-09-16T21:05:27.000Z",
+      "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/813860783_1298165708977268_6520021925301573140_n.jpg?_nc_cat=101&ccb=1-7&_nc_ohc=c5EicV9q9WYQ7kNvwF5rVn6&_nc_oc=AdrKqBzuwCZ2fGVJTLLQvr9f-WMiUDmz6O3TZ4-F24gfhfC1KPZx7VqJkKEdJM9znLs&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ALfz3TcEAAAA&_nc_gid=FPbEf2jz94NBzCwpXNFHHQ&_nc_tpa=Q5bMBQKCYDeY8OQxPttwQg6p0OXtGQYFRZyGJxKOOBTUgVYQK2vfjhB9E3bBZfrgQvNHd-5PC43yUcmcSg&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=d2b52d&_nc_sid=58080a&oh=00_AQNq-eMNGUOEh_We2JZqmB6VRRJvJAzpXXwh1aX_9BEY6w&oe=6ADCB0A4",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQKqGzCGvGu2jfvHn05HP9tWNq25ag1vJYlMGcjJ-e4sknKNlNGh2FunRHQc4lkAm3y85UeitOCB4N50kQyk_Fzut-FrbF4Swjgg_41jeElp5Mq_sundlezU-lPuWB6h2nvzPo7m4bnrPwupHwy_MD11JTNpeXhj-5EiHsGNPECVJ9QoS1mgkF_D9JAXPfv1D-4mx-yOHlWZu0d2rYmLd13tdLhRi9WaU20BE-f8PNsQX7FUTD1f6qqRJyCsCJKnjhTTHOHm5C3AEg1ryz8m88njit9Gnhj8H0tGSSJl2lLfoyGBLTyvFLI07Qcz3e8R-ZOn_fAPswZUQq2aAF3NysvATAKbHtG4Q3zeNEnpB_hiY5xyhi0CUw-doWhUwMuCygHVPNquKQzCNCKwFhX-DoktFfIIduJUUxj4OAwuMv0fPRJezwEpQQh3jBU3xcJYWj8&t=AQJZADSUsdcIeHf9omw",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 6,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247537217770129",
+      "name": "META | PROS | EVG | BV | 30%-OFF | PLANT-BASED | EXPERT-AUTHORITY | | ITR- | V1 | UGC VID | OCEAN | WL_YES | KISHA | MIHAELA | EXP239 | H3 - WL",
+      "batch": null,
+      "version": "1",
+      "status": "live",
+      "campaignName": "KH | Lead Gen | Bone Vitality Webinar - Ocean and Laurie | Evergreen | 3.0",
+      "buckets": [
+        "Webinar — Laurie & Ocean"
+      ],
+      "launchedAt": "2026-09-16T21:05:27.000Z",
+      "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/813332470_32069660889335960_9032700459903564521_n.jpg?_nc_cat=106&ccb=1-7&_nc_ohc=v4ZvINtTIXEQ7kNvwF-D9zN&_nc_oc=Adq68KiNkZlajdGOhZ_RFNiiL_7xET65NLhNlwcIG0410D73V23pqhi8H9CTU37tH2A&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ALfz3TcEAAAA&_nc_gid=VEmtSQnsa5iKCPRLkx2mpQ&_nc_tpa=Q5bMBQJiDHZCJj70CTjpj0buh42MyvlM0gGDAaqoBdtmKYT0jWQGDk1HHg-kAQif6gQ0HE3FoKXjWerp5A&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=d2b52d&_nc_sid=58080a&oh=00_AQPe2lafK1VEIh8N6AkjNSoPWbwc8Vb9M5nQL91jwsIlZA&oe=6ADC92EF",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQI7C31vg8q_nt4g51EhOshdBzpkBb4VMTBM2dJrNvRnrOKsgSlV4kLewxua2jF8OWhEp9hBQYlhTwGvyZlbhFPXKQRC2RDxkgbKPQm3adQtVq-zVFwtF0kh9NnvNpSDaPcUl7D-fAj_TxkD4Fknt9m-w2ljAo82ZfmLVWvxZAjMvkJ7VW5cGe3BzUVBb7xmojbJt8R1kFb6W0b4NlLn8Z-3rMgOym1UN1qambcUpx0BUnUXLh9d2H0gJg9k2FQj-uIiLFknvYqW7fn6NUZ9LcpaS1CyO6uIo79aWrq3DnH3H_mIuhFjgo9Xt0uPwI56uWV_SbxdtyFzjNzj-y-1TDM6AzSteKGnZOEnFUnWsr-4yhvYjlY_gVxDWGJ4LQEH-9PJ98bc6X4z_ATzDhMS-HO8KP0-hvlLar-2wvAT3K33RJ19Xpz7Jx71Qxvo6T0yGuU&t=AQJpeKajrVgkvskT4ls",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 6,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247537217610129",
+      "name": "META | PROS | WEBINAR | BV | 30%-OFF | WOMEN 40+ | EXPERT-AUTHORITY | | ITR- | V1 | STATIC | JULI, PAU | WL_YES | JULI, PAU | JULI, PAU | EXP249 | IH1 - WL",
+      "batch": null,
+      "version": "1",
+      "status": "live",
+      "campaignName": "KH | Lead Gen | Bone Vitality Webinar - Ocean and Laurie | Evergreen | 3.0",
+      "buckets": [
+        "Webinar — Laurie & Ocean"
+      ],
+      "launchedAt": "2026-09-16T21:05:27.000Z",
+      "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t45.1600-4/765673096_10162788891086156_3768673410418951110_n.jpg?_nc_cat=102&ccb=1-7&_nc_ohc=lBB6ttBAoZ0Q7kNvwEwuJvj&_nc_oc=Ado_fWxmB7NCw8RVeMRFIsK9FH5FdloQSEtwZ8kX44RhMtsqa3UtsZ_mmvtoCLoJJ-Y&_nc_zt=1&_nc_ht=scontent-iad6-1.xx&edm=ALfz3TcEAAAA&_nc_gid=_fM-4Xe3XJCcm9k0zDxgng&_nc_tpa=Q5bMBQJhZeDKFfyyX4NN0iZdZwMWo7GFQt6B1LBwBdua3mE6mPHMyC-PTUAsYFG91K0gNvC7kv3GejEvLA&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_AQM0wFuMzdHoyqVAWzpUtPjc1HTD-Y9FRo8CI6ig9ir92Q&oe=6ADCBADA",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQI--gcjDeY5_gFI6c4dgRvlNe44l0bhS0NQKzfFTe_7yFCUMUBGsNr6HIJ8Aa0QxL-UN2Nq0uvj52o6P1ElNAyckSlX1MjXI2hdz9YGYJaEKQHMy29IyXmXzA-MmBSYB54b0t5toP_ZopNEcVYAkHmdRQNmiRBl12sr0NA_uLvInqCCn14Z7I5a6l2oVSZueY6Q47dd43k2y9gvB16kBIx2oTAHSiGi57jMjkkqoMTzYSwCWzlmuTwPbuTAJUbPJMNVQSUXOWZX-t6AZmeQ9P2ePUp6FVWxT3aPVfwTYlRb8EWD30HN9YXpy65RpGpYwlAcle0K0o__vy_E_rPSRoIIhatXMFVRiNenHqNk14NonzgpjsdWLBMFBiIWeDrAWfnfb85xoGyVrsUX3xBbUCaHnzoC49unKwXgj07KwU-jopf06eptonv28Ge4jXwA8Ts&t=AQL9BEKqIDngeqq1wjk",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 6,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247537217520129",
+      "name": "META | PROS | WEBINAR | BV | 30%-OFF | WOMEN 40+ | EXPERT-AUTHORITY | | ITR- | V3 | STATIC | JULI, PAU | WL_YES | JULI, PAU | JULI, PAU | EXP249 | IH1 - WL",
+      "batch": null,
+      "version": "3",
+      "status": "live",
+      "campaignName": "KH | Lead Gen | Bone Vitality Webinar - Ocean and Laurie | Evergreen | 3.0",
+      "buckets": [
+        "Webinar — Laurie & Ocean"
+      ],
+      "launchedAt": "2026-09-16T21:05:27.000Z",
+      "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t45.1600-4/761378458_10162788890996156_6604105893796977926_n.jpg?_nc_cat=107&ccb=1-7&_nc_ohc=yvAZS3yYKC4Q7kNvwF1dFpn&_nc_oc=AdoHD4Tb1ajKYggJH9S5kCpJTdsg1AazczyqLmtiQ38AOH9nm9y7_VrOUwRzX4-Eskc&_nc_zt=1&_nc_ht=scontent-iad6-1.xx&edm=ALfz3TcEAAAA&_nc_gid=c149GpSavIHnAwxgfidMhw&_nc_tpa=Q5bMBQLLXwgUhSvSbKRJss3jaK6SBboP30KeJcifr-kYgkLYSaDgZA-0Vt5duZbw1glO8ddX7jgnWujTYw&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_AQMYgdsHKjEe_rpUEQ7ViU2jr_ElQR-rNTlKWYMnwsoTGw&oe=6ADCB1DA",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQIwq53QH0u2x9jUD_khkl98EHMB7t0W7qLDSI7BmZw7JX0POs6TWerZAUpCGxRgutURmlI1MdcSTFKPrgbDqPNmburmtNlW48XR3ANtBoNA-vdnpIa2ObPxpFZSWmIfGX5VU2R-la8yZVPJEvp15dsuyRbHCC5Jt09GM9bl1s-It7LTnGboXC2FgbzWbTOgYI1sppCOY3tNsrFmrBHFiY0CRjDvaR0SyI2IL8sGYtPbXCwS2zaEqaW5dAcna5_pRcA0o9gvTtU8EUqEPW3nBbXEvGOyMrpA9eUe2c5DRI72ni7_07F0n_xJMD8x2gzasMxHoZJe9IaIwqhEJS2oTwlVkbQlJRZwJ5o-XBLI_gW_F5InJqEGHmh01fe0gAmkIOdGlzsdEy-sHQe-sO8ylQH_9tTWcaBtvg1SiCoRqeQsMSnByiBAUFYH00KdKGhWacI&t=AQK-H9bmf6BprH0JMGE",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 6,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247537217510129",
+      "name": "META | PROS | EVG | BV | 30%-OFF | PLANT-BASED | EXPERT-AUTHORITY | | ITR- | V1 | UGC VID | OCEAN | WL_YES | KISHA | MIHAELA | EXP240 | H2 - WL",
+      "batch": null,
+      "version": "1",
+      "status": "live",
+      "campaignName": "KH | Lead Gen | Bone Vitality Webinar - Ocean and Laurie | Evergreen | 3.0",
+      "buckets": [
+        "Webinar — Laurie & Ocean"
+      ],
+      "launchedAt": "2026-09-16T21:05:27.000Z",
+      "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/808414556_1826419441850625_44334572153951882_n.jpg?_nc_cat=103&ccb=1-7&_nc_ohc=Ol_-6hUEJ0EQ7kNvwFte63Y&_nc_oc=AdqJ2GrG04v8fMDDXCHPo4QKUn9mLQPkpf5wXprNPblBXrFJKHYjPbx9-ihOl1EhBbI&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ALfz3TcEAAAA&_nc_gid=GMXYcc021MwJVnBv38i1fg&_nc_tpa=Q5bMBQLiOFpd3e8qhH5H0vKoQBQXuohF07kAaLWrSsiIdVM-xJhhWeIapxImIT39u_ygN3ssl3oxXqjkpA&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=d2b52d&_nc_sid=58080a&oh=00_AQPMys7u_HNA9z-s4XiwEV-DRGpnZ2oninCsFtLzaz403Q&oe=6ADCB7DE",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQIXMXBZVxALU46QraWO_jKv9lwATounb6ZgZ7fXI8jFLCU7douOZcob20bnl-IobXhpkUkSjilg5fhWQlQCHhbJAgtGBiQ1kNGw231xzvOjxPc91D-_R3xeHjJJswTlfRmI-hhONZ6bhmfxmzTYluZv2FF-G7frn2kW8CTclEaedMzfauhQanM0WnCYYGirf5RCUBih5fbkPZgAJxC8o_58GQH4kRL4sPVlKy6ZysKiTZI7ypAAU2kpkxKg_P_mqZTjg9wbulPuPjiW_2iKKSf2JgSAv5g0E03JZ_eVzpwsbBlX9xD8aEizudDTX0K4PnPNHQoyp-Pem46XJgY3XBozpu6euvx7m0H4h_bVknhcWT61ozxXeVUQGtM1lbZSs6SIZt5RdwjF_FH0wchNXHFYxv4eIn1mxhP81lAT000UJVpenac3xrnt6qMLYDsqxPo&t=AQJ9dnRUaQ8RzOsNDu0",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 5,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247537217410129",
+      "name": "META | PROS | WEBINAR | BV | 30%-OFF | WOMEN 40+ | EXPERT-AUTHORITY | | ITR- | V2 | STATIC | JULI, PAU | WL_YES | JULI, PAU | JULI, PAU | EXP249 | IH1 - WL",
+      "batch": null,
+      "version": "2",
+      "status": "live",
+      "campaignName": "KH | Lead Gen | Bone Vitality Webinar - Ocean and Laurie | Evergreen | 3.0",
+      "buckets": [
+        "Webinar — Laurie & Ocean"
+      ],
+      "launchedAt": "2026-09-16T21:05:27.000Z",
+      "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t45.1600-4/762548101_10162788891061156_9055074839250374675_n.jpg?_nc_cat=104&ccb=1-7&_nc_ohc=kQEdmWuGI0wQ7kNvwERwZ6H&_nc_oc=AdryPsRYkNqLPV8f6bwLkVGnJj0Drx6a4qhmwNaHlFBXi3GXWSxQSr0hXN7gvujYA84&_nc_zt=1&_nc_ht=scontent-iad3-1.xx&edm=ALfz3TcEAAAA&_nc_gid=NOpevrsdtii_OfT7etcSrg&_nc_tpa=Q5bMBQI3KkMj840Kqrj2jTbzVZxaefavNzBEpFWqBr2bIwj0vIPlm726LtYB2lZJtjX0VEDXvUh9fp9PSg&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_AQN_EGKGgrwZpwwWu4JmgQAMKnr7d8shLb28twDKpZgh3A&oe=6ADCA62C",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQIFMctK4rKWCiB_JL6QF-Xk49QQeJHDZo32w-mC-uaDo2AyfjxvBa0jXDtVu8MguWeT88kKjzb0rsrSzorucD-G0elU7LrCiFKw38lY2y3TiFfKwnKq7tPI0_KiDxusYd7D674gIk3erMZjIbZcPJkpdrYMVVMOyg0orugcs4gZtcyRZ14n5-obzrTW8tHsBaFHx230Vk5Q_o2aSs0mhZWgJQq6MrGROt_tkI89-b1rzbbViyshH2iXgEB0JfjK0mUsv8qJJ1gJwuI2CcTQFs5CcuyxeQg_ZUJMwoD5glEyuFfcqHuhpnTWL--_Fydqsh_CsI14dayi1Eel5v8ApYLe-YTFIuVChevVpj6wgL1FLspVGVQ5UImGWzp_NQbqs1K_SxsYr9jCeOu5LXN3ItO4QCR0P1QcIH7ql1bEsUPZN4nhX11F7gbCv4NqpvWDdH0&t=AQJ747NeA5Zwxk7co7o",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 6,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247537217780129",
+      "name": "META | PROS | EVG | BV | 30%-OFF | PLANT-BASED | EXPERT-AUTHORITY | | ITR- | V1 | UGC VID | OCEAN | WL_YES | KISHA | MIHAELA | EXP239 | H2 - WL",
+      "batch": null,
+      "version": "1",
+      "status": "live",
+      "campaignName": "KH | Lead Gen | Bone Vitality Webinar - Ocean and Laurie | Evergreen | 3.0",
+      "buckets": [
+        "Webinar — Laurie & Ocean"
+      ],
+      "launchedAt": "2026-09-16T21:05:27.000Z",
+      "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/813242867_1152492233900016_1022398198363903266_n.jpg?_nc_cat=100&ccb=1-7&_nc_ohc=Y3_xNmloI7MQ7kNvwEF47q3&_nc_oc=AdqF9stbY5VRXZ48ruDKOAtf2Og4KmVYTze2eaT940gP-XdhmojRCNcaQyQvkwP4070&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ALfz3TcEAAAA&_nc_gid=KU5413GyBXs0KDfX09m0Cg&_nc_tpa=Q5bMBQImc5vRHOEtuCPj8LuVWlzIGodQmhYYsPGtoeTFNubIj2yNYJGZXUZ3AOEXIctYuAPyZcEKLarnLQ&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=d2b52d&_nc_sid=58080a&oh=00_AQOAM_ztuY8a5FGqbsNLIYUpfzRSUW6-ID3-ZGrx15Cq8Q&oe=6ADCA1F5",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQJX-ASAZ3MDLVBdESsgVjTfT6w8vanE5QexYPlenNF9gQEzZuf0MFFllK141HgPE2vuTdAzb99ZHdNneNxUR0hUdL_C6STfM8yAy0jaPX_IdpR57FBbhgBMICK054RkDsxmN9voqZiTmMILHrmBhv9u0J86coUrjPCk2913VQkXe0N08aIrgqspvrO1pgzDzrIChMgak3A5o7uyiryQ9i4UWZuuQRQKGz3Dab2f2m7jubkOd6b83VPcp4Y0fu2LR1xLKxKiyYcdHl7QyD0ZvEy8srEMOY-adT1AbETebEMBQgSTkWTWn1l48_Zko_MbPKZep97Wu0Xk1znTaumFEHLu9tHoFJ28TYvDSfMdtuPDPah7-xy5o1husZLR-BcHmok3l-u4z83DgK3FGYmu7oTbd4uDNrxeMva5LNdqE-5pkOe0To9eHF5CBzw-P4DiEWY&t=AQIKJrIqIXfKsqJLtEo",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 6,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247537217580129",
+      "name": "META | PROS | EVG | BV | 30%-OFF | PLANT-BASED | EXPERT-AUTHORITY | | ITR- | V1 | UGC VID | OCEAN | WL_YES | KISHA | MIHAELA | EXP237 | H2 - WL",
+      "batch": null,
+      "version": "1",
+      "status": "live",
+      "campaignName": "KH | Lead Gen | Bone Vitality Webinar - Ocean and Laurie | Evergreen | 3.0",
+      "buckets": [
+        "Webinar — Laurie & Ocean"
+      ],
+      "launchedAt": "2026-09-16T21:05:27.000Z",
+      "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/813100948_1423696812982641_7593323021649236580_n.jpg?_nc_cat=101&ccb=1-7&_nc_ohc=wGfsCHadB0gQ7kNvwE5cfSV&_nc_oc=AdrDKp5qn-6L48aGKPF9Odauo2-jIqKvEZM48QqYIKJ_lJdFzBmgAuqf9thLKwh1WYA&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ALfz3TcEAAAA&_nc_gid=suQfRL8ZwA0RLjpsRTubyw&_nc_tpa=Q5bMBQJjmqik66nZgKjcAb1JoINTeCWZE1sK6pMlDuWn93rB-jpEvcTkLohcHtyO34K7hAVOQPibna2QRA&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=d2b52d&_nc_sid=58080a&oh=00_AQPre85f0lj-82YkjYmgXlQjEmTNuNUPOX9kEktbmh6Z0w&oe=6ADCB060",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQLhCwJ-U8pEYCGjTRd8aNqQbQmYhYR3K5xqYImMckLu6TdRJ9EekVJFaWJZT-SdmOJHdPQbbjEoq8arepXyyxpwz26C_CePSojkRDwsknmJ84QDwd5gbpvJmvjut7vo5BxUsrxHQaUz4vUd3yUM0iJiDBzRMysVu6wTEZrKnfcE6w14MzmXrWUhqmjVB8v_wXoLLmECtdxSnLz650S2tlQ8w2jX7-Ga-3v62yzqmskesqvzTZK2Kz_YobwqDyXM4wk1abnKD7kxJX663fPSaojyumuLzyflNdj-vhPMvLNg1SiAo7KNrRP2718ObjiGhw0ODMjN7-vKejLWkwE9T0Wemmg_q-Cug5NlB5Glv0kwszUG8Hro1ik4zM1OIB_V6PYU9ZJ4Ho4LWT0ERvrrNu-M419frZl11fZZnv4NbyyuI8Jf9xo-Y70zbHRs_eqvJj8&t=AQLA06ipMxXc1zG63dM",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 6,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247537217310129",
+      "name": "META | PROS | EVG | BV | 30%-OFF | PLANT-BASED | EXPERT-AUTHORITY | | ITR- | V1 | UGC VID | OCEAN | WL_YES | KISHA | MIHAELA | EXP237 | H1 - WL",
+      "batch": null,
+      "version": "1",
+      "status": "live",
+      "campaignName": "KH | Lead Gen | Bone Vitality Webinar - Ocean and Laurie | Evergreen | 3.0",
+      "buckets": [
+        "Webinar — Laurie & Ocean"
+      ],
+      "launchedAt": "2026-09-16T21:05:27.000Z",
+      "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/812903468_1374810301529226_520137535166730579_n.jpg?_nc_cat=103&ccb=1-7&_nc_ohc=KuaX0TjF-EIQ7kNvwFpZdgH&_nc_oc=Adpi-Y1E01FNIheBZ_I1VhyRA_tudp3-zELUEyTeFP86_BconTJE5O9aHaG1HMkGR4s&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ALfz3TcEAAAA&_nc_gid=MOjCq56uku1TAjVQ7SCw0w&_nc_tpa=Q5bMBQJhRHcFJGPvZS1xpfFIrzHB1ETs6DLl-dw7EDknibLjWd-S9qVB2zCVpKlMCNN4n3WJrukVZ4poCg&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=d2b52d&_nc_sid=58080a&oh=00_AQPzvwNWUl9SHYtTzeSp4vMDI9FAbNuKcpMHs0jEt32oDQ&oe=6ADCA01F",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQJSgIe9u6pYlFkinZo5UrpNhl1s1XsXxsUAJFJhydgdoef_TUvSKvookMt853gZsFMuVq9udctmahlXthDLn7cM_ocBvT7iNG_jGvf-yEuUkc7EplxwD8W8hBv3QeKH51ZZbhNDkNbl7WP6kmuUN51YYFvhQqXTGvH92NPOw_yLRtTM98e59rs-LhBQigXUdc79V-MOQfrVT8gmGg-848Mqcx6yZD7aaQoGGLJ9Lx8CqhDmQ4dt8dyTDIVlW9ggdhJU5dj9jdhlevt4L2KrsLzYe9x0BezDyJuRVjfr3hTx1b6TVvUB9uSch2R31QSL7zW1BzFgX72256KUkZQRQS1w30IJ9Z-x9HTo4FQFTmbqitiWVgRaNjeVp2dxxdKwzPMLEBKmWMZNytlIwGkI8e3U3L92acsYCM5EBgv69Algg-Etik3te_hTFINwcu5o0uM&t=AQIhnDHmjyDcXcEv8IA",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 6,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247537217870129",
+      "name": "META | PROS | EVG | BV | 30%-OFF | PLANT-BASED | EXPERT-AUTHORITY | | ITR- | V1 | UGC VID | OCEAN | WL_YES | KISHA | MIHAELA | EXP238 | H3 - WL",
+      "batch": null,
+      "version": "1",
+      "status": "live",
+      "campaignName": "KH | Lead Gen | Bone Vitality Webinar - Ocean and Laurie | Evergreen | 3.0",
+      "buckets": [
+        "Webinar — Laurie & Ocean"
+      ],
+      "launchedAt": "2026-09-16T21:05:27.000Z",
+      "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/808450618_1069095682543398_7425430675113606_n.jpg?_nc_cat=108&ccb=1-7&_nc_ohc=hWKM4PWrJ-sQ7kNvwGbCO2w&_nc_oc=AdoOiiPL_M1TvWwiK4-GFpP35iH10-QCxabONolqYCvxh3_mg6qC8uKOuZp1yb-6QYY&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ALfz3TcEAAAA&_nc_gid=ZYF4zjVhlDx1NhW-uFOPTw&_nc_tpa=Q5bMBQID7g8GKPhSBpMD1qd3eznOiauqB35fkrm_wi2W_C6WwhoTiYnmwYklaKTczx6VrD5yBEC2s0qotg&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=d2b52d&_nc_sid=58080a&oh=00_AQP005P8ZDUQ9K6ErfhoXHNtBbhg72rnGlXZXqwGoWiPGg&oe=6ADC9366",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQIbfq1ST9uyvAvAB05u2oX4-rVd8A--Unb3WjJBfvBuVZM2UOXdmWOlpv1OhZ7zzE9V167Nk1ijqXdK58YGo-qKJR27GDiodXYFroXRwW_tmiiaRIO3u9Ov724b_05jyWUCMHqN0jeNlrkWiSpD7lj1tmj-z076TBbTwtuAbUNtmj-pWODcOPghUGmIba8yu97NFxl7qlo3Fd8nSfDvrpkrpdeMPvMj7088wOcnvYhuvprkILiaBovbc5l5LwnonLTFh6xxz-gncPetygbp6UlD72Mrl3OiRSvc13cqS3dMOoDbTOsTHuXGak8PhfKfy-RGV3DBZcIqfBG5crRs0onh8Is83I_LCkTIbrrG9VGgvFmovAu3JrZc5Nz9jO8JnLMd7o0Jt6zBcgfqMSejZD0UyObH86CqhGmbCOgZUnp6W6HOGu_yVDwKmS9RqR16a-Y&t=AQIxdAfb0gWfUCTJ7S4",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 6,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247537217430129",
+      "name": "META | PROS | EVG | BV | 30%-OFF | PLANT-BASED | EXPERT-AUTHORITY | | ITR- | V1 | UGC VID | OCEAN | WL_YES | KISHA | MIHAELA | EXP240 | H3 - WL",
+      "batch": null,
+      "version": "1",
+      "status": "live",
+      "campaignName": "KH | Lead Gen | Bone Vitality Webinar - Ocean and Laurie | Evergreen | 3.0",
+      "buckets": [
+        "Webinar — Laurie & Ocean"
+      ],
+      "launchedAt": "2026-09-16T21:05:27.000Z",
+      "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/813212131_3417300935101347_2056084073587665010_n.jpg?_nc_cat=101&ccb=1-7&_nc_ohc=m2O_obkEM0oQ7kNvwFCJT2b&_nc_oc=Adop-o20i3dMISfJIAEvjD-gzPCGiWY3oetcmRZia258k8J8McTv6HFR37_LBjc1A2A&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ALfz3TcEAAAA&_nc_gid=GU0hfYTZMiJ2PB_bIzHm2A&_nc_tpa=Q5bMBQL392w-OOU3wIeOcr34yvPs0X3BAx_tXpHZDN1hsfszqI4GDp_NCTJtMfRWognWns5ePpVeT7-C8Q&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=d2b52d&_nc_sid=58080a&oh=00_AQPps5v-3tlxrtUaN4LKvn4cjX3ZkiZ1SRovVwVL2N7kbQ&oe=6ADCAF43",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQLDph2e0_IagMdgVmqMin3J5JaCGFc18uTIRJZmeB5EGNKtI3oQZcHbqBXzf2DIpqFFZIvK0tCCeykYkUMxfyUcb0t18vJ3gEJL9BZXBOwgFMxNnJPERdEx_Gbqm9NnrkcG_XImZZjOPOdfSIDcE5nAIXNxqHCfJ7cEa4sictaRQiS1bB7xYO_CD_hPUebkLwi2lWBkgmAhh-ia72bsIJyO8zVE16_D5UxGfSez71haqRILyrjF4zILceMT6PhWZ24KRpMKshXTQbsniS6Lpgou0GZii3-cuAr9WsK67mYaP8d8EktvLeBM6UfgxwMAmZB1Bw2xrBaInWtUY2fEJjjV62YWL2iFIklXqYW1vB2R16o1cQDZV80VFb-bwoOm-EPHpyog0FdpYngDMF8RBqI91tSOCldPVqUurEijRSMr6fKwWyyyMZDOuKALHg1Lzfg&t=AQLA0DdSBDtMBpo5uU0",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 6,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247537217570129",
+      "name": "META | PROS | EVG | BV | 30%-OFF | PLANT-BASED | EXPERT-AUTHORITY | | ITR- | V1 | UGC VID | OCEAN | WL_YES | KISHA | MIHAELA | EXP238 | H1 - WL",
+      "batch": null,
+      "version": "1",
+      "status": "live",
+      "campaignName": "KH | Lead Gen | Bone Vitality Webinar - Ocean and Laurie | Evergreen | 3.0",
+      "buckets": [
+        "Webinar — Laurie & Ocean"
+      ],
+      "launchedAt": "2026-09-16T21:05:27.000Z",
+      "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/813100983_1642599640585872_1533164239987664280_n.jpg?_nc_cat=101&ccb=1-7&_nc_ohc=A8bNkw0FiwgQ7kNvwGnCZFI&_nc_oc=AdrlpvpXONrbvCvafFkTtBw20lma31nOa2WeIhMrcqv8Q0Y6NvIsbEPKfpxelslRDP8&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ALfz3TcEAAAA&_nc_gid=Yz8I6pVpfnDeEIvHyP90SA&_nc_tpa=Q5bMBQJ2cJ0S0V3Umi2n4Qwzz42a0gBaURlMuHdytvfar_pHpaIDFM0h9C7fLoYeWmMyy4XfWEGTpLG9VA&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=d2b52d&_nc_sid=58080a&oh=00_AQPFYaGfLG7mYu2XKjIEALlZSlE6dl2T7Ypkdf2KnQHMIg&oe=6ADCB942",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQKU8B5RaNcN4iBMsrMfLPo4Fx1IpQ89Ak7i3f-j2bqagfRQCsDIW0kQ5TEQQqDvlsGnVA6a_frU-E3MaFRNHle3iJww_b2dltGL6GHhnDOpp9G1z7ZeqfD9OTLiduooGTo47iqhad_JtKL3cZ8PtVSOnAOxrJZzIX6RkuZnVEB7j8UVLJabDkCPI2eM882ra1BOfBu92phH6_eknA7tqC4uO80TftwTRPGfFN2KOIXSKN9u7ylpydUf1zUsn4ZpksFEUZz9Rnjfc2Kj8i6pOofd0hQTabSs7S6KsB9lSXA0fsWBkzwEkqvgql3GPZX32C3aM23BOWvPK14bEHzzxHwP7SGhaOFTINyS2TYSrRPLKNqy3s87YS-Nw33df8pJ9UplUQGptfcL0cYS0PQCgbYPCozcgMrh1B3r94OJcGGVwTn_713aoj4dVeYr6yg2Yr0&t=AQLkYrg4tWUvJp_EMpo",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 6,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247537217370129",
+      "name": "- WLMETA | PROS | EVG | BV | 30%-OFF | PLANT-BASED | EXPERT-AUTHORITY | | ITR- | V1 | UGC VID | OCEAN | WL_YES | KISHA | MIHAELA | EXP240 | H2 - WL",
+      "batch": null,
+      "version": "1",
+      "status": "paused",
+      "campaignName": "KH | Lead Gen | Bone Vitality Webinar - Ocean and Laurie | Evergreen | 3.0",
+      "buckets": [
+        "Webinar — Laurie & Ocean"
+      ],
+      "launchedAt": "2026-09-16T21:05:27.000Z",
+      "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/813020655_4556133321321507_5256327716108314861_n.jpg?_nc_cat=106&ccb=1-7&_nc_ohc=09XwwzHCfg8Q7kNvwEnuIq1&_nc_oc=AdoIPEMEWE4-m9a0osbAB7pEzngGQ_Ed9xfnQr_-yvxOgkS8SdZeq5ofnYi-eMg-ppY&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ALfz3TcEAAAA&_nc_gid=xxX-6xysXYiWMaH_BIKtKg&_nc_tpa=Q5bMBQLREF07uEgq9lj5bJSd__MAPRrEpViR25-N5HPwsKMiYYpG1vAQlQAmz_3uNng-FzEBpSKpUEiqBQ&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=d2b52d&_nc_sid=58080a&oh=00_AQOvQlUfVR40Uu9F_esuUc_WByqrWKH-GMI9HXuQBolMZw&oe=6ADCB2B1",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQKApOxSJiqD42lpn7wowRKwvadbYWYXdvp8_3IcIXWhHxWDlj4D_hP3Pld7_NUauZ8obIqfm8c6VzBXL11ViNlac5kgzdTtaZAvDszuWgDZUoSQi8PISRaGUI2CXKONwBm8A-QdMVEphCFdCePuxJCD7lETFsQ_63Zd3NUro8HrqFfy5p2GkZ05ABE_NoiCmk5jzJkKqj6UCEmQV6bxdEaTTF5QJr8tyMDx6DZy6poQV_EcnVJL8qy6tTI-PMuwhGGHSFR6OOkm8ynqE2yhOmO5Vuv6_5flAxotxT5IZakyZ1G-0hRFl4FmRJDEzFcwJ5Xija3hUIWdGiqxg2qb5cVforcmvjzQI4tvZ4yjW5iaqeZxOzDB_k48AJo8Ag3LWEps5jR6EUCWxYbsPjcojicFCobP83B5Z74rUSUxJEpyjcGH4keIlA-JxrXqxOsiJR0&t=AQLigKv4ua_A1C9c9NY",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 1,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120246049906120129",
+      "name": "VIDEO SHELL | META | PROS | WEBINAR | BV | 30%-OFF | WOMEN 40+ | EXPERT-AUTHORITY | NC- | V3 | STATIC | 4x5 | JULI, PAU | WL_YES | FRN | JULI, PAU | JULI, PAU | EXP249 | BV WEBINAR",
+      "batch": null,
+      "version": "3",
+      "status": "paused",
+      "campaignName": "KH | Lead Gen | Cyrus Protein Webinar - Jul 23 | CBO",
+      "buckets": [
+        "Other"
+      ],
+      "launchedAt": "2026-07-15T04:54:27.000Z",
+      "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t45.1600-4/742461914_10162690471821156_8518820645457319782_n.jpg?_nc_cat=101&ccb=1-7&_nc_ohc=rtYfYk_24C4Q7kNvwFv-O2-&_nc_oc=AdoKmaPN4M3j5_IxYj1HkPbUAtYWguVLhHOYmiO6Lcy2IoD3IMqgmiq_XtJmVdUE46c&_nc_zt=1&_nc_ht=scontent-iad3-1.xx&edm=ALfz3TcEAAAA&_nc_gid=IQbZ0hGP7UrvpiUXZ59TqA&_nc_tpa=Q5bMBQI1bG2mdXdbD17wyyEsdaJRKkJPmtHuyPVU3wqGtppNvRp3R-wc6WWxtag74ok0ywlxoIC_2Xmotg&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_AQOph6rk4kGAtf8T07u5hGzZmhUCU95uXaP83y9AwugWXw&oe=6ADCA0A2",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQJ6qHbs66o6yhXklDCgWxEMiA9OQA2Cgz8tfI21NOOScRBmO1nCv9vYGdonBlHxpQkPvwWVtvj12GlEbxEoM5pi9jjA1I4NeCHMc_NU0jea96MkTAXhn27QNYsaT9tx3iqCgzzfgMsjR7DSvp3i-cwFDPiUJ9O25ug9apGfLN4W7JPQQC0kHd_dhWXK-ORMcCWg1T7j7hcY69QENMuUdD8TUwX71_RiNQqEg8nI7qFbh0tqvYmZMYOVP6rNOfS6ii7geGsOqX0y7XS9hZkPlXJsGtA_92YOW9jFIq9BesZj9lYf554njHxBYRNMj9bMxbOOUIzZh5-K1GzmakHG0qlPB65Ib7A7Vi-SlxECgbwe63WSGUejR4xZCALsOGsmaR8GEeZ4q9FijpRlEKpjwmwTUhvNySruMkLMcJi1BFpu6oYzvNhrK-QX1NyhuF9Y3K4&t=AQLQCuX6nhIGqNKlfh0",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 1,
+      "frnMatch": "name"
+    },
+    {
+      "id": "120245891012030129",
+      "name": "META | PROS | EVG | BV | NA | WOMEN 40+ | EXPERT-AUTHORITY | | NC- | V3 | 4x5 | STATIC | JULI, PAU | WL_YES | FRN | JULI, PAU | JULI, PAU | EXP232 | SPECIAL OFFER + WEBINAR",
+      "batch": null,
+      "version": "3",
+      "status": "paused",
+      "campaignName": "KH | Test/Scale | Bone Vitality | ABO",
+      "buckets": [
+        "Other"
+      ],
+      "launchedAt": "2026-07-10T03:51:17.000Z",
+      "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t45.1600-4/744870364_10162690350326156_5899039085010696804_n.jpg?_nc_cat=100&ccb=1-7&_nc_ohc=UC6rSFOhqKsQ7kNvwFjXSfr&_nc_oc=AdogtBwYMkdyFzP2sDnbekGaFO0iiPB8v-EyKKB2Sy50BPaapAZR7BUR8Rxa0c1K60g&_nc_zt=1&_nc_ht=scontent-iad6-1.xx&edm=ALfz3TcEAAAA&_nc_gid=aGAfZCj6uLIZUvySW2tX-w&_nc_tpa=Q5bMBQK64rcR6Tq6jK8tPCoNwzAJEuOm36rLxaRutYVSQD7hQNRAU365jVbDt9nYnH9F4vmYwyrzf-bt5g&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_AQMSRrgPMbVKvruKdIQU4DJoxF3vNtQuoAM3w314z7ZU1A&oe=6ADCB6DD",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQLTOuywNoB076UzUPBZiZkRFy4Cm7OjRTIxc1DdmtYhE_bPOAefO88PpRctfrAazdfw6c22fH62g9bUmYfF9OQO4QhqAbw0KSXdtM95mTtGp96N6EpFn8GBCNBzQkMoTXb3CJVqZ7TYC-maoq_Ml3W5Nihx-h9_m-EbjkNNo37gStflT6Ur5bvDa8_zUUnWl9jstAwdDUtcUh1QWR-EttGG6vI77a71hohUpzbwcBoh4cNhTCUpTI40DP7WpVo5VlUxKqyLZR_II_gHkCMMdwfFA0njOXT_9bTXLDtYzOG3QPSJ7h4jNUsESJuR6WV_v0j86n8vj1K_encAxkyJ2n54QfyJbFgnKUZYB0GwVZI-VKt33c_sK9ALxrdZ66XpbriYf32AUP6_S_M_hjLiYG3nZXb90MIFYzEDAZOywReCXnOmw8_1PILiN0Ac6tWXyKM&t=AQJMCSp2kCW8qVZgagk",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 1,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120245891012000129",
+      "name": "META | PROS | EVG | BV | NA | WOMEN 40+ | EXPERT-AUTHORITY | | NC- | V1 | 4x5 | STATIC | JULI, PAU | WL_YES | FRN | JULI, PAU | JULI, PAU | EXP232 | SPECIAL OFFER + WEBINAR",
+      "batch": null,
+      "version": "1",
+      "status": "paused",
+      "campaignName": "KH | Test/Scale | Bone Vitality | ABO",
+      "buckets": [
+        "Other"
+      ],
+      "launchedAt": "2026-07-10T03:51:17.000Z",
+      "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t45.1600-4/743833412_10162690350306156_2531533188659373033_n.jpg?_nc_cat=105&ccb=1-7&_nc_ohc=kLaNIvHjrlIQ7kNvwEYAp0V&_nc_oc=AdqxUBYCu1Tb87mxbicXvGHEThT2QOxTTwzT_OA7ILidltnmaT0uw9OugJfSOAey9hk&_nc_zt=1&_nc_ht=scontent-iad3-2.xx&edm=ALfz3TcEAAAA&_nc_gid=p5ySsV2_exAuzw8P82QZvA&_nc_tpa=Q5bMBQJ-XtKY32kL7wc_XLpnb3fU7g1Lp6BrgS94RemUgO096lWIBGy9xw19f6kWbgs1vecWY5lm_YgVRg&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_AQPmC4-OPMf4pAiZCZwHrUXh_MWU_adojD1a7oDSqj3keg&oe=6ADC9F2A",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQKSqtJqygfVkTuwkmDkCd7zEvYfd2oTMzFsRwmhq-VMCUHsVQKbMiDgELzsMm4pzQondOER_Jr0A0GJSMaQ9xk3PmHsNeb8tAZ3PJjtRaLydPVtPIkTuCxYX8a38yRyADnCEvbgFwW04UP7Jfz36zO0lcYF65p31xBGPw5R_k7ag2Qsa6u180eDPggaXAmXsdzb7p2R91Hu-_4qK2gxvXHMNMmJWKSADCm-1wU-FWoX66jiFRTUoi9y0lPFM9zCZ0vHsUS4-vS4C2cYWS98-as37u_3wHOZf_zTNEfuxQg79JBDI1mQILzS3TG9i5hj5ESHFDfGKLxoooYIupx6EswVEstDB_-WbDWXtKYukKomlLDRPHTiT-ASiCmqjvu2NGGOg8XWIpQDIFuiFf3VqMfy0Gz3sTcx-4cW5fh_b68mzjwV8eXBxONo9wk9yxKO8R4&t=AQLRwwj8WZmGN9J5A9c",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 1,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120245891012020129",
+      "name": "META | PROS | EVG | BV | NA | WOMEN 40+ | EXPERT-AUTHORITY | | NC- | V2 | 4x5 | STATIC | JULI, PAU | WL_YES | FRN | JULI, PAU | JULI, PAU | EXP232 | SPECIAL OFFER + WEBINAR",
+      "batch": null,
+      "version": "2",
+      "status": "paused",
+      "campaignName": "KH | Test/Scale | Bone Vitality | ABO",
+      "buckets": [
+        "Other"
+      ],
+      "launchedAt": "2026-07-10T03:51:17.000Z",
+      "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t45.1600-4/743361538_10162690350266156_7069098192234847603_n.jpg?_nc_cat=109&ccb=1-7&_nc_ohc=ko5sgYB8zKEQ7kNvwEXZ1t8&_nc_oc=AdoiddYIByCkSiC7a9GqoKv91tVysBWhsaClQWNsv5Lj0DeDSIxDorNPBQd142nn40w&_nc_zt=1&_nc_ht=scontent-iad6-1.xx&edm=ALfz3TcEAAAA&_nc_gid=b_D3oLwIvOG3eerkfxFqdA&_nc_tpa=Q5bMBQLAvvrDd9pO1C09bRfJUphxZZXx_W1tot5NHws__KVstruu-rIXcbekvJip_8LN5OKWtaSYpQRyGg&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_AQOfNsKPt9Q-Iiu-apP2X_gyBEgI0S3fJm3CE77b-HV1Kg&oe=6ADC93C6",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQI8-og1fw-AX4v5IB2lMbB9uxesORt8ejHcw0AJrTiC909gZxI7MnKzlQwi3FqnbvvwG7f2a7ksenKtRMaaJTE3VXPAlAasHGk3CjDMTsr7BKa5cALVvvgaq4NhSj6ij2P_HuNE0jU3VwLEFp_J4Jk5zOtWNZyCZ8j-VQKkL6AE39JqKyRk3JBgwpksZYUe4CeVqvlIXyn60kaaa87vTBBUsnfPz9cYt_YW9ct6jWHJmYhrPWDVPmQphiB9HJPW0Qn9rfOvdW2EXNorfoZEELUtAfmvtdPCeTjgSTR9hHonPmnX3ilDhlpbOPT9U4R0R7slfWL9ajraw8djA-8dtC6UpbDXR4qjz2hsKciVBz4eTkEtSJqkRvxgTdwlGQIU-B13EonOr3IDYi22vomsbb9kGxmD1wTfyCQUEaJRezUGv8Xrff_8YBLk4bD9OWs8J78&t=AQIr-eXSJ7vRpKlK1rU",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 1,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120245890802140129",
+      "name": "META | PROS | EVG | BV | NA | WOMEN 40+ | EXPERT-AUTHORITY | | NC- | V1 | 4x5 | STATIC | JULI, PAU | WL_YES | FRN | JULI, PAU | JULI, PAU | EXP232 | SPECIAL OFFER",
+      "batch": null,
+      "version": "1",
+      "status": "paused",
+      "campaignName": "KH | Test/Scale | Bone Vitality | ABO",
+      "buckets": [
+        "Other"
+      ],
+      "launchedAt": "2026-07-10T03:51:17.000Z",
+      "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t45.1600-4/743833412_10162690350306156_2531533188659373033_n.jpg?_nc_cat=105&ccb=1-7&_nc_ohc=kLaNIvHjrlIQ7kNvwEYAp0V&_nc_oc=AdqxUBYCu1Tb87mxbicXvGHEThT2QOxTTwzT_OA7ILidltnmaT0uw9OugJfSOAey9hk&_nc_zt=1&_nc_ht=scontent-iad3-2.xx&edm=ALfz3TcEAAAA&_nc_gid=rAB-PUWvhkhJna7AIgV2_A&_nc_tpa=Q5bMBQL-idd8bXZaZFqqqHtMTc8w2BxYyDKFZkoQBfbf7oeGsYAI_Tu2fu9nC0NqabUgoIYkRF12sb5ktw&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_AQPMUYPz7_H0TzchsIGCpJRwJiXJsUZ8YT8XrwppbzEjyg&oe=6ADC9F2A",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQJlB_BzzDKtzKiMac5BI38UZxmHEe7-GLPPgg6_okvJ1UK6UIcJG-GAoiu8NIEr_SK9Vx5IKMbkZOiXKMLPojBmXQQMuQS18fFw-gh97CTT76wxpdzHoV33xcg9RvA815VFl5DxZI-l6YIPu-CNc_6lK0TI9Q4-gs3RIOQxmoqEK3_7YWm8KlvhKn91aiXX1VXuEv0HZh4q15t0a2I3qTdGOE63ZJ7sD9gU8XLGKhLw7OPTODn07Doj8exu3p49ke2c_p5hcDgGrlSy0t5tLC29UPE5F4XWs0KHxWwuX_na1bXapK2PNTeG5Av614Xqyu5uvDhklF4rR0R_HU0l01Ui6hDHxx1uV2fRWqsV1MUpzTzP58cnJnlEdK8aqst4vckqIFpEaxhOaolEclWNRl-n2np-_H27Nd8iz6QoaLlTWGBXO0zNdrTohD4uNcM38I0&t=AQKRvjL_ZsqcGFsZ36w",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 1,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120245890802160129",
+      "name": "META | PROS | EVG | BV | NA | WOMEN 40+ | EXPERT-AUTHORITY | | NC- | V3 | 4x5 | STATIC | JULI, PAU | WL_YES | FRN | JULI, PAU | JULI, PAU | EXP232 | SPECIAL OFFER",
+      "batch": null,
+      "version": "3",
+      "status": "paused",
+      "campaignName": "KH | Test/Scale | Bone Vitality | ABO",
+      "buckets": [
+        "Other"
+      ],
+      "launchedAt": "2026-07-10T03:51:17.000Z",
+      "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t45.1600-4/744870364_10162690350326156_5899039085010696804_n.jpg?_nc_cat=100&ccb=1-7&_nc_ohc=UC6rSFOhqKsQ7kNvwFjXSfr&_nc_oc=AdogtBwYMkdyFzP2sDnbekGaFO0iiPB8v-EyKKB2Sy50BPaapAZR7BUR8Rxa0c1K60g&_nc_zt=1&_nc_ht=scontent-iad6-1.xx&edm=ALfz3TcEAAAA&_nc_gid=I2Nr1NsWHbt2orpKqsLICQ&_nc_tpa=Q5bMBQLI12-hPNN-wT1knP1KNH91kUmkmY4mQZqR3bSs_kYDSxFM8exmDpJU9afSY5XjvUB33XknKjhAlw&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_AQPMGuCZGT3IkqZlW-_qNNV1EElyKeMAjDKwzyrMDNg9Ig&oe=6ADCB6DD",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQJW2s2UwV8lk4k86r7QXSZ_nFRe8k7ifCyuT4MMKelCMebkUT27bI4dvL3anCAF7-9-LKTcy6EaY8GMWXbZYy4mcwb855WtyT1uBzh6GqBXPwwb_gMFDxaegdgRJeFNij7IjtRvbXMJfEgLpv2SaYXpwlpNpnZdbsq6bDbxlNjJyGF5An0QL7Web8snSpZr86wWzPZixIdRmFJ1G5jQaT_PKBcGED4sdJ8uRAHCfMX8xkazwbejJFZ6Q6yfgJwA0gKlZfWkUHWtbg6kdy-aB6RtdCvhHFC__ydZ838Mx4ZU5UEpBhUpT-DcCiHqrG9avEKV9p6bW_9qXP71csHCnsNn7w2Tuphcx_h7hZA2eX_idIsyQQk-NLjUZcHr1zkDLpXbHJj8cD2EJKmbi6f-pcVoAdIY1KvwTveV82gJd28Pn_iotcWfxOMnYuzuK6xJ9YY&t=AQKkL2ybuowCXNGYGwQ",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 1,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120245890802150129",
+      "name": "META | PROS | EVG | BV | NA | WOMEN 40+ | EXPERT-AUTHORITY | | NC- | V2 | 4x5 | STATIC | JULI, PAU | WL_YES | FRN | JULI, PAU | JULI, PAU | EXP232 | SPECIAL OFFER",
+      "batch": null,
+      "version": "2",
+      "status": "paused",
+      "campaignName": "KH | Test/Scale | Bone Vitality | ABO",
+      "buckets": [
+        "Other"
+      ],
+      "launchedAt": "2026-07-10T03:51:17.000Z",
+      "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t45.1600-4/743361538_10162690350266156_7069098192234847603_n.jpg?_nc_cat=109&ccb=1-7&_nc_ohc=ko5sgYB8zKEQ7kNvwEXZ1t8&_nc_oc=AdoiddYIByCkSiC7a9GqoKv91tVysBWhsaClQWNsv5Lj0DeDSIxDorNPBQd142nn40w&_nc_zt=1&_nc_ht=scontent-iad6-1.xx&edm=ALfz3TcEAAAA&_nc_gid=ZJWIEfKODrIQHZ7qedkDiw&_nc_tpa=Q5bMBQK6Zr60ssC5dVGzfsPl2BPOWs2UvgZe670aQObIEhxVP-pEwO3o0EJOv5Dti3Uwp9UTn6Ycn7h5qQ&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_AQMYuT-vomHQW11ZhL9XiQowF47XET2-N27sPcHN17kMsA&oe=6ADC93C6",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQI2Os-8xxK_5eMlYAv4Vrt3F3i8ZDDPx3YGIubRlP-xCoCu6bCds2KbxhKcpucg4qfpZx1PktddUw8LAJ-MBWC8nECl8xEjHhz3RzbxvwLYY6dgBFzOkgza7zytiMTVRFzvZRAgwT5x3C4Gq8ztVbXK26dEJ6iFaxtsi5Tq50bcAIZbYwz9v2jFfWWzDg1P859bdjiButLU1B77vKFW0HPcSm75Wt_k6LJ5VFjPfpgSOXmhJIV0vyXJeFig-GMZltKeBJA0Roc_F6ekAL4jj9Q4ycXlAvl8pbamyqVdfDZ0x4OX8j9TIhckprpAHOWhnDPDQO9c71yHvg0bons3WhYasijwNMtqBjIkfnM-1_pf3Gcvbtv-biBTrpYmAqbl4I7yERdAEEgLpATEVFBvqO91O03-SXbM6SdcT8HyN2Lla9XIH1a4gQesR50ikAM9wE4&t=AQLaNUsYGUmB-1mHueQ",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 1,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247093645120129",
+      "name": "META | PROS | EVG | BV | NA | WOMEN 40+ | FUTURE-YOU, BENEFIT DRIVEN | | NC- | V3 | STATIC | 4x5 | JULI, PAU | WL_YES | FRN | JULI, PAU | JULI, PAU | EXP230 | SPECIAL OFFER",
+      "batch": null,
+      "version": "3",
+      "status": "paused",
+      "campaignName": "KH | Sales | Bone Vitality | Scaling | CBO",
+      "buckets": [
+        "Direct Response",
+        "Other"
+      ],
+      "launchedAt": "2026-07-10T03:50:47.000Z",
+      "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t45.1600-4/744014020_10162690277676156_1469551248360532463_n.jpg?_nc_cat=111&ccb=1-7&_nc_ohc=NGqAj5TerncQ7kNvwGBOX5-&_nc_oc=AdqvWDkvzALusH8dzxTBph7Fs6Zf37xR0sNtvXxa7R--HG75QVZLPMwfou-E-jWvf88&_nc_zt=1&_nc_ht=scontent-iad3-2.xx&edm=ALfz3TcEAAAA&_nc_gid=wAMim3G7zflSuvxw28-cJQ&_nc_tpa=Q5bMBQLijV7qABZLVk2TEtffjDvPQsNit0MlFz9nblPS6ed15DU-pTnph_b3ULODKLSl97gDAQdd5iwtTg&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_AQOOR7TC3iyDrAEy1__0Mruz4RlgzaRq74GSJTNaoL5_IQ&oe=6ADCA1F6",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQLkm2OZ7NLoQOY59Oz5hEGGeT4Q9fNE3Dgs4nZLuHXUTbasursNAjTnUQeSLT9dJmKGwOg6OLE8_bX5O6Yyor1AYeQdTfqThYAppIJb2gTiR9JZIx1wHjBWF4-eUlPa4FKKVHqUDiglASU0oie7u7xcuR87D-9-6KieZQ6OkLpmY17I6cMWL2XcCqfdejQolNPF0HOLQHcBoelv9Er0Jzgyz0VybTQfE0OaFcu2rbH2cSWM-XhdzMvrPRQrzx9ccxv3Wej-1J4b6czkwVrBEnvFGdzDfnOmBxdbTZ3nB03Uv8CNXdRqKih8Gp_fCjsd3-iUgpsiUhVeZBglYny8e0h0bE8sWkh-g4pQncq5lvCKQJi2xrQPrYV_9V3vuHFGxHGPts2OP_9ViRmSoR22_lTWHHrrpBLqIrPoMnvAHU4ZpdLfpg8pTXvRUW25icrAU84&t=AQImCJwd_UHEVXZ6ivU",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 2,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247093644840129",
+      "name": "META | PROS | EVG | BV | NA | WOMEN 40+ | FUTURE-YOU, BENEFIT DRIVEN | | NC- | V3 | STATIC | 4x5 | JULI, PAU | WL_YES | FRN | JULI, PAU | JULI, PAU | EXP230 | SPECIAL OFFER + WEBINAR",
+      "batch": null,
+      "version": "3",
+      "status": "paused",
+      "campaignName": "KH | Sales | Bone Vitality | Scaling | CBO",
+      "buckets": [
+        "Direct Response",
+        "Other"
+      ],
+      "launchedAt": "2026-07-10T03:50:47.000Z",
+      "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t45.1600-4/744014020_10162690277676156_1469551248360532463_n.jpg?_nc_cat=111&ccb=1-7&_nc_ohc=NGqAj5TerncQ7kNvwGBOX5-&_nc_oc=AdqvWDkvzALusH8dzxTBph7Fs6Zf37xR0sNtvXxa7R--HG75QVZLPMwfou-E-jWvf88&_nc_zt=1&_nc_ht=scontent-iad3-2.xx&edm=ALfz3TcEAAAA&_nc_gid=YtcarNVFGuuLyVw8_KLSAg&_nc_tpa=Q5bMBQItzv7NzsGrfebtZEXddiljTH_fx5agczTel2v3plU9IxkuZMuaAashkXL8zvAHVoZ2Z-JZFkXCTw&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_AQMq6zOGMbfrDhsrETorzViLgccEvZbMvJ17f4Ri4LFLYw&oe=6ADCA1F6",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQKp0dZ8wW_uPwWAwXJK9Y6jUs-ITWM4qgV8WYZkjZB1bYDGcjzjFJZ3KDh51-ZhMzhlVMw1UxCaHBbW0OxQjiNONW7511pzByL-JOI1yKAptkUO52S-nNoCBpft8vn-S4Qehh27qi6UgQq0fPuLBDIn43GtnbgbcrA18Y3XlN7aGl3uR-03tTRE518JkAL3FqeX6QYNY8rV8PTxNe_BrHekMoJUQO8W7wFxlKMuSMZE85RKUdrS7O7elSlDN7iQ_YZxNw_MSFlBNkBs3Qz2_snbWl6FqSHgi0z-l7_a5fiP-t-s5DavJZWpkXcubuStjcLV9KEMRbror-8lRZ4SafyFpxY5dmxJacAfnL0CCc7PZokfi9RfdkxAuvNlUm1WdVp8J1UDjcIT2rsT9yJA6jI-VN28SOtkBj2Wi_ArZXTlRmddZ1sNkpaIFfQbrMIN0Dg&t=AQKrNt1Ivb2_k-cm2eg",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 2,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247093645110129",
+      "name": "META | PROS | EVG | BV | NA | WOMEN 40+ | FUTURE-YOU, BENEFIT DRIVEN | | NC- | V1 | 4x5 | STATIC | JULI, PAU | WL_YES | FRN | JULI, PAU | JULI, PAU | EXP231 | SPECIAL OFFER + WEBINAR",
+      "batch": null,
+      "version": "1",
+      "status": "paused",
+      "campaignName": "KH | Sales | Bone Vitality | Scaling | CBO",
+      "buckets": [
+        "Direct Response",
+        "Other"
+      ],
+      "launchedAt": "2026-07-10T03:50:47.000Z",
+      "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t45.1600-4/743467309_10162690277726156_1699224049891544668_n.jpg?_nc_cat=104&ccb=1-7&_nc_ohc=Ugkiug_M9EUQ7kNvwFNfneS&_nc_oc=AdpDkl51z4oyBAHNI4PvmZHK4Qn6cZEmUuyIkc0v84etIj043U9uzkYmyxYmEhR-NN4&_nc_zt=1&_nc_ht=scontent-iad3-1.xx&edm=ALfz3TcEAAAA&_nc_gid=ihVclEYTB7NQrhopalYMyA&_nc_tpa=Q5bMBQJ29ltLa5h9CGITwj5Rx6LT2M35NeDvfXeFL0RMnGrRoLwMxARwbwIyT5xeI6E31SafIy-qRIjLBQ&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_AQOHyMly4T5fiYveN9_mA_B341s5-460JeWUeBoaFbJ72w&oe=6ADCAD9C",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQIL7KChHNrNR_woz19TmSSgrikP78MqJjkv4d7dYH-M3Ue9Xz2D6svkzLM8JLnB6GcXsK7eVdOpeYkGxw0gNsujjU9h3ivM0HkC-y048QECYZqC--FR3Xylj9-qSxr-Y6fTfdPXqKRlrNcbwVP2CoAr9ejwxjzY4EL-t9X70AgchrxsFZTNn7mkw8qVelKC3O8zhSciA91s3R3oxTntAs4dApJLieUd_8_kMtcPwMd1C9gFtMVAyChP4MEL1CPmUw0pk9elSYjOlLxkK8pRioWRqMNMK9t2DRkl2_jTrQhjrOmb1YyKuMxJfl1bNfXhebA76wzWNWmvNE13VyL8HLmr5BPuhjpfMQm4I06lSWstSXdmsIgikYG_xnmXgfK2K4Sg1XSpltg9fLpJcthL59kz1HvSv2beDHnj-DsWaSx1wMtkq_2WLyOBpcNqtKHzl_A&t=AQKbMftfyo_7cDuUINk",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 2,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247093645080129",
+      "name": "META | PROS | EVG | BV | NA | WOMEN 40+ | FUTURE-YOU, BENEFIT DRIVEN | | NC- | V3 | 4x5 | STATIC | JULI, PAU | WL_YES | FRN | JULI, PAU | JULI, PAU | EXP231 | SPECIAL OFFER",
+      "batch": null,
+      "version": "3",
+      "status": "paused",
+      "campaignName": "KH | Sales | Bone Vitality | Scaling | CBO",
+      "buckets": [
+        "Direct Response",
+        "Other"
+      ],
+      "launchedAt": "2026-07-10T03:50:47.000Z",
+      "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t45.1600-4/743699386_10162690277856156_32418055694832519_n.jpg?_nc_cat=100&ccb=1-7&_nc_ohc=hfZoZNpIb_wQ7kNvwEBHhHm&_nc_oc=Adoa8VvONBu4lEpoaq7xAfAE3IJqO_70qiOO3VafjO5QkK8DDylBsJmTCIFJXuEyEkM&_nc_zt=1&_nc_ht=scontent-iad6-1.xx&edm=ALfz3TcEAAAA&_nc_gid=dVn8BD-BM-nHL42CGZ5TIg&_nc_tpa=Q5bMBQINiHNfL1Ev0MBBVbwdOaTdbXXAZujgRJfJNsIfk8vE2QIauTmMbtAI3X9GgmPLtsNPmgVhRFE0zA&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_AQPEH2BCcTMuqMfqknR7P1Oxnfun9fWIErOeVGT7E8W8Vw&oe=6ADC9690",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQK2VoEBbeR4CsYUYDYpVtfTWBzZk2N2nz4sD2g7qHg0FI4nH0N_8pTA8sbvLemMi3Wn__wO3oMK2Ux9ua-QuzncdCi556CKohvJ2TmeShiSgIYhg51yBBUhmg3GNvzkeB5vgWCy2B-ejrpIUgzRkCTzC5AkHeb34yNKj9_Lwzx9Dm2_LZY3ffmoL1ReLJqmhMerMalzlWblSu6qZwwaMgnTuovflK1WTmAiCoFKlNeQwEdxCepo2-mq2TUYVCEpe6EGV3WWJGP1AOAoZxdpBzJKv1v9jo0YLMYWtcmhRfwqypOnvO-upS41Nrz7medRSYFFvdhBLSUt05SiP3D6c45XqEYgEc1eXP7ugb76gfbi6nVuOdRgU2ai9ry_FVpTVuxbK3-hMqi26te7_hngHFIhVIe8AQP5XbXAJxiUDQYs_Ewx9rUbFqJtWv_rESg7yas&t=AQJa51xlYpntBap8hSc",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 2,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247093645140129",
+      "name": "META | PROS | EVG | BV | NA | WOMEN 40+ | FUTURE-YOU, BENEFIT DRIVEN | | NC- | V1 | STATIC | 4x5 | JULI, PAU | WL_YES | FRN | JULI, PAU | JULI, PAU | EXP230 | SPECIAL OFFER + WEBINAR",
+      "batch": null,
+      "version": "1",
+      "status": "paused",
+      "campaignName": "KH | Sales | Bone Vitality | Scaling | CBO",
+      "buckets": [
+        "Direct Response",
+        "Other"
+      ],
+      "launchedAt": "2026-07-10T03:50:47.000Z",
+      "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t45.1600-4/742669475_10162690277466156_3218153043234301991_n.jpg?_nc_cat=109&ccb=1-7&_nc_ohc=4HGCPDjbI08Q7kNvwEd-f-t&_nc_oc=AdoACGyJHVPxTzvzoNUyepT9asEk8XKcKD7JFk6utg50IYSY_s6FqnmkwfXZ2gx6CPY&_nc_zt=1&_nc_ht=scontent-iad6-1.xx&edm=ALfz3TcEAAAA&_nc_gid=nROw0HIdd-N2QJpCoNpq6A&_nc_tpa=Q5bMBQLS6P2ZIkPTV5P_ddqT1ceimqjnqiOJ7DeNzAjyLmanqGz0kRSC8KpUx-dCnwpmSckqHaw9vU4piQ&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_AQO0mo1rcQHPK4o20MBhqw6KRBaHd6Bl0amrcaIWFTflbw&oe=6ADCABCB",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQIhMCcGOU1l-W6CzQ3D3dhZT0RoOq0cHnMuCrYHPAWzD09s3gPLYn8fIX5POdipxPGcS6SomnsRjk2rW9iFeuBQhZeGMRpNNF9xUEwJoifbB0BOQAOvyXDfHhTehOPFh42vI0S85AmnARm3seVqK5XdTGzE2Uq9pJI40_xz-0wlF8bMOvu2muwcnngWh4DXVNxxjRw5xOTpWunWrMdfb5ApN0jbjWMYNLer9cdvB2JCoVD65Vocn3wr1iVACyHbCApLjo7v2j-eQhiFxiX0dGE7IlA03El7gm1UXhCIUgo6Hz-56yHBHbELPBcP-xHskKIq-FV3EOjpId0A7kHy4KpvTtxki2H4RcMk8KThkW1qeBb0hEalBYCKfUHKxEA02lF_VuhUuP0Psvoa4sm9uoUJAOGIanoSQaXN3amb2xobyDnz4USJfegFG2HzDJACYRE&t=AQLAoI8uYhS-LBEH0Vs",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 2,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247093645090129",
+      "name": "META | PROS | EVG | BV | NA | WOMEN 40+ | FUTURE-YOU, BENEFIT DRIVEN | | NC- | V2 | 4x5 | STATIC | JULI, PAU | WL_YES | FRN | JULI, PAU | JULI, PAU | EXP231 | SPECIAL OFFER + WEBINAR",
+      "batch": null,
+      "version": "2",
+      "status": "paused",
+      "campaignName": "KH | Sales | Bone Vitality | Scaling | CBO",
+      "buckets": [
+        "Direct Response",
+        "Other"
+      ],
+      "launchedAt": "2026-07-10T03:50:47.000Z",
+      "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t45.1600-4/744316505_10162690277836156_5109957158578114484_n.jpg?_nc_cat=109&ccb=1-7&_nc_ohc=jwz-bM5Ro8sQ7kNvwERxUMW&_nc_oc=AdqkcwA0l562IiOO8KtAYjUGai3gdIW1c6RgLP_Rq7uebywboHrXOK8XlwFaseNy9Ds&_nc_zt=1&_nc_ht=scontent-iad6-1.xx&edm=ALfz3TcEAAAA&_nc_gid=RX_2ywaAKdO2mb-AUfj3fw&_nc_tpa=Q5bMBQJxTOsb6YqfuBLUdXJLOf-NyabwZ9g8KysFy2pcUmbDkuEPOhQAF7BPMFGMBMljFo7BXVSvz4Nq3A&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_AQM_EwreUPAeaPQ9-1VnJOsL5A489xx66CRot0ESKeT8tg&oe=6ADC9074",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQJ84B-LGwEzP7p8InGjHhYUjYgaFoNKmrGHw3uX20gZ6KB-aJ2rqDEOMG8vwjxOJsQjraRFUhms-KhdD_ps3i3HbWuCpmhcN2mSTh-_CrUYIzfUxbUSW3dCy9LQNsRBW2hc9kw0agA7snzygHMZDoXCum23ZMEKbBhGwhhM4ArmAIcaMmqZQvCNbH6dR2dR9-cMabgGzO25qXRwThLPfJ7pnPpBvdGLKzkZ6FOdKBpVktscl0W47IMS_m4Y2ArMYGL9n1mXZCfs7z734uzifJfJwhcdsoNw34KwYh46w1iZnZWsTLOua81-dqxaQm_Lha8KigxRk9tWXLSa2i_zxJ2mOZ-dRxCV6Qu-BiruYIaTWEP-6RxO8KPUfq9QjpiJw6kiqxaZUMgIRsZwzrPdqHUE_G4NviRNqmQ8TaqxgnC8T7zU_fOAaVZKAmj1edAJOXM&t=AQJFJdgOh9CYDKYcB_I",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 2,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247093644960129",
+      "name": "META | PROS | EVG | BV | NA | WOMEN 40+ | FUTURE-YOU, BENEFIT DRIVEN | | NC- | V3 | 4x5 | STATIC | JULI, PAU | WL_YES | FRN | JULI, PAU | JULI, PAU | EXP231 | SPECIAL OFFER + WEBINAR",
+      "batch": null,
+      "version": "3",
+      "status": "paused",
+      "campaignName": "KH | Sales | Bone Vitality | Scaling | CBO",
+      "buckets": [
+        "Direct Response",
+        "Other"
+      ],
+      "launchedAt": "2026-07-10T03:50:47.000Z",
+      "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t45.1600-4/743699386_10162690277856156_32418055694832519_n.jpg?_nc_cat=100&ccb=1-7&_nc_ohc=hfZoZNpIb_wQ7kNvwEBHhHm&_nc_oc=Adoa8VvONBu4lEpoaq7xAfAE3IJqO_70qiOO3VafjO5QkK8DDylBsJmTCIFJXuEyEkM&_nc_zt=1&_nc_ht=scontent-iad6-1.xx&edm=ALfz3TcEAAAA&_nc_gid=t62JYAHaKqgnVU7wQ9zKzw&_nc_tpa=Q5bMBQI5mycBF8ImZZO-jDBVgbSZ7yZMngIzoCeYpKXK8BT_oec6KR9XhaU-bvP_TZ5wZFTE65saL9s4Pg&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_AQOVclhLMU3Umb8_PAmSmFzPGA_k07nvitu6pU6toP-uUA&oe=6ADC9690",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQJ9G9ZIsOgjQHLOHHECZAthEjhswZ6PX-zD80ikOtCMP139aIZZsXAhyW7AwADlJZrjaZBc2eI11Ti_WoLp9kcFWbDui4CDgkOidwQYHXyEcbU4YdygHWgqRLmzwJgxof687bvTGhcAV4dZmhWHim7Dof8309gtLnijdZia-tv0Amoxkm29PYpzSn3h9lRmmB6HVDZIQEF3OogqFiaKhNlYerHlx_nyrO8NQbx8ME2b9-eIBYc2o7_InURi_8pU2LvrBxDeLtMy9nZy7ICiAq8ZPFVziCeJIrhABjh1pkAL9-j2T4ea2wi5fi8vjdtzHyFb4NlWeBZEBc-MJqelpcRHCSXzbgFFpcsQkw9GP_01prpQRofzWPD3KxnvPcBAE7VxRBDXnpQkaFDQQGehgIOu9qjYUdNsdJzWHL5HMtvfaCAuF8RQGLuMkIIngxIBuYk&t=AQK5Rpf5yikI1Hz0bAw",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 2,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247093644950129",
+      "name": "META | PROS | EVG | BV | NA | WOMEN 40+ | FUTURE-YOU, BENEFIT DRIVEN | | NC- | V2 | STATIC | 4x5 | JULI, PAU | WL_YES | FRN | JULI, PAU | JULI, PAU | EXP230 | SPECIAL OFFER + WEBINAR",
+      "batch": null,
+      "version": "2",
+      "status": "paused",
+      "campaignName": "KH | Sales | Bone Vitality | Scaling | CBO",
+      "buckets": [
+        "Direct Response",
+        "Other"
+      ],
+      "launchedAt": "2026-07-10T03:50:47.000Z",
+      "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t45.1600-4/743811302_10162690277336156_3198275952014132623_n.jpg?_nc_cat=103&ccb=1-7&_nc_ohc=2EiEwfniVjAQ7kNvwHQTANR&_nc_oc=AdovQC2xS2jRhl7lDqeQcz2QGew6_7VwsGso2LJsZ_w5dmvNC04oJMA8Qgn6Kr51HdY&_nc_zt=1&_nc_ht=scontent-iad3-2.xx&edm=ALfz3TcEAAAA&_nc_gid=SID9rn5N4D-cr07cDKq-qw&_nc_tpa=Q5bMBQILz9NHUSaGssWZTgNvihhkeO0JBGpTDp59FNkdA--PkooLa_-i0kiMwIkt72DJ4zThF3k2XacEFg&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_AQOH8MdewHuMSxVt_AaBZg6fv5Va-Ulq8S1db-iVymrXJQ&oe=6ADCA050",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQIFdw_Z6URHwJlr_9DR3RpKQaFR_BiUxvkVsQ9ot6IoHELoImRhi9RrOwk1nK89uGNue63NZPlbUN6EplU_0wM6-K6dnzR6A97SFWu7n86cBX-bubpKzGTn1IYh3r3i6W9vyaGboeXkN7yDKJpOY4SqPcRkoGYle8CGa_ek615Ho4HO5R-G7BptdCWuWSX6iscfraXLrvT3mtjW-P-liB23RgNRlX-aDG-DKi273BGAJU14wl7vjl4-so7gzLoYbCY4Cr1fK1XJd4iYxYQLiL7LS5RxxWpR62qL-Hdp6YFL0saXGbbFLw_NGR6cBZlYEKXxGx8KIHeQPy14avYD1KlwE629gW7uABo7f7CWiSMk9lQPtMX9tYP-Gb_6dZJsfYmrOgDXQV_JrIYlqQm18G-UDPaJBM_bHhCuk_JEOpc31vk0oAb4wA8LJM_67OZVN90&t=AQJ8HFdy0jI2EzeERIE",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 2,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247093644940129",
+      "name": "META | PROS | EVG | BV | NA | WOMEN 40+ | FUTURE-YOU, BENEFIT DRIVEN | | NC- | V1 | 4x5 | STATIC | JULI, PAU | WL_YES | FRN | JULI, PAU | JULI, PAU | EXP231 | SPECIAL OFFER",
+      "batch": null,
+      "version": "1",
+      "status": "paused",
+      "campaignName": "KH | Sales | Bone Vitality | Scaling | CBO",
+      "buckets": [
+        "Direct Response",
+        "Other"
+      ],
+      "launchedAt": "2026-07-10T03:50:47.000Z",
+      "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t45.1600-4/743467309_10162690277726156_1699224049891544668_n.jpg?_nc_cat=104&ccb=1-7&_nc_ohc=Ugkiug_M9EUQ7kNvwFNfneS&_nc_oc=AdpDkl51z4oyBAHNI4PvmZHK4Qn6cZEmUuyIkc0v84etIj043U9uzkYmyxYmEhR-NN4&_nc_zt=1&_nc_ht=scontent-iad3-1.xx&edm=ALfz3TcEAAAA&_nc_gid=MvTvXoTyj6mWGrTEZXFZ-g&_nc_tpa=Q5bMBQLfca9TB2QjIgBGcDwd2DLVy3R1lOXF8xm3EB9F_81xNbpBevw7BDoLMQUZHaYtCNIPtPY3FDE2vw&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_AQOX_cVhh_k16dXs2qRQOrIwZo9TuB6GA1JdOGkWtmHbLw&oe=6ADCAD9C",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQLRevjRdwDbmwntvfR4Q31IdCOLd7UeOqqZFAJ_EPDXpx-Q0oBw5mVyCL9ZDvr4T_v8h1RiECNC5gi8NGHjD8-2awaQfNNuYKxuUMqpfcvkVGJ6AJfP6CcJVhDtq2aZfDt2tAoQ8qZvscy8B4rMBM5nzNo7sobHelr9ICk5gfoKyY_-gm1DyrDtDA4nLCCVlTLHugnfqtaXtDFhk-XTfQJoPNNA-TRJb2L5zkyxlOHFSPqX1g98b-Pk4p5mr7pcxNhT32p0lH-BzTI2kescGFEfTfRwsDN5IZ5wccd3uN6m-OJyU78tUtWhTcrt37_88FadfQOWsJMrzAVzXxXJhkj6VdwNqSQkvg1Fjd9H2C-3yrKu8ZN0zC3JW6Hz-RYyc23oQ5Df9vz6GfMX8nOyR7nhnD7vmi_S5GQCql-YWdjW80YgrTKEH_VtgUZgmWoCMfM&t=AQIA5PIk7s_uRG5AYy4",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 2,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247093644850129",
+      "name": "META | PROS | EVG | BV | NA | WOMEN 40+ | FUTURE-YOU, BENEFIT DRIVEN | | NC- | V2 | STATIC | 4x5 | JULI, PAU | WL_YES | FRN | JULI, PAU | JULI, PAU | EXP230 | SPECIAL OFFER",
+      "batch": null,
+      "version": "2",
+      "status": "paused",
+      "campaignName": "KH | Sales | Bone Vitality | Scaling | CBO",
+      "buckets": [
+        "Direct Response",
+        "Other"
+      ],
+      "launchedAt": "2026-07-10T03:50:47.000Z",
+      "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t45.1600-4/743811302_10162690277336156_3198275952014132623_n.jpg?_nc_cat=103&ccb=1-7&_nc_ohc=2EiEwfniVjAQ7kNvwHQTANR&_nc_oc=AdovQC2xS2jRhl7lDqeQcz2QGew6_7VwsGso2LJsZ_w5dmvNC04oJMA8Qgn6Kr51HdY&_nc_zt=1&_nc_ht=scontent-iad3-2.xx&edm=ALfz3TcEAAAA&_nc_gid=y7BIadTu7dlLicsT8yjAyQ&_nc_tpa=Q5bMBQJ9hP6NCoaLMxoezg-DC555Tlqmz6fMt1RxI5qUtZ09UA8QfLDE0VOp-5iLdg-r7guf_dLKgX47Zg&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_AQNsW7wYhYURj6XZzfdCprN_5yqS3KfntUmzFZihL9LdYQ&oe=6ADCA050",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQIUrytzboHnIo_2l6bzb9Q4vv6x8rCCdyHRLDgCAwHDbjB4LarmFcsAIdHUVCSikEW1lPIPRMUi3qnX3CygZSr-eYKcE3NLGDN6aKp-ktF3qXEkLxmi3GrUBIpEzHjEZoyEvFO2cau7sDj01tNyI8ggYTz8yMydUJe9s_oCmmwok3f-gJXTmbUeLPrYV0SkSEDN-BtVkMISw2W3dR1tgKKB54lJmGOwPycwJDtYrvTw9A4egr7qKDdNAeq49SaZ8vURKikukAOm2aJUa0NPHe4RGSaPs7tuLp76Yq-Axuf3brqIdl1I95W9TegiNGHzWDIJWsHeUl-_EwwXoHMB7Lo_QmWPwdF_U7pda5qEDBGrzrIdlU_tO1cg08OU8RMm3PHHogfdUDi8RUWwRCgw5F4anwIBj51YUspzC9fSP5GdcSsw3EA0swA4TvkDZMOHegY&t=AQLXP2onz6YIi6LthoQ",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 2,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247093645130129",
+      "name": "META | PROS | EVG | BV | NA | WOMEN 40+ | FUTURE-YOU, BENEFIT DRIVEN | | NC- | V1 | STATIC | 4x5 | JULI, PAU | WL_YES | FRN | JULI, PAU | JULI, PAU | EXP230 | SPECIAL OFFER",
+      "batch": null,
+      "version": "1",
+      "status": "paused",
+      "campaignName": "KH | Sales | Bone Vitality | Scaling | CBO",
+      "buckets": [
+        "Direct Response",
+        "Other"
+      ],
+      "launchedAt": "2026-07-10T03:50:47.000Z",
+      "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t45.1600-4/742669475_10162690277466156_3218153043234301991_n.jpg?_nc_cat=109&ccb=1-7&_nc_ohc=4HGCPDjbI08Q7kNvwEd-f-t&_nc_oc=AdoACGyJHVPxTzvzoNUyepT9asEk8XKcKD7JFk6utg50IYSY_s6FqnmkwfXZ2gx6CPY&_nc_zt=1&_nc_ht=scontent-iad6-1.xx&edm=ALfz3TcEAAAA&_nc_gid=iv31NuRV-JLxEUEWqeWnTw&_nc_tpa=Q5bMBQIVRXn-AzJApC3SBQ29ewcpP0__fXq45Rgzf8fmttcOBR8wALlguo90DWz7BUsrq4u30IOeB8Of9g&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_AQO7gf1feMbclTHrq6QYoErEEyK0infXnRRQSRhpgs36fg&oe=6ADCABCB",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQJ5_FPdRI_3lpVOs2ggyddCsR2ZQLQsiUUK1b6t6C15-EvU6T_RG-XTd16oO2PAPeCZe_y0n_kgkVsKh3hrylHEFFskc00j40181npT8P74xie_Jy8EJwWOD22x7baEdA6dJar2jkC3wldcYIMFMflu0lgjkSeHi7jA7RKVMFdJq78B8qik-GHlruOQ5mH4lDsibxnPBKyf3XO5goabz3w-fE-0Kxq0b-SPJcOR6tUaK-3sEL7_1C1Sez14Wgb0h2Tg5-H7oPlDpxd-xVdxnl8RZECPZRgYeO8MRTBnOl1InSmpZWotUyVQ3oS55-ypq5iif-Q4k-T1afcPvpoBqHtidqBjtiQkjZ5g0Q6rYh_WzO6oAptwWmYe6F6Wqas8y8HRYVEOgY0NVj9jrcIgfIqJ8unIrAB1MtBF9PK19R3ZmpeCwIrLRH5xXGtiIfZc0uk&t=AQJvJ_Gey74KGD64Luk",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 2,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247093645100129",
+      "name": "META | PROS | EVG | BV | NA | WOMEN 40+ | FUTURE-YOU, BENEFIT DRIVEN | | NC- | V2 | 4x5 | STATIC | JULI, PAU | WL_YES | FRN | JULI, PAU | JULI, PAU | EXP231 | SPECIAL OFFER",
+      "batch": null,
+      "version": "2",
+      "status": "paused",
+      "campaignName": "KH | Sales | Bone Vitality | Scaling | CBO",
+      "buckets": [
+        "Direct Response",
+        "Other"
+      ],
+      "launchedAt": "2026-07-10T03:50:47.000Z",
+      "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t45.1600-4/744316505_10162690277836156_5109957158578114484_n.jpg?_nc_cat=109&ccb=1-7&_nc_ohc=jwz-bM5Ro8sQ7kNvwERxUMW&_nc_oc=AdqkcwA0l562IiOO8KtAYjUGai3gdIW1c6RgLP_Rq7uebywboHrXOK8XlwFaseNy9Ds&_nc_zt=1&_nc_ht=scontent-iad6-1.xx&edm=ALfz3TcEAAAA&_nc_gid=UnYOKFZhGI-Taz61fnYAWg&_nc_tpa=Q5bMBQKlF7AFdAAxLxyNA2Pr9FK9q64phocNkxYUGaoJrzcKenFLs_JcUiZgPaNEe9X098OSxWuYn6KStQ&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_AQMy6M-usqyvIX2Oy1NZXllAmy28oCNWpPFblBHb_XObFA&oe=6ADC9074",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQJrmRDqucaCm5je9Gd86vK_Fho_JI3ykbA-BSD3COgexj4bhZIyM20-EzZ0NdGIzj2H7rUvBmnGxwEJUV8udfmNkLRtcPmJ87T3655ot14p-b5T6HAwZ2W92DqIw-RQ9uk03GwvE1Kzm5iTH7tkkdudJr_mpm3TTVEZ_plmpObqbTOG63muuTEa4Tb2jCQ6OWN45vzSxrBAeLm2XIBzNiUJa-wJVmWEPVdvTLnS4SGLhX0DghNrL9euMVVX0xg87aukkRAfKYLtp2fTe_Wf7sw1CDEn7TqvcHVh9UzrGUaNFyP2osXAFBWtl7VATPkNdEx6aS62ryRy0ZAD0TzS_u53Sm8giqdixaIAcxqQ0LbqdgfitdhrPwQK7m2ZDnD0c2_a3k4aGbV7-pu1EirgSga8coY9d9Uqv0wmvAnHYHW_Wh-vy7OHXLUpXNa-V5_KDhQ&t=AQLwcqi_7z0xtYway_Q",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 2,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247093645050129",
+      "name": "META | PROS | EVG | BV | 30%-OFF | LONGEVITY, WOMEN 40+ | EXPERT-AUTHORITY | | NC- | V1 | MASHUP | WL_YES | FRN | KISHA | MIHAELA | EXP241 | H2 | Special Offer + Webinar",
+      "batch": null,
+      "version": "1",
+      "status": "paused",
+      "campaignName": "KH | Sales | Bone Vitality | Scaling | CBO",
+      "buckets": [
+        "Direct Response",
+        "Other"
+      ],
+      "launchedAt": "2026-07-10T03:07:50.000Z",
+      "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/740052512_2239325676898738_1838533599028664721_n.jpg?_nc_cat=111&ccb=1-7&_nc_ohc=9jqooHXBxCQQ7kNvwFrGX-E&_nc_oc=Ado_m3nsEcOrO3izhQpv1VhZQXHJWimUCZV0DRATJ8BYpPt6637SCG8KMkl-ArxqIwg&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ALfz3TcEAAAA&_nc_gid=UAcT-iK_jw5pP4G-l7tfzg&_nc_tpa=Q5bMBQK99gqariUdNFPqTmvAL8WtMxz5e7MGaJvSZHl54JoWN0IZU6x2n6Sr_2VT_VkwCEd9eI4E5ZsQjA&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=5fad0e&_nc_sid=58080a&oh=00_AQNwIoZ2_imsA73nxc72KBDIWgtXC3qVchMVIzcvgfvEMQ&oe=6ADC9790",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQJsmNP0Hjz4R7HxDCFJNsXQHrHnA_QR0rmoZeVHYGGt4kp7ytTuuhkbWDey15HJBEiFaq_3BjB2ibyvXxAl4fsaiM-DYm1lWq1yLzr6QYPLvYoJPWbPoi88x6JxX_bG70N2z4ihX3FAaWGA0hNG2tuzxNJGMYFejeGpZ0Gl4sjap3bF4tCYW1E9Ekz03rHdmzg3FQSFWZiXubgIWOVrLor62cGArjxrHeGoU4JQzJJjl081DEuVwQY9CkPzNiF5uyKRaJE9u6VstLA7b0BJs0RNbnszZEjXwK1_FKhlh1m9zFA3Yabj2Eel3ziStnlaux9qCInkvjl_y8_wLbEMmf_Ovja4nbdxg1cJMnrstTvKop52DU06n8035tyO-G16YFCkgM11Z8ygqZ5huwwiAX9hAWf17f2pIaA7gr-WvOU2dbOq_PtiqpIqfInOrMfpl-Y&t=AQJFRtwgiYGbwEFa4xg",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 2,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247093644900129",
+      "name": "META | PROS | EVG | BV | 30%-OFF | LONGEVITY, WOMEN 40+ | EXPERT-AUTHORITY | | NC- | V1 | MASHUP | WL_YES | FRN | KISHA | MIHAELA | EXP241 | H3 | Special Offer",
+      "batch": null,
+      "version": "1",
+      "status": "paused",
+      "campaignName": "KH | Sales | Bone Vitality | Scaling | CBO",
+      "buckets": [
+        "Direct Response",
+        "Other"
+      ],
+      "launchedAt": "2026-07-10T03:07:50.000Z",
+      "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/743763217_2013336579572466_8753767797282492398_n.jpg?_nc_cat=104&ccb=1-7&_nc_ohc=ZGkccl-ciSUQ7kNvwEiD_3C&_nc_oc=Adri2FPAAS4H32e39R5tWDoHpIEMSqhaqi9uGea8etWWjfzoKSNE4ijdm45_8tvWZ1I&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ALfz3TcEAAAA&_nc_gid=Qzdv4KGNnzBGg2MMtddCRQ&_nc_tpa=Q5bMBQIPquW_SofHl1i5WZIczH-1wNZp7_JbN3-paJa9bFMSYMxB5M0o7LG9lO2XesL-zxb9NI2j9O9UjA&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=5fad0e&_nc_sid=58080a&oh=00_AQOYpM6XkqJQ40nDVXdMVaRIuUnPR1cYV7UBCPyHzRGwfw&oe=6ADC9263",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQIxYLxhAKPr8SpiqBei2U9zoF2BNC7dui62v1mYmn7bQGDnPRiJVQEf5ShHjNN8JWO2gRzcEzHNv2dlVbKZw6ZGAtC4OObK3HzGyXwHlwm5BzGY7PH5ueynLhX-4PdhugsgIdMZMfByQRvhOg_nT_y5S8reLkZR0GvC1Z76QSPcVorDr2eCAUJqEMYSISYbkTWjQ8ERRnACFFQ-zo0dr9LNfvgkEGyyQEFefFBSgKsfUFYtI25jGi_4CtSxyIZZGno38423GjwcXlZjR5EdML_--rie_-Xx9GHOiavSndZWVQJBRftkReHmvB-EDaPSX6VqjBo8t4-h3M0UgBOJ6do8k9J0EkXKrBFeyhnCp4fRpGaXQPLdZ3gsCZCrXIzEDvET0qS79v_H2HeJ0rJcMij1fB4Iwavk-JfQkfneMb1zvACtR9h0EwbNEMhxEF1tbrg&t=AQInNAnioLQL57N3rRw",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 2,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247093645010129",
+      "name": "META | PROS | EVG | BV | 30%-OFF | LONGEVITY, WOMEN 40+ | EXPERT-AUTHORITY | | NC- | V1 | MASHUP | WL_YES | FRN | KISHA | MIHAELA | EXP241 | H3 | Special Offer + Webinar",
+      "batch": null,
+      "version": "1",
+      "status": "paused",
+      "campaignName": "KH | Sales | Bone Vitality | Scaling | CBO",
+      "buckets": [
+        "Direct Response",
+        "Other"
+      ],
+      "launchedAt": "2026-07-10T03:07:50.000Z",
+      "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/743763217_2013336579572466_8753767797282492398_n.jpg?_nc_cat=104&ccb=1-7&_nc_ohc=ZGkccl-ciSUQ7kNvwEiD_3C&_nc_oc=Adri2FPAAS4H32e39R5tWDoHpIEMSqhaqi9uGea8etWWjfzoKSNE4ijdm45_8tvWZ1I&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ALfz3TcEAAAA&_nc_gid=hF7BT4SkDQDFk3hvTdHtVg&_nc_tpa=Q5bMBQLFs6U7cqsBvSnyVxi94VHyN1MiSm4HI34mQ_tmmUdVXcQ1csqveT93ZRFCL_bACo45Uh51uKqIqw&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=5fad0e&_nc_sid=58080a&oh=00_AQMmNB1XRKMczEeYzS8bpaV_vqOfdqxJwiU-XrafbZNCnw&oe=6ADC9263",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQJHnLg7MVRNEnTa8kue1VtxX8TyadKzxKpatMoE81YNIpdxLrBVR1CVl0sDYM8bB2BOMoFbuyi91FCfavHOzVdtPw2MFhCnhCezjPkxRRtX6rAA6R0Sc64318JhFoY2av5j1ZlOmWDCYaTA_rfk6JcQDXKCefy-NcTyXtMXYRV8PL0zrzfzuwJNXMLem0JiV80WK6pCRCiQ8Z_UkXqN4jLWZy4zewly7PUs7tRfqNqk3Z5v15UMh_HTyTn6Ahj-3W-37kw24KuTxRCyOw1vnLJZR3vHTw3chWBuAU1KfYw8GnJlRsevGFtfoT_ZNxSOLqpEN6CftJXbbeCUYM3EVFMXT3lyrngFs3mIVae82teJXv25OT-dv-Uekyoe_IhAQaQJblUyGpjXn7Av7QDdJzaxk8RU3nw8TMjh1Z-aPlHnVewm8DQSO2kbK0fUNrCztp8&t=AQJrRHqexi01bI0ItcY",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 2,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247093644920129",
+      "name": "META | PROS | EVG | BV | 30%-OFF | LONGEVITY, WOMEN 40+ | EXPERT-AUTHORITY | | NC- | V1 | MASHUP | WL_YES | FRN | KISHA | MIHAELA | EXP241 | H1 | Special Offer",
+      "batch": null,
+      "version": "1",
+      "status": "paused",
+      "campaignName": "KH | Sales | Bone Vitality | Scaling | CBO",
+      "buckets": [
+        "Direct Response",
+        "Other"
+      ],
+      "launchedAt": "2026-07-10T03:07:50.000Z",
+      "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/741940548_1061450242925920_3357388423295970637_n.jpg?_nc_cat=108&ccb=1-7&_nc_ohc=UIwkFjVbLroQ7kNvwEFINLX&_nc_oc=Adp_uMnFxBlqDdbsZPJ4IL4imVqIFyNO2yo0dhT8UjoXu4PRQGJskb503_thfp9-mZg&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ALfz3TcEAAAA&_nc_gid=DrsQGHSrKS3qjb45MxXUlQ&_nc_tpa=Q5bMBQJVBycGTh1Au218G77abeB1DXMP6YGTX3yzo0GCFCwVXdFQ-1bJ7JhmGoDBPEfBcTSyeeGrH01Zng&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=5fad0e&_nc_sid=58080a&oh=00_AQPH5wHear_MQbyqwV-fBa_mo1whWbSuYR54bsX6oDnVQQ&oe=6ADCA768",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQIlfxNjKURhDMkq5Uuco28sxCCTe4N0R84nXSCRVWoWnJjist5uj0TXGfJnNQPLG8H3m48JJyJZzRy1L6HQCD6jl040fHqByGAd9_0UsH_cb5oD5MkH5XaR0_SzR9bvt0hnj2jRLzaQZSHxN65dLq4zQNv_QrDURSyoWJg9Y2LKPy_1AHmUYQWkuNwZFMcc3sPDtKJK1KowG13GHBtLa21f6Ttz-Bkc3oXDSZA8Bc-ByhTnXBpDjGG3RWEhjy4cHHuWeiyN_u6wN_ZpAu6PfHEH7E5-mZGcBrARwHjA6xDBvc3UFsF2Zw-2cOjuXr7yh5fU___fAWbt9VqYhNYEQ-ml_6GZx76ae6tg4XaRlQ37JvYHNvJc9siqB188pc2kTSgacUpfmf0I3yeQ0kbFWA8-reQSt3s1yg_pMe7_UHkvqSeUUlP4hO9NNjygmoymsLY&t=AQLTHB1us-Yx16GfIbw",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 2,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247093644910129",
+      "name": "META | PROS | EVG | BV | 30%-OFF | LONGEVITY, WOMEN 40+ | EXPERT-AUTHORITY | | NC- | V1 | MASHUP | WL_YES | FRN | KISHA | MIHAELA | EXP241 | H1 | Special Offer + Webinar",
+      "batch": null,
+      "version": "1",
+      "status": "paused",
+      "campaignName": "KH | Sales | Bone Vitality | Scaling | CBO",
+      "buckets": [
+        "Direct Response",
+        "Other"
+      ],
+      "launchedAt": "2026-07-10T03:07:50.000Z",
+      "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/741940548_1061450242925920_3357388423295970637_n.jpg?_nc_cat=108&ccb=1-7&_nc_ohc=UIwkFjVbLroQ7kNvwEFINLX&_nc_oc=Adp_uMnFxBlqDdbsZPJ4IL4imVqIFyNO2yo0dhT8UjoXu4PRQGJskb503_thfp9-mZg&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ALfz3TcEAAAA&_nc_gid=XZ2ItVCn5hdXsYJ4PiWOgg&_nc_tpa=Q5bMBQIrjqxWH5GOo9vA-sBHPsRspxjjhxIZgPpsySr1pvdYJrBO225YOvo5P3NhdoL_vMG1vSvwC_PJMQ&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=5fad0e&_nc_sid=58080a&oh=00_AQN3pAm8rFkJu3LJjYh086YiIoXkfzVbM9OVOpAB3k2A0w&oe=6ADCA768",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQKT1C5WtzuYO18R9I1MkRRK0oeMS4HiwXHPe6I-uPTF8D_VTDZW9xHaBA5KcTC-QH6iV1q3hZJ407LBFz60-WYODFk2shAmTlOLqktowFiikAM_Pj1_gzkTH4OshLcJuUTv_yqV6hoVUD3p63Wf8b9dOYaG5NWBJ8kdJzQeoXnVy_AlgjBKsnJWGmc2naDgOVzApgh5i8YOTYjVptB93KG5TsFZm4M9vOSklxRPqOcBfYfeuIK5DMlqDJzfYRwunOHiJncCRq3XpPbRMiJOpI_mQcscLE_1QODsHr9wFl3-h6oOOrv6b9ocAJxS-NSd5owissLiwR2pCNS7-qFLXVReVm0QRUNAbT4lPdc-frEXRCNO4gzbd3Igqt8Xk1zbNjxxJq6zvSfcQBRFdlb1upsChuVgSPyEoqJweochIad-pQeUKIDYPz5EbgreBEC39Ts&t=AQICe9RuS46IsXPW_bE",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 2,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247093644880129",
+      "name": "META | PROS | EVG | BV | 30%-OFF | LONGEVITY, WOMEN 40+ | EXPERT-AUTHORITY | | NC- | V1 | MASHUP | WL_YES | FRN | KISHA | MIHAELA | EXP233 | H1 | Special Offer + Webinar",
+      "batch": null,
+      "version": "1",
+      "status": "paused",
+      "campaignName": "KH | Sales | Bone Vitality | Scaling | CBO",
+      "buckets": [
+        "Direct Response",
+        "Other"
+      ],
+      "launchedAt": "2026-07-10T03:07:50.000Z",
+      "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/742294948_1054030937025546_8489342865389087128_n.jpg?_nc_cat=106&ccb=1-7&_nc_ohc=_5usjWApXToQ7kNvwFTr26M&_nc_oc=AdoS-c2amsa99GQee2EC-XDs1sfZX9QmGC04Stysr8g8HsFD4R3viDSstbbjrgMvRxg&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ALfz3TcEAAAA&_nc_gid=7hEbUZkFV90Cn4-j3fKqZw&_nc_tpa=Q5bMBQIK5ZA8Au6Qf4P20H8xP1stfWCa4qIw5UGbv_l6mYapVV1QrnYemoQYZwsnjU1fPayZKS5UBNCcrw&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=5fad0e&_nc_sid=58080a&oh=00_AQPtAojAmGM7-GuR5ZchbO710ciZ5QJ6rbNN8CMcVW1AZg&oe=6ADCAC44",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQIQNH8rGus__w8kKWpGD3Hd_ZWSJ4LBtI5LV5jZoSURrtRZEkXzIZDcfy--4GnhYIqNigaKv4QUfr3myqDZg4z1jsJr4Dxkb3BvH9Ou0gfNSsPxgYFEwx1_a_oedd_bnID3fTHuQJvTOVwVG24zw4MGYtluhmg04szNW1QXtPZVHTc5WW65Wlp2BaM4aZKMg8aMZ_Urqs_sHOIHzhV_8cBcfQ0OYPLKiaREd0u6YUWVDJtOhJuRi7EIdh1pO6WsoZNaTc4ftVGww-99QhPSSQcY4UjHsxfol2exnoTtRR3efJw5kLvvgrJGRKtZmXxcKoQ_iV5-Qk8Atp2TaKJmS9vUyJE8MoyWrzW0gtYdtXkEjf3gzygxn5SdyR02ECnpRYnOdVqecR_vtUtYlIXPyFvYptWYfJ5DQE-8NfTaojA5hTi0x3Hrj1K_LEGZQeE7axY&t=AQKwSD4If-DfKeeCpak",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 2,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247093644800129",
+      "name": "META | PROS | EVG | BV | 30%-OFF | LONGEVITY, WOMEN 40+ | EXPERT-AUTHORITY | | NC- | V1 | MASHUP | WL_YES | FRN | KISHA | MIHAELA | EXP233 | H3 | Special Offer",
+      "batch": null,
+      "version": "1",
+      "status": "paused",
+      "campaignName": "KH | Sales | Bone Vitality | Scaling | CBO",
+      "buckets": [
+        "Direct Response",
+        "Other"
+      ],
+      "launchedAt": "2026-07-10T03:07:50.000Z",
+      "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/743940336_2230393104447891_8297082234583577686_n.jpg?_nc_cat=108&ccb=1-7&_nc_ohc=BL07SBS_NPoQ7kNvwHnb6b9&_nc_oc=AdrIn5wz5Gg179JYSHXZ5e_DAGsxHOsfM3qJhxOhAkEIuE75cJGPRta4uPzPETGcZvU&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ALfz3TcEAAAA&_nc_gid=PqNpFzL8ToXqjS4Y4o7mmA&_nc_tpa=Q5bMBQKvs8X3PWIFg9rzP4l8SogCyLoTYOyDINto_RuJu7Wm1E6g7fl8JoNl6WDsf1fWznoM4PeymfIh1Q&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=5fad0e&_nc_sid=58080a&oh=00_AQNmBGB-p31p0PQy6BC0WRV1i2VYrnc9R3TK2Sjxjf5UfA&oe=6ADCA5DD",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQJSbPbi7taEBHidRQq7A93JqFS3HEGNvQ8e_cNnq8MbQ4n3O4dnBaHdE0cvczWh8CficTpLxOs9of_wHI9pqLVVQGpYbsnB-DIMUZ8IJvQehv51JgeZjAZ05A7sf6MHrqLHCwD6axsFTMoJadRhLU1Enah5ZH6ykyy5qSB2XekibOqzF5PNZglj2PdKtERr2mCGqgulhXhxj3yq8nIvIAOZPM4d5WhxpDBJSDBTsVLNnfRilhp0ojsOAOy7ydA7ErFDpzByQITNaIVsTS1vmbavk84tiPCDHrUl6dcRw73hRUgTPaVEMjjUmqcVDR8j2ApwK8sXveqvWaa1ZeSnX-HvvtdVBpEXoSCLUr4alHDHAu-x-U29Bu6Nz42w7wH6ap9MNEYGwH891miqGb1F1ROC-kMTTOOYO9mYAgAydCcBuGzrNvCdZHdPBlP8-M95fyQ&t=AQJrc-RDxyC1I2-AfXQ",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 2,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247093644810129",
+      "name": "META | PROS | EVG | BV | 30%-OFF | LONGEVITY, WOMEN 40+ | EXPERT-AUTHORITY | | NC- | V1 | MASHUP | WL_YES | FRN | KISHA | MIHAELA | EXP233 | H3 | Special Offer + Webinar",
+      "batch": null,
+      "version": "1",
+      "status": "paused",
+      "campaignName": "KH | Sales | Bone Vitality | Scaling | CBO",
+      "buckets": [
+        "Direct Response",
+        "Other"
+      ],
+      "launchedAt": "2026-07-10T03:07:50.000Z",
+      "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/743940336_2230393104447891_8297082234583577686_n.jpg?_nc_cat=108&ccb=1-7&_nc_ohc=BL07SBS_NPoQ7kNvwHnb6b9&_nc_oc=AdrIn5wz5Gg179JYSHXZ5e_DAGsxHOsfM3qJhxOhAkEIuE75cJGPRta4uPzPETGcZvU&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ALfz3TcEAAAA&_nc_gid=TSjQK0WnM5VchX0tNGiE7g&_nc_tpa=Q5bMBQKj8vFhITsFgChohcMfJdd8FaMBm-OFREhXIyRFg4SkmV56wawgDiw-w2tOMYsXr9ODhdwbIAxtIA&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=5fad0e&_nc_sid=58080a&oh=00_AQMO58H7B8rkBzEJ20M-GJ__VVKfH3YOymOUZ5jLUga8ow&oe=6ADCA5DD",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQLKL7-aJ0IpTm3wNeVUXgvQ01Aj8V9V0mD37TSV-WMvLUV7dASm5RaPEK_V9i3gkiXavI8rYH7oA5qz-OohEf3BxCxCrSE8JJd3Gr5NrkJ7I_NszW7bjQ104RtNISZdR-1nJw3o0qNouAvY02Yg8KljvkQtZ8aKJvhbCHOjs9I_Rux1cFdCWgAxU9aks7EYQwv4ru1pQOnCCgdjr-Qg5cF2OyzsHJNZAi5CDfJe2xfP3DSxDNKl8F9dyD4HT2whdWjmLfQCcX7xepN48KXwJSPv1uCK5jTUvPJqzJYsKMj_phn4AhYOQ2dboX3v3BYc3uJnT_thJGCV6OqeA77qcOB6D5Q3ZRW15fw0BRfFmgCO7xv0qmLG9nIwMQl0sxw_gfg6BG0G2ZPy3EOO1GpPfW_HkIDkm24RYc-nQNnBktA3dGyTGRXfhq-PDgJCiZ9-Ors&t=AQLM0AI2TQbXbkIIbWM",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 2,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247093644980129",
+      "name": "META | PROS | EVG | BV | 30%-OFF | LONGEVITY, WOMEN 40+ | EXPERT-AUTHORITY | | NC- | V1 | MASHUP | WL_YES | FRN | KISHA | MIHAELA | EXP233 | H2 | Special Offer",
+      "batch": null,
+      "version": "1",
+      "status": "paused",
+      "campaignName": "KH | Sales | Bone Vitality | Scaling | CBO",
+      "buckets": [
+        "Direct Response",
+        "Other"
+      ],
+      "launchedAt": "2026-07-10T03:07:50.000Z",
+      "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/740917444_1696983304684464_1913287956066952726_n.jpg?_nc_cat=104&ccb=1-7&_nc_ohc=ewSDC0KB8LwQ7kNvwGSz6u4&_nc_oc=AdqDZCP-LCGzsRPVdurKKwbNSZyo-I5OXTSW4VTrVwQhOBIhoNz4-KQCugeZCy2q3iU&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ALfz3TcEAAAA&_nc_gid=pXgeTLJdsL3-GwEEkMqvlQ&_nc_tpa=Q5bMBQLdd6m322nKt9FDwyDzJTuXYY07J-3HRloK85joZmtoFn9UYzYB62rtx_pJKYaBGWSTzhKY8IZ-HQ&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=5fad0e&_nc_sid=58080a&oh=00_AQPSKayJurhET6vPe6nPIVtngrEG_4Ug-uAActu-crNRCw&oe=6ADC86BD",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQLhF7pvX6gZUZco4GmJvhNYpa7BC-XxsjWsD5ibtCeXDiIbQNHhY4qFN9bubkWTmZCB4ckQysYOIqpOTIJe0rLFtS7c7nGmnhNmeWJMt56rCUrhkIPr4LZlfN_ipxkINTRosGQU42CqZfujyuldj1-du3bKZ5ARBqfAN9OucpP2UiZ7BYLyYQgoMP1DVE8_mZCFk3aNe1I_iX0FSQXZctWTJLHK-mVepoeBuK435lPh31AcELclh59xp16mNqMOVV28dYiafH35Zcj_LYGOgjZvSYr1_lJUvMoM-1wEdAfNrheA3zOxm4N0lJ4EovnhFBSMz7T1GpbW-rHV-QML7SMGvleyB3BzDmcVqGGq0mzEuaB1bdvOd4pifKPqWwLj5ytY0qPA2Z9l6lbajorM9aa740MxINrTeq19Z4DR7aOQPGn6L9yCEbb5-Bz-vKamjUk&t=AQJ4Q3jBU6QI6MI2xgA",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 2,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247093645070129",
+      "name": "META | PROS | EVG | BV | 30%-OFF | LONGEVITY, WOMEN 40+ | EXPERT-AUTHORITY | | NC- | V1 | MASHUP | WL_YES | FRN | KISHA | MIHAELA | EXP241 | H2 | Special Offer",
+      "batch": null,
+      "version": "1",
+      "status": "paused",
+      "campaignName": "KH | Sales | Bone Vitality | Scaling | CBO",
+      "buckets": [
+        "Direct Response",
+        "Other"
+      ],
+      "launchedAt": "2026-07-10T03:07:50.000Z",
+      "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/740052512_2239325676898738_1838533599028664721_n.jpg?_nc_cat=111&ccb=1-7&_nc_ohc=9jqooHXBxCQQ7kNvwFrGX-E&_nc_oc=Ado_m3nsEcOrO3izhQpv1VhZQXHJWimUCZV0DRATJ8BYpPt6637SCG8KMkl-ArxqIwg&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ALfz3TcEAAAA&_nc_gid=Q9nu4DMqMdWtien1k67New&_nc_tpa=Q5bMBQLK8ji7Pq1Mw70_DGcKi6vBCPMkvbJEPh44rE0EsZIL8zvRwiA3C4Zr-0NrCwWzJL0EMglENoJkZA&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=5fad0e&_nc_sid=58080a&oh=00_AQNs5WPPOpU0vh0eZUywJ5IDnbBKFexPhWnD5rfw1J6zaw&oe=6ADC9790",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQIOetLWBpirJdYlUGHzyBdKntQbhjRTcRKAHDlTUvm5mr8gH1d4GolzKSWHHFKyb5WgAvv1ojGbivM3The7D0y8I6-4BwKAcfYNfrpfuIT-KbosJcGm6dHFil2fw9W-GcQXvTh3P-xH9QN76_KArdj8DKqNY_GPyxVK3Y2_qCgnLCQ95Jeeok1tmP7TpdVCfIFYOOTi1bJc5kXEK6Fhs0ovGIGIflGf8SqdraMBaBI26M2MvrIqKe-twWerOdfZq5gKDqb2r_Rqd7geF-JV4nG_yaU2AN6E_uFcmjWAdls4Tg1IPfNvTJ5hJtS0LGWp-o9wLcMZbDbeHWTGEXEAU7c_oLZ4jNzZQrirxzkBu7tjDnf_JkKN333ShGhO3GW4g31XDvLB5_ZlsTXTLfvUOtWpFhYcq8HO0ByBXOmnxl5Odg2crajpk_FULx_zu5MdUXk&t=AQKUNPHzo0m2jFp2uo4",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 2,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247093645040129",
+      "name": "META | PROS | EVG | BV | 30%-OFF | LONGEVITY, WOMEN 40+ | EXPERT-AUTHORITY | | NC- | V1 | MASHUP | WL_YES | FRN | KISHA | MIHAELA | EXP233 | H2 | Special Offer + Webinar",
+      "batch": null,
+      "version": "1",
+      "status": "paused",
+      "campaignName": "KH | Sales | Bone Vitality | Scaling | CBO",
+      "buckets": [
+        "Direct Response",
+        "Other"
+      ],
+      "launchedAt": "2026-07-10T03:07:50.000Z",
+      "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/740917444_1696983304684464_1913287956066952726_n.jpg?_nc_cat=104&ccb=1-7&_nc_ohc=ewSDC0KB8LwQ7kNvwGSz6u4&_nc_oc=AdqDZCP-LCGzsRPVdurKKwbNSZyo-I5OXTSW4VTrVwQhOBIhoNz4-KQCugeZCy2q3iU&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ALfz3TcEAAAA&_nc_gid=7d_RuDIzzzpJBgDfUbqYFQ&_nc_tpa=Q5bMBQKxbdP4mtRXe9RxHuu0VAxNPaG9iQazfioxTV4d6pe4GOxOUv2nAX898EKC31IT604Zo-Fu5WMXEA&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=5fad0e&_nc_sid=58080a&oh=00_AQNATNKzG_v5FCOZkw2hbqmi6Wi_VD3Pz_eXQkdVh9_fOg&oe=6ADC86BD",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQJKyergLuzQutQUO-xRAX7aQicryjmNfVHNFDrnIxK2d14nG-RzaiBLDPrAfpF0btDvsUhw_lGKLXcmnhnH7-DmzokxcuJrdSd8sL77frYef97rdxyTift3LG2B_Ip8qzx4SGorsNtpOf8JKzXMYs_IBni_qNoKV0xKLCmk3Cfv0IdC14pfcaWiVrmAvD_03S1IMpGDF7z29pYBMowv4lcv8bwgHoakXqKX7uCM76h59Oo4zVkijrCkVknY16bISPzyEeMbeyweG0PxTufjXhEamb6r7pqOePSjZTinVpKxJvBwf14WNLlB8zAs_p9tOctT_expx9TfLSSy8dJG7Ygklg1sv1rtDhFuBIRGeFqxS4vq8f4jkfGGA49ZsbXnPoTvhfWltVfoNmh-1jzLyRwHN48cJb_EBdKuyUBx5rvf2MXDyuN-PwVPXQVs5E6cUVE&t=AQKjbtiAMGR7Wu-EfdY",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 2,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247093644970129",
+      "name": "META | PROS | EVG | BV | 30%-OFF | LONGEVITY, WOMEN 40+ | EXPERT-AUTHORITY | | NC- | V1 | MASHUP | WL_YES | FRN | KISHA | MIHAELA | EXP233 | H1 | Special Offer",
+      "batch": null,
+      "version": "1",
+      "status": "paused",
+      "campaignName": "KH | Sales | Bone Vitality | Scaling | CBO",
+      "buckets": [
+        "Direct Response",
+        "Other"
+      ],
+      "launchedAt": "2026-07-10T03:07:50.000Z",
+      "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/742294948_1054030937025546_8489342865389087128_n.jpg?_nc_cat=106&ccb=1-7&_nc_ohc=_5usjWApXToQ7kNvwFTr26M&_nc_oc=AdoS-c2amsa99GQee2EC-XDs1sfZX9QmGC04Stysr8g8HsFD4R3viDSstbbjrgMvRxg&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ALfz3TcEAAAA&_nc_gid=FPOm9vFRYjfwowWhhrPAsA&_nc_tpa=Q5bMBQK8XYNui6hdUunrz4qPeW6mHgrJYqDJZxN6ag_ewDU0aOlkP1iuYmUPmriIzQrJwnPp6yyvEkZmjw&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=5fad0e&_nc_sid=58080a&oh=00_AQPl2c2U-pe8PLWNHOIx6WFOj1JKbjDi03ivuPnP7WLkIw&oe=6ADCAC44",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQJkOEhoqDIEhPB1Ig80HQ--u7UPEBfkFOAjVma7mk1DyclQ5UURmCwYiuJ75qblSMaYhhSjMI6SYA9zmkmJT1v8N4U2IWfuC7g9G7DRx4nZ2Hq_WkV8J-YK3pIJUho0lbNzzLApzMmwZc64kaXNBIUxi5CObO1Vj4XoMnHnyJCNh9moRuHtxnSEyobTk8Ph4k-tZvF86YRGI3xEA9H7XCoJNSGtvZa7ov7u-OplxRys-gciiUwwe_R-TJkLhxUvvGQXhBpb3mN1DYojviJVjKS5np6fj-IOSKIQ7dNaiSA1z0dS2kcFNqa9GpklI2KDCLnxhNMaTa2zxB-RZou2NKAggPXpNRIvIGcmOq9DUoP4INWngmK2G_1fIe2o7gcGKkxMg5g9wnY0_OJbf24F9VEvwE0oeIXSZeD-IYaJPYCSpMPjlJYrIEzkLjHfkdHS2Pk&t=AQJ-R4rhJbOC5MADPZo",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 2,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247093644830129",
+      "name": "META | PROS | EVG | BV | 30%-OFF | LONGEVITY, WOMEN 40+ | EXPERT-AUTHORITY | | NC- | V1 | MASHUP | WL_YES | FRN | KISHA | MIHAELA | EXP242 | H2 | Special Offer",
+      "batch": null,
+      "version": "1",
+      "status": "paused",
+      "campaignName": "KH | Sales | Bone Vitality | Scaling | CBO",
+      "buckets": [
+        "Direct Response",
+        "Other"
+      ],
+      "launchedAt": "2026-07-10T03:07:41.000Z",
+      "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/743252157_1791079965108592_5039585436018261000_n.jpg?_nc_cat=111&ccb=1-7&_nc_ohc=JdmNMnaiyj8Q7kNvwFatgZa&_nc_oc=Adpt_xRTxYGtrodzxaG-QDIV-gP2TEH02Spy5Z_ePYVyGWGvKPm11Rx7fzlBPPMC7zw&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ALfz3TcEAAAA&_nc_gid=cORyGYel5U1EvoBjrdM4Hg&_nc_tpa=Q5bMBQLWtq9WkaqvpMq-lw0kHIj5KZDwdGLxwZAdT_xPu5gtCgwexkWzX0S6ruODaN8HD8YM2m6c-g0ZyA&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=5fad0e&_nc_sid=58080a&oh=00_AQNoiz0-PYpInMX93Z8hzcvri3DBEw7XQgiHDairLSX8Lg&oe=6ADC915C",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQKffWHXGkF6SwzUp4gqk0PdLsRqY4XuYDc-WPb6L8_-JRukRTw9bZAHJk5QVDr-jk2G7oS4I2fOqby93zprwZUd54vGpdz0JcR3vDvhOb3o67nmVC2vV4q595-G5tR6UQBnRCA8PfNuDmZxHML6cxO8g0ASFB0UrayYAYduaG6IHE8iIo7vxchDmUK9lDeO5zWmGC5ygKXmzhR2pdt-93UXFBMMdtaFv7DBI0D9lQLrxMTeMgsLULpgjiLz2dA0a_k-fVVXkKLiiS7DcGJD9TGQdv-mPgramknj0hUE5x0i9RsWoHe1ox10zRPYG5yB_qfmH5Zhff-7Q9UOFDWB2wkUuuMW5AcezxHf1TmyDFws7USiaoghUku9_cTxG420eBxXyKogl_AZ4_DXAwZMAKialB1FcZ7OCmNOaSA70kUZ5ZNHHY3XgNjbdcEjaSrGUnc&t=AQJNDJf_tJ0eDW5znIE",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 2,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247093644790129",
+      "name": "META | PROS | EVG | BV | 30%-OFF | LONGEVITY, WOMEN 40+ | EXPERT-AUTHORITY | | NC- | V1 | MASHUP | WL_YES | FRN | KISHA | MIHAELA | EXP242 | H1 | Special Offer",
+      "batch": null,
+      "version": "1",
+      "status": "paused",
+      "campaignName": "KH | Sales | Bone Vitality | Scaling | CBO",
+      "buckets": [
+        "Direct Response",
+        "Other"
+      ],
+      "launchedAt": "2026-07-10T03:07:41.000Z",
+      "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/741275437_1197637639170904_7861767755203830079_n.jpg?_nc_cat=102&ccb=1-7&_nc_ohc=Fuz65A-SCmsQ7kNvwHipnl1&_nc_oc=AdqIHP4W013PXDyAIyjgvHRfiZRVO8DGWcN2QL5LDg6AWdU_2aHFcAnaH-BjI99Ho44&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ALfz3TcEAAAA&_nc_gid=0U0ZIohh5NsDUtR2albd9g&_nc_tpa=Q5bMBQJH3QUvOTHhkZ1wWWnD_cGhpYmSm8te9pU9Dl6vnezBYE3LRo41qpt7K8ruwC5SEPxrrF5TVR_bMw&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=5fad0e&_nc_sid=58080a&oh=00_AQNWpAyKxBYl_X9Xp4GOCDSmAhmHdmIf4rLqgU_fvIh7YQ&oe=6ADC87AA",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQJSqMnvlNSZg8_oYIDaLaaDGQud7wRlTOQPxlnzp--VOX_GCxLQTcMlXGloXJ2mYdRZM8yp1PQwjRLoFgyEXVadBMaXWncoaP8xE19E4ogu5PvdIKwQLpIvBOHrtUODNm4kkxeyQwjvcnQ50hCNPOWu0cj9M8QIwx4MBvOhJRgqLDzx2ZUxaoqN73ABjMx6cLliuITNpi8Zd81UefTfuiEmuSss9Ik9PpomBjzl9bM3TJoVjgvAo5WJNftLXUNL2dX8TRAVhATEi7y_0Swd_BjU3BFhMHFhEcJOwmGsffzgMrAJeJBFqVAuDcYXURlYZuHoEUCU9lwqt2MsfIHnmNNU2Ft7ovt8dgSGlz3hG0Mqe1wc4eByfubMYRfI7Z_ycVcifrjrwhS1cE2dZmXvVfcHZJmOj5SNNH-kAFApGZ-gOK7QutpzzxsMfIjPreryZ74&t=AQKKY8gjDYrQMyWkzDA",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 2,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247093644890129",
+      "name": "META | PROS | EVG | BV | 30%-OFF | LONGEVITY, PLANT-BASED | EXPERT-AUTHORITY | | NC- | V1 | MASHUP | WL_YES | FRN | KISHA | MIHAELA | EXP234 | H2 | Special Offer",
+      "batch": null,
+      "version": "1",
+      "status": "paused",
+      "campaignName": "KH | Sales | Bone Vitality | Scaling | CBO",
+      "buckets": [
+        "Direct Response",
+        "Other"
+      ],
+      "launchedAt": "2026-07-10T03:07:41.000Z",
+      "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/740461956_1037038772417568_5064493424625707019_n.jpg?_nc_cat=103&ccb=1-7&_nc_ohc=nAuHtDV7RD0Q7kNvwGiFpuD&_nc_oc=Adr8b501eNDZzm3wlWKH_BK6Cz-l5oJQOWZG1ZLJQ8zWQuXU6zv9dmGAbyod0c87U_A&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ALfz3TcEAAAA&_nc_gid=YispcQQS42_ftWUXe3i8Gw&_nc_tpa=Q5bMBQJxrCi5rS33zemXbLjtA7N9tujpB50e48hDTzd7dUKFbyDFVO7Uh8B2hcdruZRCuvs5r5rXB12RLQ&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=5fad0e&_nc_sid=58080a&oh=00_AQPjnKSdG4jV32CnxZR29LZfJvf5rm3Yvxx_ic-qZyRKyQ&oe=6ADC88BC",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQK_JAvQ8IXQ1eFWefPZWonXSZRkBySASYjl1pSr2osLbY8xnCbLtct2LbN-dzmheRSZpYBqjhZKg5IRSHGSCwy840HQibTlm33gUCZwXv1Qq60BqQVGcZvP0NVTWwpHVh9a9G7JhvzumVX__pEl9DRUAf2ifDsDACsP-bhnhxJWXVpbK04tXIT90-7I7nzw2R4EXZdsqcsoiFvdkj_vAlgmmD7GeHBNiYWV-FfR4Pclqi9e1SRBQtM-5w1kBVso8Wq2Kl-C1V-b9SU4_FE-FGMqwiBanmL00eMGw8T2i7UXbCwtsbUsDLD5TioqM46INOoLfYT88hcwcNw3_5_4n6z3l-EuB-5NcWxgNkkmVouUghddv4F7bZW8PzKhWckmc2Rxm9-VRnwmpcepIWNBm3-8-N0ZXgW0D9VA1gQ7quvAR1B75RZ0NleBe8hyR317WHQ&t=AQIdLIhipNSDmde0sig",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 2,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247093645030129",
+      "name": "META | PROS | EVG | BV | 30%-OFF | LONGEVITY, PLANT-BASED | EXPERT-AUTHORITY | | NC- | V1 | MASHUP | WL_YES | FRN | KISHA | MIHAELA | EXP234 | H3 | Special Offer",
+      "batch": null,
+      "version": "1",
+      "status": "paused",
+      "campaignName": "KH | Sales | Bone Vitality | Scaling | CBO",
+      "buckets": [
+        "Direct Response",
+        "Other"
+      ],
+      "launchedAt": "2026-07-10T03:07:41.000Z",
+      "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/739451060_2212832539569681_1075679427229454045_n.jpg?_nc_cat=106&ccb=1-7&_nc_ohc=hs25i7fjSSUQ7kNvwHAtx0A&_nc_oc=AdrBy7PcPsd-vEDc5OKQqzPCs21yak873GKUrt4swoDn7Uftji4HYPlZBoAkhbZeies&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ALfz3TcEAAAA&_nc_gid=XVmoyONsyN3wqx4uMdpmVQ&_nc_tpa=Q5bMBQK1IGoIIaY5SBJ4euYVot5Gl_4GLJyPvX8dk3SoNcVfIVSR9Bu3kEcMchDQSmlSEwq5F87bbQx7sQ&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=5fad0e&_nc_sid=58080a&oh=00_AQNoiWQbWiPI0ot38dKXWP4wLSGo6fGddbJwRSUrYHjO_w&oe=6ADC9809",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQL33Yi7oRc6zhqaws-8LDYoa0zt-W5Bd3DoJgFVxxsTQmrsO68yCWkHedpootqE6i9-2ugk80TCsvDL6EpiJsUssJz0_YTY-oZxc_VsEB5NdlihBIU1rxT3owKLBI5FYki2rk8UqXfLXtRRmzci_o_P4YviCRhZggyJbia_XRK-le8Kce1U8VxdmaQGLffs9nHptaZF2nTAZilGe7IdzLo64WbXBCMMcr-xzzS3w_TAmlNH2cOssQSuSxoUgZoJIJ1YVHq4bWPxQwUo8WpIFITZKmCzl5EOwoGv_siCLF1EQYUDkM7or5P114Ke2ItiviSpccnxQ60fvm_SaAPoKHVduuek18NtczxMigwebBxHK_ZmWpB02XQ3cOuab0LKCgSxQ31iKfaxMBVbdQBqLokxui6dfjE2Y8-S-rIeNg1tJwjvnY91xxPDb_WaMLuQVl0&t=AQJE1fF-Zdd2ez49Vxw",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 2,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247093645060129",
+      "name": "META | PROS | EVG | BV | 30%-OFF | LONGEVITY, PLANT-BASED | EXPERT-AUTHORITY | | NC- | V1 | MASHUP | WL_YES | FRN | KISHA | MIHAELA | EXP234 | H1 | Special Offer + Webinar",
+      "batch": null,
+      "version": "1",
+      "status": "paused",
+      "campaignName": "KH | Sales | Bone Vitality | Scaling | CBO",
+      "buckets": [
+        "Direct Response",
+        "Other"
+      ],
+      "launchedAt": "2026-07-10T03:07:41.000Z",
+      "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/742154016_2168310827289066_6303715913010404247_n.jpg?_nc_cat=110&ccb=1-7&_nc_ohc=NV2gxKiBfzsQ7kNvwHZ8Auz&_nc_oc=AdrZ78q7hjSxCgnpFiuio7glfYhrNJsijN6EcuOwSohKrgrcfzqb9NgUEatdWAozEGQ&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ALfz3TcEAAAA&_nc_gid=Lrkv_mrZEkKJW8ExyLolWQ&_nc_tpa=Q5bMBQKWfkBWgDSSYwkCJtMteWoJaRj0ML0w4YbIrcu3D2xXuD6H3ncDAM-HY_ujxcAp1yas9N9_pFCYcw&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=5fad0e&_nc_sid=58080a&oh=00_AQMBaQiM1yBJ5csZcL1O9uOgEkh0U0rngFSVXwb-2W0oCw&oe=6ADCABED",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQJrwi0dCco0jnFsS3V7FgdllZCDd3--QT3QOrx8dMaQ42jcZZKAawn633jTxnSnqwFN_BjtbZcpIri7Sy8ahTWLcnvHrQJO3F1bSzEVWRYtjDrkU17EJ7B5m0ua0Ojqbk-WTLty6luyH4IwrbHcrpFayWEBQL97HQ64rUktgiQCvmrtYNQ8s4zS0ZvE09AgQBRBZpl7NRbZEqblpk_pk0dhKjHNLy0lzC4aKxTcFbLhS4DA_hRROXoNkIWoFsn2Wlv5mBtUiGvIyHYaxEjMfkWfo_QsWRk3LlOkJ4OGiBFwRQHeFs44oETi5GZOGITIJeSeKPAaRC8oiBEJEWgeeQ38xDKLaJMyxq7c2DWnKnb7TmRKQMePudH8ScFs7q_gXytdg5InNjEjb81F2sGnCfdu4fovDBandvCXQ3PJd-fpU6hIet2qNf0mtQWBTSKS00E&t=AQKZ1nGu7OzTcvAm-Ok",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 2,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247093644990129",
+      "name": "META | PROS | EVG | BV | 30%-OFF | LONGEVITY, PLANT-BASED | EXPERT-AUTHORITY | | NC- | V1 | MASHUP | WL_YES | FRN | KISHA | MIHAELA | EXP234 | H2 | Special Offer + Webinar",
+      "batch": null,
+      "version": "1",
+      "status": "paused",
+      "campaignName": "KH | Sales | Bone Vitality | Scaling | CBO",
+      "buckets": [
+        "Direct Response",
+        "Other"
+      ],
+      "launchedAt": "2026-07-10T03:07:41.000Z",
+      "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/740461956_1037038772417568_5064493424625707019_n.jpg?_nc_cat=103&ccb=1-7&_nc_ohc=nAuHtDV7RD0Q7kNvwGiFpuD&_nc_oc=Adr8b501eNDZzm3wlWKH_BK6Cz-l5oJQOWZG1ZLJQ8zWQuXU6zv9dmGAbyod0c87U_A&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ALfz3TcEAAAA&_nc_gid=qQsklStQSX3KY9xbNBdAQg&_nc_tpa=Q5bMBQJ4pl_YZYaxdAtRAjMteIWQnQxKZYUFPLXOiXpH_0GI0rPr6yh_LJqilFt3qJVBUozobPAr5Kl2fA&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=5fad0e&_nc_sid=58080a&oh=00_AQP4cvb-4DrGHejXtJeKDWc2a6GgUaTqq0-ZOe10J1b_iw&oe=6ADC88BC",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQJJyofs8_Har5FrOvbbFCFz9aY3Xid1hBqYCKvixPRnOyJj8dx0RTWHdsDTRbGWrOUjCILtXcO3rDc8Row__xRYtZWJI82_bI-ZkyNdgcd5XFWaElQ2BRhZyx68h5s-wTX24KlUAM_Tn3MfgcNYcZU5pMKqaJq1L2sgWIE_53nv1bYY_SKCK8SEsJrWE0eXxO0HdyBXNDqnn9pMksjcBVKp_aQC_anAGMw96EjQqW7mHoXAYwUKcXcfZW0oVje8X5O0k8H4rsOj7twlxSkMwz_kfzhYgaxk3rdjA-vgFxJZZ-KuxVmF0Of7riWP5NmBhtql5awfZyI9ZOqL10tx4pdeuwYFEsRpgcavia76Sts7aTCR30XuzDYj71qH3weI2tzc2XcgtFpn2FAfXHjHr2zIdGSAse6U1ZMito3y0KgfTh0XjT4gkTxeAwVReI4Uork&t=AQIQIJY9MtPpBdGBD0A",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 2,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247093644870129",
+      "name": "META | PROS | EVG | BV | 30%-OFF | LONGEVITY, WOMEN 40+ | EXPERT-AUTHORITY | | NC- | V1 | MASHUP | WL_YES | FRN | KISHA | MIHAELA | EXP242 | H3 | Special Offer + Webinar",
+      "batch": null,
+      "version": "1",
+      "status": "paused",
+      "campaignName": "KH | Sales | Bone Vitality | Scaling | CBO",
+      "buckets": [
+        "Direct Response",
+        "Other"
+      ],
+      "launchedAt": "2026-07-10T03:07:41.000Z",
+      "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/742799219_1712776899610015_8931235605712257834_n.jpg?_nc_cat=100&ccb=1-7&_nc_ohc=C4-tsL05PLIQ7kNvwFGrqQF&_nc_oc=AdpyKsNOkJQi8cHMeex9DPLM-LGh0vyVstlcHme1C0LOgNegpniL2bTKyfutsWd6L6k&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ALfz3TcEAAAA&_nc_gid=8NSU1OdtOtnnT6RKY0QoBg&_nc_tpa=Q5bMBQJL9bITPhDeUiDCFCMC3jfjj2W6aYQDRD4RXStwv87C66qt0nUrApAg2EJoeFsuo6U1DUMIaRP3ZQ&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=5fad0e&_nc_sid=58080a&oh=00_AQNpaTY72D-HIENF0hrMZ2cwURFMS7CEEiP9tWcqTHr6uA&oe=6ADC8CBB",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQJR4S20t6rOwxYfxzhKrL0Y64S8crxXLVqbKt-L-Y4kusHi5BNQm1EvomZBQSCElTOGUYiVCrEmyh2LTOm5u8zYByQeZR4k21_Dz01A_b2M9vDERO7mF8XKYmIUrrL9yHw5zDxbEYKauBH5uUHFGgIIufSdtCRIQVUH5QAjzcFzAg1fZZzLC2zBZ0mF-XulE_i-S2w_nCoTONBEKR5X5DxIbbO5ihDRx69iGCoQkpvL7JbDnVK7P9K4PNAkvkrYiiZCSzIwgwxqUQIKEQifwXwQjIHK8KjFXD5DmsEZ6Vml0ZNwozLvDc15Aj7PyleRb1VYnGUfVr8geEjpRpJb6UANFT5NkeEea2Q_uvJtMPHb4IkAKGQHRA7JQ92TC8khb2VF9PARMmSIyfUtlUIECNDaSak-6fgGnPM7aYQZX1hQmTZ_5_DTWBoSEAkZoLv6pL8&t=AQJ1d_z7qt88DT-gdvw",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 2,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247093644820129",
+      "name": "META | PROS | EVG | BV | 30%-OFF | LONGEVITY, WOMEN 40+ | EXPERT-AUTHORITY | | NC- | V1 | MASHUP | WL_YES | FRN | KISHA | MIHAELA | EXP242 | H3 | Special Offer",
+      "batch": null,
+      "version": "1",
+      "status": "paused",
+      "campaignName": "KH | Sales | Bone Vitality | Scaling | CBO",
+      "buckets": [
+        "Direct Response",
+        "Other"
+      ],
+      "launchedAt": "2026-07-10T03:07:41.000Z",
+      "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/742799219_1712776899610015_8931235605712257834_n.jpg?_nc_cat=100&ccb=1-7&_nc_ohc=C4-tsL05PLIQ7kNvwFGrqQF&_nc_oc=AdpyKsNOkJQi8cHMeex9DPLM-LGh0vyVstlcHme1C0LOgNegpniL2bTKyfutsWd6L6k&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ALfz3TcEAAAA&_nc_gid=4lpRe2z8bkZ5kB025wQ9Wg&_nc_tpa=Q5bMBQKSalyBv9toREG2uvUShEHWr_vqBP3v9ZlYo_VbwsRcThEH_p3ZhllG8MezWxl2o9_YQQI6QBBKog&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=5fad0e&_nc_sid=58080a&oh=00_AQMS50aY-K4Ry3oZ8yBx_-vHS_NT7qQjLhP_w_7TCOL1Sg&oe=6ADC8CBB",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQJ_2BXt7V3L-quvha895L7LKv1O3ITzIoEcAAG8X4772o93o2uwoLH0lHKIasmOghTbFUOA27nje4Yy6cLXqqq91NHrqAG3tVgE4cdxpv6ZfV1SGCJwOKfGATn_p7Ka7lYBFrnAPzKDBZnv8dUlBunAcwG2dk4nTCZI34oUP8arD4BQiRYwVyGSebwlDqCWRgBJDixJiaAbaXrJm_lgQpLq8A5nCNIAHt2-fufy1NI4FDXwpHg6jYcQlaGec2nC2lznn3NKqoWYGLd8t8gA-XIRgFDpgD1fdiQaT9fA4X2_sUcw9Xt_SPduOQM3xkg98I0TmNEgTqoQnqRSw2ThZ0AwqdXqPfvZsWRjXRHQFttAj3p3_mCdkwLLyYU6Jro5QxlmL4pTRG24k3FcvN-yT6S-SfwsL37OaHJCKy1whsuuiVvPjUnJqounfi4pgjTjsiY&t=AQKNII5rcmm-AJE0CUE",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 2,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247093645020129",
+      "name": "META | PROS | EVG | BV | 30%-OFF | LONGEVITY, PLANT-BASED | EXPERT-AUTHORITY | | NC- | V1 | MASHUP | WL_YES | FRN | KISHA | MIHAELA | EXP234 | H1 | Special Offer",
+      "batch": null,
+      "version": "1",
+      "status": "paused",
+      "campaignName": "KH | Sales | Bone Vitality | Scaling | CBO",
+      "buckets": [
+        "Direct Response",
+        "Other"
+      ],
+      "launchedAt": "2026-07-10T03:07:41.000Z",
+      "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/742154016_2168310827289066_6303715913010404247_n.jpg?_nc_cat=110&ccb=1-7&_nc_ohc=NV2gxKiBfzsQ7kNvwHZ8Auz&_nc_oc=AdrZ78q7hjSxCgnpFiuio7glfYhrNJsijN6EcuOwSohKrgrcfzqb9NgUEatdWAozEGQ&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ALfz3TcEAAAA&_nc_gid=FKT1XuUDWLjsgwtozrZv0A&_nc_tpa=Q5bMBQKuq5mBiaH8nDqZn7Cj1NP6xPsBA8y7LbF0-7ntt2LAhmR7zxVrMhuIqQFrIFSRiflo3iZoBgU_fw&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=5fad0e&_nc_sid=58080a&oh=00_AQOu54sol2FQPPJd0NreJFoXh4S17_bDdbyOPJpaeLnkKQ&oe=6ADCABED",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQLpMJ4JBCWAjBSM6npevUrg7_etxmwikRfpROrTPXFVvq_WFT-yyYkCr-EngIzARXkDOsfyWcsY103_Mer4Qb-emuGIFUirYjriMmezo5Mo5CCuzIHlfgss_EE13b-w_Mxy3cE_QxMICHJ_1WZCLHxazT3aH43VhYtMD0w8aTyeArdU0-znRJGzPV0HouY-1zF3V8ixkHLT0T5fmQMe_VYg5purq1hKce9lyb55kH4pyJkYbxnbwforI52qjDgRnp1VYRBTOon4bv1SGUIbQUZ3GMsVo_Y-o5M3ESvcDEI6dbMDxTKqtYBeCpuMe0_noowMOM6pFTnHlQIr6J6o9OVL-6m5PZtS7MDXu8NnaCSQFrAzll177fG020eND3F2oge6uOrZAPA2UihRPCrhIn8n8OBdIu-2wL-zuQGEieRUg5P1g3tnIphg2JtdwWrHg1A&t=AQLCvjV9sknKf7UbtUg",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 2,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247093644860129",
+      "name": "META | PROS | EVG | BV | 30%-OFF | LONGEVITY, PLANT-BASED | EXPERT-AUTHORITY | | NC- | V1 | MASHUP | WL_YES | FRN | KISHA | MIHAELA | EXP234 | H3 | Special Offer + Webinar",
+      "batch": null,
+      "version": "1",
+      "status": "paused",
+      "campaignName": "KH | Sales | Bone Vitality | Scaling | CBO",
+      "buckets": [
+        "Direct Response",
+        "Other"
+      ],
+      "launchedAt": "2026-07-10T03:07:41.000Z",
+      "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/739451060_2212832539569681_1075679427229454045_n.jpg?_nc_cat=106&ccb=1-7&_nc_ohc=hs25i7fjSSUQ7kNvwHAtx0A&_nc_oc=AdrBy7PcPsd-vEDc5OKQqzPCs21yak873GKUrt4swoDn7Uftji4HYPlZBoAkhbZeies&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ALfz3TcEAAAA&_nc_gid=0rKXLBrM04AAKDOgTD-vtQ&_nc_tpa=Q5bMBQIUfVi4BtXIGnfIR9fYqQzZrnAhn3auBS8AxMBsJMwsef8fn4Wor9pMa78VtyynAyZ0Ql0e_fjKog&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=5fad0e&_nc_sid=58080a&oh=00_AQPZOfEK5bYzI_SHwjCGy3d2mUCBlwo6VcmTD6MqHOU7kw&oe=6ADC9809",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQJuwY5HtWhtsGKa4JzqozXStEhVKDYJWVvWvdXCnyRVwrwsI8nsE3yOCaDUFDdWnUHU30N22wMI18OYVoRkUVP9k4XdEB8zDCOO9ylCfm05HcTnO7zZ8kYOQB-U2_QYzUYVBzYUmetpwgsAhDbXzk2gIoa1jb-9dW7UIpeC97Xwhp5tCFagO4ird5OvSJ_-U2_HQuVTePdr87kf3ocAXjR6QAIwmWc8qmKoZ7M7G92Wg1Ghjudahm60wtVB8RI6-EMeuX2hR6-MWzdcQEyphblfOCiit8AfPLNLK3QN-Pkl5qEl2k3BrrE668plxCNT0sjxGBvxeXngeVUQ5WN0-KT_aslUAtHhScfkyzZ7FgJMNZsTs6TKKmG44E8byG-WeYJov5is7vxOCnfIlrkJrd6Pmg4jcajmxU7UWKUf4XoR0Kejg0AWjF_NAAPDHVxk_KI&t=AQJTTJqJCkKIEOblzRM",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 2,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247093644930129",
+      "name": "META | PROS | EVG | BV | 30%-OFF | LONGEVITY, WOMEN 40+ | EXPERT-AUTHORITY | | NC- | V1 | MASHUP | WL_YES | FRN | KISHA | MIHAELA | EXP242 | H1 | Special Offer + Webinar",
+      "batch": null,
+      "version": "1",
+      "status": "paused",
+      "campaignName": "KH | Sales | Bone Vitality | Scaling | CBO",
+      "buckets": [
+        "Direct Response",
+        "Other"
+      ],
+      "launchedAt": "2026-07-10T03:07:41.000Z",
+      "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/741275437_1197637639170904_7861767755203830079_n.jpg?_nc_cat=102&ccb=1-7&_nc_ohc=Fuz65A-SCmsQ7kNvwHipnl1&_nc_oc=AdqIHP4W013PXDyAIyjgvHRfiZRVO8DGWcN2QL5LDg6AWdU_2aHFcAnaH-BjI99Ho44&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ALfz3TcEAAAA&_nc_gid=A8_KIyr4EeOJ_uooAI20jQ&_nc_tpa=Q5bMBQLEbnk-nGTZYniKSepXUQ5Sjk08p49ThCvmuVJ0FcNisoAHCo-DcJj67UwL_FLvsWHDKWcsaVkRUA&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=5fad0e&_nc_sid=58080a&oh=00_AQNPiZ3o0d2w3WchCD2pyxmx1pmbwZn6ot9ycR3X2nvrEA&oe=6ADC87AA",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQIrzjXmZ3D7edz6LqDsoYHPIAlvrabmbhsYCpT53e5ta9vVF2hUlxsUQ-Y1jM_QtDXoaRLjwQSBLb8jfkOltJiPynORz28Og0HEXloL2rdKOGIO6oXVSIrDDLsJT6BUycu54Efmx74CMuxa9tpK5-BaZYvZHU7J6FjU9imY9KeCyjw9aD_NiOUWp24Bmxc6bRdQKpNkjVbXB-DMF-reLDcBATsABZWLNKBPvdobmGoqSB0xYIwrTZrGz3U58QNN3YFxWeXutPpANUI_Fj76hdJB7xNSkm6NVZ7vVvO6H9cl8Oayhvzt3zi9NFSfKEFgRvZap4kP1nIT5hodcunHcZPZOvIfLNcOVp9rpM_R6HUViKoBTT2U4niuWfSaHjU6gj9uyIg4DbgS7W98y3KC2aC1rZqAjA1APdguF7h545O01zmM_zGVMrhTAA0HoopFePE&t=AQL3uEGDiNx2xLhBj0k",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 2,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120247093645000129",
+      "name": "META | PROS | EVG | BV | 30%-OFF | LONGEVITY, WOMEN 40+ | EXPERT-AUTHORITY | | NC- | V1 | MASHUP | WL_YES | FRN | KISHA | MIHAELA | EXP242 | H2 | Special Offer + Webinar",
+      "batch": null,
+      "version": "1",
+      "status": "paused",
+      "campaignName": "KH | Sales | Bone Vitality | Scaling | CBO",
+      "buckets": [
+        "Direct Response",
+        "Other"
+      ],
+      "launchedAt": "2026-07-10T03:07:41.000Z",
+      "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/743252157_1791079965108592_5039585436018261000_n.jpg?_nc_cat=111&ccb=1-7&_nc_ohc=JdmNMnaiyj8Q7kNvwFatgZa&_nc_oc=Adpt_xRTxYGtrodzxaG-QDIV-gP2TEH02Spy5Z_ePYVyGWGvKPm11Rx7fzlBPPMC7zw&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ALfz3TcEAAAA&_nc_gid=ZeRdn6RRWo9SqPWnVyLswQ&_nc_tpa=Q5bMBQJYv5VGil9ckkPFtm3ZhScfxPAdMTqKNuNlrJkdyl2L6KEy87TypKGsaAMQWif7JzKsSpnnhOtpZQ&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=5fad0e&_nc_sid=58080a&oh=00_AQM1vqUANeuDYU9qESIcJC3clFrycALcAcn3RVJxjSsF6w&oe=6ADC915C",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQJppxr07JQeq-u0jftwUCAbO9Idt90m6ej9oo2PPrVbeMHhrFnMI2_CwzoJBgL0zUpD9k6IocY5Uq1ddVTtAo1C0G-i60JdXUhH6_iUoFaQL7ZBOnxqKhYzwTIabzIozyDVdi1Q5wbJv-5FHU3dCPI-4mc71ljBbvE2PAaNWHg1TqWMD69XJkhkAS-EVzyw2M2t5kHZGZhpnl0bK7zG4HuKXO0Rfbupbtp6zkbsUUdQ3S_G0LrGnbks2mZhWMqXI_bNHD7EXKOCqJZBxO8bIpkcUMMySpUfqswpnDBFTkfcxXk00bjassf9vaVt46m-vVGG6ShonpJlAc2rgJ1M3QIy60whp4V_lJLnxtj5wZap-gCmLQUXi-2bwY0Htp1U9jKvVVy5eyCxim034asLCD8QAw8Nf_nAHMBQttJICqguIU20u4NcwIuPxsIf5-NUFdU&t=AQIU6oX063LhqWR5EdM",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 2,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120245886673730129",
+      "name": "META | PROS | WEBINAR | BV | 30%-OFF | WOMEN 40+ | EXPERT-AUTHORITY | NC- | V2 | STATIC | 4x5 | JULI, PAU | WL_YES | FRN | JULI, PAU | JULI, PAU | EXP249 | BV WEBINAR",
+      "batch": null,
+      "version": "2",
+      "status": "paused",
+      "campaignName": "KH | Lead Gen | Bone Vitality Webinar - Jul 15 | CBO",
+      "buckets": [
+        "Other"
+      ],
+      "launchedAt": "2026-07-10T02:45:02.000Z",
+      "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t45.1600-4/744141828_10162690149896156_3704660014660327013_n.jpg?_nc_cat=102&ccb=1-7&_nc_ohc=aY_NGf60u4AQ7kNvwGn9HXK&_nc_oc=AdrwbEWbWEZkak_JSUay_AR8mCPzJ6BBV7y_JTMqibEA5-7RBtzeVgANpGMCG1XpfbM&_nc_zt=1&_nc_ht=scontent-iad6-1.xx&edm=ALfz3TcEAAAA&_nc_gid=qTbEf8RrC8uGFry4Gl3vjg&_nc_tpa=Q5bMBQLH7L8qze_g5Lym0NXoWwbShSdelq3sApGpPBUNZQtxzF3txFjTMx3UEtgME57EIp33SR0BWxr-PA&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_AQMuAsyfkUgZk79SmSk3uhW2NdOLWip73BzDrh9oiYT3MA&oe=6ADC84D0",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQJhl-Rq37KAyfultH9Yv7a0_VA3Rcu29ey9VeR0eJ4drpqECYyLC3DAuKt53Dg2U_HrPeUCWG-m9zDQau2dlXhaiMKXW_5SHeNrUZZiG83URshl-8j3YDC9z2VvT0v82KJ2QquN6_CTP4KXNgaIu4OWtG9FcFA1EoJYJaS169WOEpUMv72x4heb2JczOPBQS8IDDzxq8Xyk5WmuwkeM_BjIOixpzLA7LoJ4OfAb-OFtIQivZ1RVQOpEt4xz0wle1qWNzvCyIOh5waOHF_zUdYGTNmNdAOAAtBPc9q9FnbByooVxVkQNZDrODI56QjflfqhRQBCtigpX1_C2HhUAmxpsEoHDxyd0yiBiWY3vLUKGUEdlwhbaIHZoDilNrQWrVT3xVICU6GMSIb8OTtarvev_yAU5-4jh-xGbDsuXNyq8H2e1uq-TpSoCDLu5eX2Lq3s&t=AQJg6dr-dJVjGZW94Rg",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 1,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120245886783750129",
+      "name": "META | PROS | WEBINAR | BV | 30%-OFF | WOMEN 40+ | EXPERT-AUTHORITY | NC- | V4 | STATIC | 4x5 | JULI, PAU | WL_YES | FRN | JULI, PAU | JULI, PAU | EXP249 | BV WEBINAR",
+      "batch": null,
+      "version": "4",
+      "status": "paused",
+      "campaignName": "KH | Lead Gen | Bone Vitality Webinar - Jul 15 | CBO",
+      "buckets": [
+        "Other"
+      ],
+      "launchedAt": "2026-07-10T02:45:02.000Z",
+      "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t45.1600-4/743485473_10162690151171156_3633561952505660573_n.jpg?_nc_cat=109&ccb=1-7&_nc_ohc=c8u-vZx6h0UQ7kNvwH-bYBI&_nc_oc=AdoUTZp78_IBhAWaGMQibIcQltwK6618ysn_uVYmM_DsskrguoZBhcneTZWCKkjHxMU&_nc_zt=1&_nc_ht=scontent-iad6-1.xx&edm=ALfz3TcEAAAA&_nc_gid=WF67l3kpxQiTWdRmGEaPaw&_nc_tpa=Q5bMBQKpDGYsSZS0FqhYrFauLa4WzdF7GNjGVYg5O3b_-2SQgE4zm4maLQJOc-w_OwG12GRHm1DXwKzYeQ&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_AQNGga5nWQOxLC_SBA6BawFI0Fzf7L5zVIoJViJTs7x0QA&oe=6ADCAF6F",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQKOfGMT1q7PeL_UzLeWKrsl6NlwSy6Cizgs-ggRs5ctY5fG08szIncxMNNNbHwHWS2EzvehJ7PVsYw2k7eVEoOO9tf2csNbSfMWGFna7xkgGgHZQOOMzgwFUomWYj3t2KksQOll5nfoR4sNWsXrfpO-R3ya7IIk_dESaEdrlKF5uZw1H8wdDVdXRaItqxLP3v2kWw-OsymZIKVaq7Bnno5c4FCMkMdPieD85p4sAHVMEV2ySzY50TbgVkdSwitgSadhMW6bHQXI_F1rQJQBdF74-8AU2nn_8GAW9hSehO-v5wkaTY8NOocwqE4_TUNSn6_jY8vF71bZK7G9Wa5Il6aGo5IOG5b-aH_h8HRB470BrZt0jjwV59RbkR71HTnh3GBTQ0q8mD-pTYMLw1kbiKg-Z6sgm2Y8TkSc43n31HP45d7gaICIDgXZbF3O2jgJjUU&t=AQJI4xVyfFvzlXqWHzE",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 1,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120245886783740129",
+      "name": "META | PROS | WEBINAR | BV | 30%-OFF | WOMEN 40+ | EXPERT-AUTHORITY | NC- | V3 | STATIC | 4x5 | JULI, PAU | WL_YES | FRN | JULI, PAU | JULI, PAU | EXP249 | BV WEBINAR",
+      "batch": null,
+      "version": "3",
+      "status": "paused",
+      "campaignName": "KH | Lead Gen | Bone Vitality Webinar - Jul 15 | CBO",
+      "buckets": [
+        "Other"
+      ],
+      "launchedAt": "2026-07-10T02:45:02.000Z",
+      "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t45.1600-4/742760026_10162690149876156_292549133040473256_n.jpg?_nc_cat=105&ccb=1-7&_nc_ohc=L2olmbJaS4sQ7kNvwE0nKxi&_nc_oc=Ado_SQX3LerurGHWqC_Vbz9ZIhZspbVKW7cK6UwNAb8nffRg5Fh55RAtS66BHYMAKt0&_nc_zt=1&_nc_ht=scontent-iad3-2.xx&edm=ALfz3TcEAAAA&_nc_gid=t_WqXlfZ0L-NAnr5VMofGw&_nc_tpa=Q5bMBQKcbUuZtJgMOMMomgcTR9vQ_6cdv7iDGrd4rszBKqMKokwv9lsPr2TBMkZLRga0MLJDCAv4YRZ04w&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_AQN8SvZX8zWWaGZDQNvAKZT-18gXeuUBsflv_SsjcBkqdA&oe=6ADCA35D",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQIgnXvk0jXi_aCFVr8QVnI91fnqY9Is6Wejw6_pFpsW5gY94X1m_wrKSGSS3ZgeOMmOf8ZGGMZ8cHut4fOGZBNiOqpbKjFOgLWMtEaGF14fBOa6UkhEP2TTVQ_uBB0GZf2khIejk6DndbLXmB19B61YUQP-pglWMfDa9rMWHdZI0ikWvm0OVKySx2da9f2iggdaFBDqcMZlaVjyS0mKGCVT3aRHpNtGWo9ybMEIvWUdE-B2aWtjLnAywV1qXKkbdz_3e1RYnlEHkyLcG2HpeLMB3UcqSgRtapvox7quBuIyu7L5VfeXhcgYhV7zVFDWZdHRBgv8wAwpE7zMIEzQgcqNzMQPj3Sb3q1m2WhXTjiGGaRDdStcrfk58HWOYonmSjTbMEpCPIW15nkA26ZsWcS2tGi0PM1m9P88pr3dYCPuQc8z1frbkbXNreVQo5L0jVU&t=AQIr5wKySC0mxtvkn6Q",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 1,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120245886770500129",
+      "name": "META | PROS | WEBINAR | BV | 30%-OFF | WOMEN 40+ | EXPERT-AUTHORITY | NC- | V1 | STATIC | 4x5 | JULI, PAU | WL_YES | FRN | JULI, PAU | JULI, PAU | EXP249 | BV WEBINAR",
+      "batch": null,
+      "version": "1",
+      "status": "paused",
+      "campaignName": "KH | Lead Gen | Bone Vitality Webinar - Jul 15 | CBO",
+      "buckets": [
+        "Other"
+      ],
+      "launchedAt": "2026-07-10T02:45:02.000Z",
+      "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t45.1600-4/743319343_10162690149916156_7383528731715150220_n.jpg?_nc_cat=104&ccb=1-7&_nc_ohc=DZIFahDyCrEQ7kNvwEsZZrs&_nc_oc=AdpfTn0GbT4mXvf-elwOYoVqrJ1lxp2MOE-hsZrDgqvjxsJqkG8WnEobUQqfGsvi6F0&_nc_zt=1&_nc_ht=scontent-iad3-1.xx&edm=ALfz3TcEAAAA&_nc_gid=u5zTSO-14R_y3SjsoIIoew&_nc_tpa=Q5bMBQL4evzQ-mT8I6Lt59wmnUQ2BzQu1T3zYtrRfe6eWr1UjDErffFt-tuErCas9eV-MmS5Fe6yrs-xAA&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=52f3c4&_nc_sid=58080a&oh=00_AQM-6BvAlQr6F8I0ndO3a6XCWgdmf3WO2hgwUtzKEII_xQ&oe=6ADC99BC",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQKJtiwH-QpyWymI2N2nlIdmmKo1La4A9jUe1kcq3YU78HNoP_-1e-qDcqe0HVJ5KXKyKyAeg6XBE71V-QhPJhHENqrTwJpPyXbQtTB14CEqxRdjhejorVkxXKDP7woCwQveqBytV0UG6Orc-3yqbxKEXL19TAmJePNjRDvuGr2gFs0IADAlIJolSmxecA_JjioqL9_css3zXkTMpzT8jsCT-fNCn-bDCZjuzRpB-DJtBWPZW5t7LkKLGi7rI7tLiWwBDFRHe72i1I3mgbq-9j_c_82jG57z7Dk1_9J9JLOs0ol-j5ucxfOkLEWksTGWQ738bknJ3p82PaQM62YBTkTF9Z4bmVS13ZsGIEwNjTsf--KDb1mXSRic87LEIjpbR9R9o6SztpgwSNmj5doqRLo8oaUWujrePD4HRT3IUpsISwlLIG765Rh1L2QNanAbQek&t=AQJ2iGIEvEMXZhr-AF8",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 1,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120245734771630129",
+      "name": "META | PROS | EVG | BV | 30%-OFF | PLANT-BASED | EXPERT-AUTHORITY | | | V1 | UGC VID | OCEAN | WL_YES | KISHA | MIHAELA | EXP238 | H3",
+      "batch": null,
+      "version": "1",
+      "status": "paused",
+      "campaignName": "KH | Lead Gen | Bone Vitality Webinar - Jul 15 | CBO",
+      "buckets": [
+        "Other"
+      ],
+      "launchedAt": "2026-07-06T12:39:17.000Z",
+      "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/740425434_2470120623460910_6723586867008786018_n.jpg?_nc_cat=109&ccb=1-7&_nc_ohc=EVB1cn9A4zcQ7kNvwHJVdt-&_nc_oc=AdpOugNdqdX4wrczcXjVdndHtLUujm1URlcaJEXpe1L91wll3bYuqfhV7BfjXjulWVM&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ALfz3TcEAAAA&_nc_gid=hmsi-54rtUVSPDfxYHECfQ&_nc_tpa=Q5bMBQIuz260rInjLaforicq-7JQY78SSs5TcGvSmDKhEzdhjFIknFjZi6YiN3hfN55m57sxlTTjQOrD0w&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=a86139&_nc_sid=58080a&oh=00_AQM9gan-dkNUAg4A8mqgJrVuEhgPHxWdhdpAPPdW4wgtYg&oe=6ADCA7B0",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQIAEsHvv7HfTv6lnYrRxWYNIg0ZQo5AcntU5f6XQBVC-dpGgjScLy0mJ2s9RvCmeuHSG-3FnerZ7fBxK5VMdE3P8et7ZQx4JtiCkvAp9Hokrj_nH8HYhnJiylnf-bO3TwfZ_UEOxRjfJQOLjWOrEynpsu-Zl25iheEj0KQmmGJ3PqVz2s9h6HwaCN375--59VY0STAnkTOWkBsEw6nix44i4t8dBaUM6r33lYOiYI8I667JHw5RciQaHa5VX5DF-tJtcOX4gl8XErBhPdm_fKX0m6vBSJuJM4KQ8HNgvve0BblC_cVvamho6ri4yKCH2QRI88CxdxDabTYbrrRSbLoPexxbFKAu4BddDV0P3yRcEupzN37fjtLlqh5fs4K9lxU0G9U21_21LCiWOJAQ5ToD4wvOGibEKUMwo1r1XKPewFoAnpg9VtEIfWD9SMHPrOo&t=AQJStp74hOZOY1rlQdU",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 1,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120245734899090129",
+      "name": "META | PROS | EVG | BV | 30%-OFF | PLANT-BASED | EXPERT-AUTHORITY | | | V1 | UGC VID | OCEAN | WL_YES | KISHA | MIHAELA | EXP240 | H2",
+      "batch": null,
+      "version": "1",
+      "status": "paused",
+      "campaignName": "KH | Lead Gen | Bone Vitality Webinar - Jul 15 | CBO",
+      "buckets": [
+        "Other"
+      ],
+      "launchedAt": "2026-07-06T12:39:17.000Z",
+      "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/741035948_1300426335496815_5382669327989197444_n.jpg?_nc_cat=101&ccb=1-7&_nc_ohc=TEhjLdq9-ckQ7kNvwH4OYYL&_nc_oc=Adqz8nEghbbAFp9SYKqKVdXlv9QtSj6WneVGdnmm6C5G8YC1vsPi3MC4gaAIIrVGP9E&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ALfz3TcEAAAA&_nc_gid=bGSvRbSnP-LbdsgSW7Dhuw&_nc_tpa=Q5bMBQIC_emuKtW1ytGA4MW6aE0SdEQBeewQskmDxa0mZdw3B2CnSmNFrRmAbhkROZJVwJIKcRuCtPUCew&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=a86139&_nc_sid=58080a&oh=00_AQPQQMj_94RK6Fd8V1pKusc5yhhteiCjdu29FxdGNWP4rQ&oe=6ADC870D",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQLNBSzaq64j8MewZFKqKGc_KorqCG8GewmQdStvvjTMFDMpxEdrSPoZYG0BdF5bCeRg_777zUrTGE2-ea7Dgg1cMRMBFJGnCocffF-TJui2ITsowqUMRIS9MW5yVp9ZOXijxxDI7VvudCz-1aS1ozoayYAT7IrHq8mx2EMnukSTdtHoS-dW_IoNO6RdvxXzq-Ei-mP-TJ8VqBvIj-Adp997oOHh8WW9HGtuTxkxTHqLZuDLpzdvQXOLE3XM-7tvC8-owOCQ9jQAhxIbQ7k7tCSGPXq-bOy8Te2hbG_kUMxSbXw1r4GvAwqNc_wgS3mPsDbptZa2VlWojRDqc6G9NDEgIDXVIIRa5bJ6Vec37VNahlX_MdmcViftYRavh6mkvlX5xF9dr4uy5ZGq1SFDq140wXx3c6yrZiUhBXEugryW1dgSF6j3R4I5CHrfjm-Rrw4&t=AQLDfZMwt-SSPRD_HJo",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 1,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120245734714750129",
+      "name": "META | PROS | EVG | BV | 30%-OFF | PLANT-BASED | EXPERT-AUTHORITY | | | V1 | UGC VID | OCEAN | WL_YES | KISHA | MIHAELA | EXP237 | H3",
+      "batch": null,
+      "version": "1",
+      "status": "paused",
+      "campaignName": "KH | Lead Gen | Bone Vitality Webinar - Jul 15 | CBO",
+      "buckets": [
+        "Other"
+      ],
+      "launchedAt": "2026-07-06T12:39:17.000Z",
+      "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/739332119_1012036745057206_3236160921035986421_n.jpg?_nc_cat=108&ccb=1-7&_nc_ohc=sRb2_1O70AMQ7kNvwHXDT6c&_nc_oc=AdrUp6WgC0qGvQEhHP-qmz6NJCEknUaxyJ88mlKJU17YUBnGixx_k8xbZaHQW9KLQn8&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ALfz3TcEAAAA&_nc_gid=7j18erNv-f3Gp3oWZaL9bw&_nc_tpa=Q5bMBQKp3TlQlTDy2bhrDC6O8WLxMXSh8ZUeBT52sNqvAKK_9mppJYob9L6qJgWDGZ7nm9ft9SZFvgs_qA&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=a86139&_nc_sid=58080a&oh=00_AQP8R-hDNGoHeZHOACja05fh5hKjYSxAKpxMiq2y-7jBYA&oe=6ADC9CC6",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQJMMBfGFmrJlGJTAFhHNXftInlHjx1PHBg95t7HotUJeOFbAONWjtS-y50ngQQVlbyXfLVZdG9O1NODqS8HhexEhYHj5ZyxORGy9zoqqURx1mY3QdaDBJC6qXsnHpWU-LiqdhGIOMd5PDmkA1EsY7a5g5HTbq8r_-eIidsQdQj2fxa_ukFY9zJKBuP1cKerJRB5WoZv8asog3V8rBrFu_akZLaqwdfymc0zu56tdxJVzD1ubLorZ_lAyln1sYwDIjxuRMsXOWH0CfVQghEFHchlgieAjYBf40DafR9qYqh8a1GZ3ymXVS0NnQ7F-Owwj2gza7Q-QJq83XszwQNYxLshsmc4Rk9XT7756zCH-fL9LxO8dn71O3ShB4v1h2ymqhNyDJnfQ5bGglsq7UsCX4RgdavvdnGWSZ9GMbYkUe8SwFwq1I4f3sjH7XazYfCJnzk&t=AQJ5zjR6krnhift1BTQ",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 1,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120245734867850129",
+      "name": "META | PROS | EVG | BV | 30%-OFF | PLANT-BASED | EXPERT-AUTHORITY | | | V1 | UGC VID | OCEAN | WL_YES | KISHA | MIHAELA | EXP240 | H1",
+      "batch": null,
+      "version": "1",
+      "status": "paused",
+      "campaignName": "KH | Lead Gen | Bone Vitality Webinar - Jul 15 | CBO",
+      "buckets": [
+        "Other"
+      ],
+      "launchedAt": "2026-07-06T12:39:17.000Z",
+      "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/739083058_2116961442352294_8873652577501829857_n.jpg?_nc_cat=109&ccb=1-7&_nc_ohc=v6d5kEv__cEQ7kNvwFS8ppM&_nc_oc=AdrlYL_Nx8aVhUS-CWcHvOQtSyraruwOUj0kJQED-D2-91Ndr97YXVGmb6mcQEo7-yQ&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ALfz3TcEAAAA&_nc_gid=jsxqGSZfj9ADvZp1Kn9pHA&_nc_tpa=Q5bMBQLYwKyMB9mKeVw2NGFxjrJl06OM7pAt8wuiCzCQzKTnnytsNMAqHdyC9y771-U8ZPbNwwFS3D9j9g&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=a86139&_nc_sid=58080a&oh=00_AQOqPZPdGy-wybTazbRzhOfkzBlUyoxlEEpdrkJaBAJRWg&oe=6ADC8E6A",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQKG-OH1zJeRiYM3O-DX3FN_Vor5STbx2vbpoZsb-xWzhl1Fi6ed9M0NyK2RO8Pi4h8ApzEnXEFUEi5wgbZLCeFrrz88dHCkyg6S_w9F-neXJTQZbJWwomlBHDydDyuQTvzA8ucE2CtIWALHzATqBV-AQ0R0ZwtV-oHZOdgaMm8LFg6Ga9KUfLDzNrfyz8zdMN3ZpC0ZmwU3qB_eu3mrWnTlObjqtO6foDqgj2mtASBqW3cjGYqqGab-9_WogetoUnToUoj6d0wEzMMp02X1NlRDSYBxomUdW4HjcTDtKuEyaGJ7tLa7ADY4QWW0iKxqO-zHoBT44tWjc89zgPGjoAy-4X7fsZzHBQCp_0WKrtsZpLLDcX5gL4FhgkuecFxnOGv8TP3WdR-FYNhxpJlIuEfIbbhL9uAe6T-OQ3xdy1Dh6AbQOCI396WwUIVLkossSbo&t=AQJfWFUTJEQZkrZ2O6I",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 1,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120245734828950129",
+      "name": "META | PROS | EVG | BV | 30%-OFF | PLANT-BASED | EXPERT-AUTHORITY | | | V1 | UGC VID | OCEAN | WL_YES | KISHA | MIHAELA | EXP239 | H2",
+      "batch": null,
+      "version": "1",
+      "status": "paused",
+      "campaignName": "KH | Lead Gen | Bone Vitality Webinar - Jul 15 | CBO",
+      "buckets": [
+        "Other"
+      ],
+      "launchedAt": "2026-07-06T12:39:17.000Z",
+      "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/739335368_1313058884244892_3025972171964278672_n.jpg?_nc_cat=107&ccb=1-7&_nc_ohc=HIGAJkU4hn0Q7kNvwFJbi-g&_nc_oc=AdoGOiTvZ6n0YY80Bp2uOAP1YWIB4qmSxRf-Q_auvfJjcliy9kMsLzM_AjfA2enV9Ps&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ALfz3TcEAAAA&_nc_gid=RpyP98yHsML5S36JsMJA_g&_nc_tpa=Q5bMBQKeJvgrAFiaaOvJZLQ7KSupy73yoj8MNp-aSKsur8jong_LM6DvEKqSSmW-fBjsR3wI8AK87AGP8g&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=a86139&_nc_sid=58080a&oh=00_AQPkOZZNC62XJWVBShSzM5P5EZ2FcPemNWwn3GwAxQwd0A&oe=6ADCA600",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQIpDi4varORshy6_qBAOLut4I4ov8eXGI6bpudeBVfUhrU7m5AFAAg3OqMCXIlw0KWbkbwCqcA0_oJpuJhncgjpUrLMtawKipDrGXLulDboEI7yg5m48FFWVkNbDWm_ppAnaA1_8exNO7BdmWC8GMlB-pUyHhUz9ilTQy59cUOTroX-CstFG7-w77exnivY2DBSJ95uHXxu5tfTlPl3h-AivE0gKFNSMDAJRjBTHK1nU3fTHhQu3bahh2UHFEht2914NmBtMZpGuLzZQygG48l_MXGgggs3Tg8FSOdffx4xNd5bF3oevNfymlPVloaiF8oKcHkoUtAd0TaRS_B7LAV9yp4RTev3lCZWHuuPQIZ9qlEfapB1dpy1NEgl0Ue96E18phPnpNQhdJvVzcprKrKnz6F4EUJ3Wgax6xv6bLfwGPPQrR3RTn75VFyhLbYiFoE&t=AQKLf02T3LIFosHYJno",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 1,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120245733871890129",
+      "name": "META | PROS | EVG | BV | 30%-OFF | PLANT-BASED | EXPERT-AUTHORITY | | | V1 | UGC VID | OCEAN | WL_YES | KISHA | MIHAELA | EXP237 | H1",
+      "batch": null,
+      "version": "1",
+      "status": "paused",
+      "campaignName": "KH | Lead Gen | Bone Vitality Webinar - Jul 15 | CBO",
+      "buckets": [
+        "Other"
+      ],
+      "launchedAt": "2026-07-06T12:39:17.000Z",
+      "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/737528801_2531210574044778_274472496161708460_n.jpg?_nc_cat=101&ccb=1-7&_nc_ohc=EM5-yxXpmtYQ7kNvwEobgvJ&_nc_oc=AdpOitZ8EKHB_pv1VHpeyz98S4Gc3OXWeIuPusHv2b1rFtB0rt6O7Twt17VABsC8EeQ&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ALfz3TcEAAAA&_nc_gid=3VLNvBthuBTUln44fWbC6Q&_nc_tpa=Q5bMBQJs8JL4ylVC8Ug-_FuVKr2vcayQXUjUjyp8XgGT3BKC4PReqkNJaQqZZgj1ybRP-zlk5slIUG-50A&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=a86139&_nc_sid=58080a&oh=00_AQOpv1aSICjOXOawiHLhZTXrP8SKGaNO2CntfwNfsUlmOA&oe=6ADC97D6",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQJzP5GCMesDyybSrUVYQWcnH-2shG2NSUGeGMq1HltHQT64RfKSHly6iOuPdtzufbgg-mJndFlbFmxXH87spfpl3an0JevBlxaLhiryW19RiGhMnQnlBfn7Mvmnaw7g8l-MJfiw-LUGbKpVQxy9viTihNdCdAwD9xomtLVkdNFV1QKHkDbuCzjNnFAJewmAgsC3-3jy5o6lgHzKu30vBH6EhoREQyg3wHr-5XpZJdrWUC0dFRXBZDdx5_0Jz_n2Hiu2eBnfrQI-ThUyWWtnygF38Kctp9V7IzkCimdCsBZpljfmxGh3qagVwdtJ7KgBAAOLOddXIISYIzbAn2xxwmgML3npKh1WJxcz44QonkG_2q73hSsiGnhpuTaWANgZ76ljPhXUaOVQea8jxcmHk2GuNZHRgvOb9hhqvcTAk2G8aHGkXqIRKxntzISHGtHWVCc&t=AQJhMcEgSmMIef8i74A",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 1,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120245734749280129",
+      "name": "META | PROS | EVG | BV | 30%-OFF | PLANT-BASED | EXPERT-AUTHORITY | | | V1 | UGC VID | OCEAN | WL_YES | KISHA | MIHAELA | EXP238 | H2",
+      "batch": null,
+      "version": "1",
+      "status": "paused",
+      "campaignName": "KH | Lead Gen | Bone Vitality Webinar - Jul 15 | CBO",
+      "buckets": [
+        "Other"
+      ],
+      "launchedAt": "2026-07-06T12:39:17.000Z",
+      "thumbnailUrl": "https://scontent-iad3-2.xx.fbcdn.net/v/t15.5256-10/741464575_988989293763678_5528406458864347071_n.jpg?_nc_cat=111&ccb=1-7&_nc_ohc=EsmAylPI0FIQ7kNvwErVd9G&_nc_oc=AdpYBmWrvc0Xjjun72NaD3Q4ce2S3tuzCyV9vXO9wNJfYMv8Sg9wuLGMtWUCQaz5L18&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ALfz3TcEAAAA&_nc_gid=BtJ6jUSMVxhlRJj9ZhbZ1Q&_nc_tpa=Q5bMBQIkkH_hP6Z0CJTL6C8uMo4MwLqaBjPsdGYHxsDXgsG_2PnOaoZrHCmaAWlVkUlqkmqG1Qaol1jCEg&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=a86139&_nc_sid=58080a&oh=00_AQMdLAb93xMF0p5-k6FPcepABOPN63h9LGYfJNo73UvFQQ&oe=6ADCBB17",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQLSFO-ChFeQ-Igo9aRnoXAS6Sp2ke2QD_HWKaQ9ha7w0HRea5aJeqDIacaIr08t2y1Z1tKq2IRo7ybFBqpEp1fnlwqxZfB8WZmbuXatSGQvVf1b8ctVdtgPlw783i0NznxGNj-7sT6DutvF9OXnAb0F2imbm42GeBjcXdHLBAMIpGiyVI4rZLuqoGNWKIKfvz3xIWhNzNB-qpATz8D36qxoqMUpVtoP2jDDuOclXFReaXTBfwm4zjGWnKYUOH4FeaPFoqeXdLGq7BYl-Dvq7E0hgjerGlTS2Yr0V670c07dAEmvaueEf1rAvcjfTSee9Vbrxkw8d7YDsFXv1ebwZsZ0upK8tFYuAL69rhmdFkjUPnwPb36qnCREMsAvlKAbGLkdjJbKfnsCls71b0jVjmN5bA9T8chKXfJUUE9oPZ0xlKU0PD27n3G1JzsJLpkrQhg&t=AQI8PpSyvKw207Dk1Co",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 1,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120245734796720129",
+      "name": "META | PROS | EVG | BV | 30%-OFF | PLANT-BASED | EXPERT-AUTHORITY | | | V1 | UGC VID | OCEAN | WL_YES | KISHA | MIHAELA | EXP239 | H1",
+      "batch": null,
+      "version": "1",
+      "status": "paused",
+      "campaignName": "KH | Lead Gen | Bone Vitality Webinar - Jul 15 | CBO",
+      "buckets": [
+        "Other"
+      ],
+      "launchedAt": "2026-07-06T12:39:17.000Z",
+      "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/740079344_1542257687682275_3808046419087634605_n.jpg?_nc_cat=107&ccb=1-7&_nc_ohc=EI16Iic3HfQQ7kNvwGM07e6&_nc_oc=Adq7fK64CuiJjlcr_CgVJ1CKTCenTBJ4DH_LOGwPoezZYstNH7ab_0N214NjJDlsQ0E&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ALfz3TcEAAAA&_nc_gid=M-fs8pMXAlyNJVq5qdy4Eg&_nc_tpa=Q5bMBQJdKk01M1V3y3obMhW3XmsxxFRPHEV52ltu2B-7gi3_H0MIeuKIG7Ce28ZZqS0Uqu6MUqdozyGiCw&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=a86139&_nc_sid=58080a&oh=00_AQNSooWrG40q1BI96odBlHYJM73nh5RfDBEYynmo4s6CmQ&oe=6ADCB5BB",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQJ1rAQNIBnbwKGKx_yqdMfP-TmMqVmlmonhZa-OyZZC7XKQcFFW-PfhhXYaQd1xx6PBnB086aawVQ9oqL1_ztUAr7SzIiynhdj6q28ooVy6UTK_2pvMkwWep4mkqiMdJCDQ2Yr6QI6PUl4kEiKBR82jrVjwZHfpSSiZAUy-w9IusyCqjvtwxHLZ5ERs8Moix3CQVm_SNSPA8xg9eKpwRM58hkFGk1oH-ZA-1MWgXkO51Jw0fN3Ck0F-unNRpooFbn25xED2Nzsi6wbvwtEhnlwdxoNBIEaOnHMwTUejYMdKt8r-CzOBgeHUHn8dGwMWxvK8mGXO2z3WtaYmTAEXuvztqFNpWLaDR4oo66nD_nCXm-_KFKV39qL3CsQ8Bnc5sPwJKHPwQZ4dxly7KY3717jj8FSh0p8AlKf6tcumNKEz9llYWLQ8bbAkVSZFdlh8V4g&t=AQJbLGP4ryoe6ZZFRow",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 1,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120245734841820129",
+      "name": "META | PROS | EVG | BV | 30%-OFF | PLANT-BASED | EXPERT-AUTHORITY | | | V1 | UGC VID | OCEAN | WL_YES | KISHA | MIHAELA | EXP239 | H3",
+      "batch": null,
+      "version": "1",
+      "status": "paused",
+      "campaignName": "KH | Lead Gen | Bone Vitality Webinar - Jul 15 | CBO",
+      "buckets": [
+        "Other"
+      ],
+      "launchedAt": "2026-07-06T12:39:17.000Z",
+      "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/740562746_1578801930534240_97229445857093238_n.jpg?_nc_cat=108&ccb=1-7&_nc_ohc=gHVsu9i7u6IQ7kNvwFlTe4B&_nc_oc=AdrSFud-H8KOiVk-mhAEFZga5-HL-gvCISr7YZuoFh1OKDzMkYJAJO_HecV85jPw7pY&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ALfz3TcEAAAA&_nc_gid=MfrtP54IWTmEIPzWIKovxw&_nc_tpa=Q5bMBQJ_ulvAGUHhrq-tBD0FOWkMrYxT7NIl3V5bA5NnWJb8cmr_cvaPeDnS5WKI3w3L1dqmVZugO_P1Dw&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=a86139&_nc_sid=58080a&oh=00_AQNQFoGMpU0weCYexJRao0MbcRd7nHIo4roPMZQ7VZ2org&oe=6ADC9396",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQJ7_WEuXcZbPbDh-MrU7qn3QflwJMQKof4VtfTT9Zh8pS9rrQi7-KZMzZ5rnHbhDdzbWgwRiG-yfKXeVoBvp6qP1VpnST3Hs-gsMMJp78JqocqDHg5zzeTyodUQOe9iKHO9PHMPL_EQ6ldNN57RhHbd78bWvqVTFwJ1arEMWU8r13uXNKAEarSSJp4y7dFIZXlf53nKlS_GfWkS07HvUgBdrVoSJ3cPXccu7Cc1YW3M9MZTglpHmifMHAos_dKixsyQJyqQc1GiukUfowIi_DTwpvCA1mxmvwBCfUeYiaEHTrVg9DciB3MVjSI_LdlJ-AArKopX9Hn0Xm9ypHtsUBmoEu_IUMkunW0FgmJlgmeAANFUKBCDVdnJ81RE8uDPp1jYur1sukEjZfvjOv8-8N1aQXh77-nUsz0xQc3hXwt0Q4MBz3DB-1XodvihypDd4pw&t=AQK2lakVuO-Wp7AgotI",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 1,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120245734729080129",
+      "name": "META | PROS | EVG | BV | 30%-OFF | PLANT-BASED | EXPERT-AUTHORITY | | | V1 | UGC VID | OCEAN | WL_YES | KISHA | MIHAELA | EXP238 | H1",
+      "batch": null,
+      "version": "1",
+      "status": "paused",
+      "campaignName": "KH | Lead Gen | Bone Vitality Webinar - Jul 15 | CBO",
+      "buckets": [
+        "Other"
+      ],
+      "launchedAt": "2026-07-06T12:39:17.000Z",
+      "thumbnailUrl": "https://scontent-iad3-1.xx.fbcdn.net/v/t15.5256-10/740052519_1336860225276295_4931852867471344475_n.jpg?_nc_cat=101&ccb=1-7&_nc_ohc=KUCTpzD7ZiAQ7kNvwG6XYZg&_nc_oc=AdqcK5FmzRno-L3cCe4vTIsLF0n6-0g-5E40venO__IEUYnjDDNjgBbV7h8PtIwv97Q&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ALfz3TcEAAAA&_nc_gid=ybUbRcadAwUpB0y-fpptdQ&_nc_tpa=Q5bMBQLClISo2L6Cm2A9B2ZB-Z-O67f5_x3O3Iv6MEI2UTiWW24AKaaW45-8CNe1SfIVjMgSPmKXM86g8Q&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=a86139&_nc_sid=58080a&oh=00_AQOgg3e_dVp_imPXJnPH36FDd63cfqAjre9W_T32kNAsqw&oe=6ADC8CC2",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQLksz9e0Nn7-yB8lW0cWv1S_biSz1MwwRSzCzFD_wgUdsuWQZpEObIORMg7dud6qaQIYZXPVlaQVTaIMvaRFJbhwEVI_ksvfzLddiwf8K6yPygrecMZjNyB1aEaFfigHAx6TfqRWBqdkVZC8KMzD36A7wvqLJZlgdwWWLIJNMhgJJs3aTxueIdqmVBhmUtMKsiNYO20u9zYBpE9sc_eiyaXwuOF0ChYWGCJIVsFd5LqECK6RXpG-VcKoTEvw5yvpO13sFLLAzxA_jaWG5zyHYDp6vULDFRSfOXMhWnQyJZV7nS8FN1sMYZi8WS3E21MS9Wa6_cPQGZq1B_QRMk4YJj1sYuTIFo5GH8RuWTNUpKbBFLaCVjoE-AUFglRRGnOmzGdMxnUGfdSmx8BwgKgtP961W54EKBQn5HO0EAZHYBcjyZoowKwXdtYAOHS51-xvQU&t=AQJiH9FWtI3sgMo44hg",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 1,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120245734914630129",
+      "name": "META | PROS | EVG | BV | 30%-OFF | PLANT-BASED | EXPERT-AUTHORITY | | | V1 | UGC VID | OCEAN | WL_YES | KISHA | MIHAELA | EXP240 | H3",
+      "batch": null,
+      "version": "1",
+      "status": "paused",
+      "campaignName": "KH | Lead Gen | Bone Vitality Webinar - Jul 15 | CBO",
+      "buckets": [
+        "Other"
+      ],
+      "launchedAt": "2026-07-06T12:39:17.000Z",
+      "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/739174958_1009884111911656_5170772502739525112_n.jpg?_nc_cat=106&ccb=1-7&_nc_ohc=mfBIDx8MJM0Q7kNvwGqO8nw&_nc_oc=AdoklHGXdaUPJI0c0djBCfTO-TWTWhVOGGwllbI8FlR-xLi1xDz6euah5M72nOtfyk0&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ALfz3TcEAAAA&_nc_gid=lBrem-4l9Snxc5kbRdvD3g&_nc_tpa=Q5bMBQIPz6Ur2NQH6zL86jzY29-IinaXlAfAf-vQcuvZjjdUOyL8vedSlCLTZ8TP7eeHQR2gGR3cy1Km8Q&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=a86139&_nc_sid=58080a&oh=00_AQO3naAIZj_p8d_4LqEeJjT3FC9wNLY7S5cFKV-r2uUE5g&oe=6ADC9135",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQIhcXpY8buIyul7upeM5a0MGPQLngpsEQwR-hNwN4IzzSEtQR7QIclD3oT1xqj2eDAviWcM1VTlJMnUsx6JyPSME5dKpVcQTZQKr-n1xVJXU8jGWYDXrR1AYXjg23u2mm97V7-0ezY_subk9mCYapKBvp6NJHMhKX6usaHjl98VZqjP0mzw0oH2Sw0jfPYxpRX3hJ5C1Zb7naVXLk6l4vivH41vVxPevMI3py15M97p6jkzd9cgw2S3gRMZetVRSueAyag4kYJH4Do7RKwR3zhdmIWLqNOtLMGmr2644vPlveGfwQPeOGoXWDxSdJdNtqLhLOY424_Q8nWSxz7BKOJBUStHaQignk6gM8xzt5KIIebKQmrOhcptmMY7xC0FT6hc7qomffXYJl9b4kF0bizVL5qaT47NczgmQmyhrN8nwprjKYoMZJs7rIBxCEh28zs&t=AQL6VmIn3ft8dKNkxIc",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 1,
+      "frnMatch": "identity"
+    },
+    {
+      "id": "120245734697570129",
+      "name": "META | PROS | EVG | BV | 30%-OFF | PLANT-BASED | EXPERT-AUTHORITY | | | V1 | UGC VID | OCEAN | WL_YES | KISHA | MIHAELA | EXP237 | H2",
+      "batch": null,
+      "version": "1",
+      "status": "paused",
+      "campaignName": "KH | Lead Gen | Bone Vitality Webinar - Jul 15 | CBO",
+      "buckets": [
+        "Other"
+      ],
+      "launchedAt": "2026-07-06T12:39:17.000Z",
+      "thumbnailUrl": "https://scontent-iad6-1.xx.fbcdn.net/v/t15.5256-10/738511693_850032697958316_4315391527315515938_n.jpg?_nc_cat=100&ccb=1-7&_nc_ohc=yp3Pxjrv2rMQ7kNvwEa-9X_&_nc_oc=Adq18uHOryrqVfEWzZJURlUF0eKTak8VE-lMK_trD9AKT6BI7XJA3KnJcIbx1IaNs_E&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ALfz3TcEAAAA&_nc_gid=7hPMtCimolD_QtrIy9gXjQ&_nc_tpa=Q5bMBQKUGufqszJI-aeDhloqrr0ZHkTBThvVIDd3qYWe06OkebSb_RWnjiYiKPju_A6Sgeq-eUESuBOt4A&stp=c0.5000x0.5000f_dst-emg0_p640x360_q75_tt6&ur=a86139&_nc_sid=58080a&oh=00_AQNGCBXcZMaqGbthj0lN79D0ZKiiJTTctS0zCu--uU-KDw&oe=6ADCB8CA",
+      "previewUrl": "https://business.facebook.com/ads/api/preview_iframe.php?d=AQKNARFgbRrAT3ncj1S7DqPmcyd_2_G3FnyZQxlRFJyba4WzRKu8TlbeKAtS-xDVCQUiCz5UR3S5NXs3bB1L_4GtImtE8tBiD8fUbDDGeUgW6I8z2FdkYZDzjlSmopcaBULqRFjeDJ-XktsmdGy0ez4WaimmHg7vyluWArqqeHp96elhcL6N6xtDsq2qZt5BOoU7IZg0wNtYr6TSYt9A4_L_x2lBCUEM5uvJ-Rz6PfW15pi_hYZ4aerdQk8PWGOeMN-h4OKEBZYFy4Lr3kWkhjlnHPKSAJ5DXoDhtwa21PV0pY1cIYwZDfdmG4XGnMEaIz7k6Ik3fQbp2Ztlj27hE-TXQyqM2fVcNg7e-LD2MkAPWsUbWqYvJr0ZH4ZfEKqDrXIzxcd766I1DQ7l-O3fIJdgVyia5Dv7JjhxRUZyMRSfY5qfFmPQsuGKCVcIspE93ew&t=AQKa68VjrT-QWJOZ8wc",
+      "previewFormat": "MOBILE_FEED_STANDARD",
+      "copies": 1,
+      "frnMatch": "identity"
+    }
+  ]
+}

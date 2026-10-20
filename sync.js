@@ -20,8 +20,12 @@ const PREVIEW_FORMATS = ["MOBILE_FEED_STANDARD", "DESKTOP_FEED_STANDARD", "INSTA
 const AD_FIELDS = [
   "id", "name", "status", "effective_status", "created_time",
   "adset{id,name}", "campaign{id,name}",
-  "creative{id,thumbnail_url,effective_object_story_id,instagram_user_id,source_instagram_media_id,object_story_spec}"
+  // Only the object_story_spec keys we match on; the full spec is huge and trips Meta's size limit.
+  "creative{id,thumbnail_url,effective_object_story_id,instagram_user_id,source_instagram_media_id,object_story_spec{page_id,instagram_actor_id,instagram_user_id}}"
 ].join(",");
+const PAGE_SIZES = [200, 100, 50, 25];
+// Meta's "Please reduce the amount of data you're asking for" (code 1).
+const isTooMuchData = e => e.code === 1 && /reduce the amount of data/i.test(e.message);
 
 // ---------- env + logging ----------
 
@@ -96,11 +100,10 @@ async function graph(pathOrUrl, params = {}) {
         if (res.ok && json && !json.error) return json;
         const e = json?.error || {};
         const code = typeof e.code === "number" ? e.code : null;
-        throw new GraphError(e.message || `HTTP ${res.status}`, {
-          status: res.status,
-          code,
-          retryable: res.status === 429 || res.status >= 500 || RETRY_CODES.has(code)
-        });
+        const err = new GraphError(e.message || `HTTP ${res.status}`, { status: res.status, code });
+        // A too-big response won't shrink by waiting; the caller asks for less instead.
+        err.retryable = !isTooMuchData(err) && (res.status === 429 || res.status >= 500 || RETRY_CODES.has(code));
+        throw err;
       });
       return body;
     } catch (e) {
@@ -145,12 +148,12 @@ async function pullAds(startMs) {
   for (let i = 0; i < attempts.length; i++) {
     const { statuses, filter, warn } = attempts[i];
     if (warn) log(warn);
-    const params = { fields: AD_FIELDS, limit: "200", effective_status: statuses };
+    const params = { fields: AD_FIELDS, limit: String(PAGE_SIZES[0]), effective_status: statuses };
     if (filter) params.filtering = [{ field: "ad.created_time", operator: "GREATER_THAN", value: afterSeconds }];
 
     let page;
     try {
-      page = await graph(`act_${ACCOUNT_ID}/ads`, params);
+      page = await fetchPage(`act_${ACCOUNT_ID}/ads`, params);
     } catch (e) {
       // Code 100 = invalid parameter. Step down to a simpler request; anything else is fatal.
       if (e.code === 100 && i < attempts.length - 1) continue;
@@ -159,12 +162,29 @@ async function pullAds(startMs) {
 
     const ads = [...(page.data || [])];
     while (page.paging?.next) {
-      page = await graph(page.paging.next);
+      page = await fetchPage(page.paging.next);
       ads.push(...(page.data || []));
     }
     return ads;
   }
   return [];
+}
+
+// Fetch one page of ads, shrinking the page size whenever Meta says the response is too big.
+let pageSize = PAGE_SIZES[0];
+async function fetchPage(pathOrUrl, params) {
+  for (;;) {
+    const url = pathOrUrl.startsWith("https://") ? new URL(pathOrUrl) : null;
+    if (url) url.searchParams.set("limit", String(pageSize));
+    try {
+      return url ? await graph(url.href) : await graph(pathOrUrl, { ...params, limit: String(pageSize) });
+    } catch (e) {
+      const smaller = PAGE_SIZES.find(n => n < pageSize);
+      if (!isTooMuchData(e) || !smaller) throw e;
+      log(`Meta asked for smaller pages; retrying with ${smaller} ads per page.`);
+      pageSize = smaller;
+    }
+  }
 }
 
 // ---------- 5.2 FRN filter ----------

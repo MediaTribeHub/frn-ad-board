@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <meta name="robots" content="noindex, nofollow">
+  <title>FRN Ad Board</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="page">
+    <p class="updated" id="updated">&nbsp;</p>
+
+    <header class="header">
+      <h1 id="title">FRN Ad Board</h1>
+      <p class="subtitle" id="subtitle">Every Complement ad running under Food Revolution Network whitelisting.</p>
+    </header>
+
+    <p class="stale" id="stale" hidden></p>
+
+    <div class="filters" id="filters">
+      <div class="filter-row" id="buckets" role="group" aria-label="Campaign"></div>
+      <div class="filter-row filter-row--split">
+        <div class="segmented" id="status" role="group" aria-label="Status">
+          <button type="button" data-status="all" aria-pressed="true">All</button>
+          <button type="button" data-status="live" aria-pressed="false">Live</button>
+          <button type="button" data-status="paused" aria-pressed="false">Paused</button>
+        </div>
+        <label class="search">
+          <svg viewBox="0 0 20 20" width="16" height="16" aria-hidden="true">
+            <circle cx="9" cy="9" r="6" fill="none" stroke="currentColor" stroke-width="1.75"/>
+            <path d="M13.5 13.5 17 17" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round"/>
+          </svg>
+          <span class="visually-hidden">Search ads</span>
+          <input type="search" id="search" placeholder="Search ads…" autocomplete="off" spellcheck="false">
+        </label>
+      </div>
+      <p class="count" id="count" aria-live="polite">&nbsp;</p>
+    </div>
+
+    <main class="grid" id="grid" aria-busy="true"></main>
+
+    <div class="message" id="message" hidden></div>
+
+    <footer class="footer">Ads shown once per version — duplicates across ad sets are merged.</footer>
+  </div>
+
+  <dialog class="modal" id="modal" aria-labelledby="modal-title">
+    <div class="modal__inner">
+      <div class="modal__header">
+        <div class="modal__heading">
+          <h2 class="modal__title" id="modal-title"></h2>
+          <span class="pill" id="modal-status"></span>
+        </div>
+        <button type="button" class="modal__close" id="modal-close" aria-label="Close preview">
+          <svg viewBox="0 0 20 20" width="18" height="18" aria-hidden="true">
+            <path d="M5 5l10 10M15 5 5 15" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round"/>
+          </svg>
+        </button>
+      </div>
+      <div class="modal__body">
+        <div class="modal__frame" id="modal-frame"></div>
+        <p class="modal__expired" id="modal-expired" hidden>This preview expired. It'll be back after tomorrow morning's refresh.</p>
+      </div>
+      <div class="modal__footer">
+        <a id="modal-link" href="#" target="_blank" rel="noopener noreferrer">Open in a new tab ↗</a>
+      </div>
+    </div>
+  </dialog>
+
+  <script src="app.js" defer></script>
+</body>
+</html>

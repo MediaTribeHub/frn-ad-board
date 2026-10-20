@@ -1,0 +1,66 @@
+name: Refresh board
+
+on:
+  # 12:00 UTC is 8 AM in summer (EDT), 13:00 UTC is 8 AM in winter (EST).
+  # The guard below lets only the one that lands on 8 AM New York time through.
+  schedule:
+    - cron: "0 12 * * *"
+    - cron: "0 13 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-board
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Only run at 8 AM Eastern
+        id: guard
+        run: |
+          if [ "${{ github.event_name }}" != "schedule" ]; then
+            echo "Manual run — skipping the time check."
+            echo "run=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          hour=$(TZ=America/New_York date +%H)
+          if [ "$hour" = "08" ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "It's ${hour}:00 in New York, not 8 AM. Nothing to do."
+            echo "run=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Check out
+        if: steps.guard.outputs.run == 'true'
+        uses: actions/checkout@v4
+
+      - name: Set up Node 20
+        if: steps.guard.outputs.run == 'true'
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Pull ads from Meta
+        if: steps.guard.outputs.run == 'true'
+        env:
+          META_ACCESS_TOKEN: ${{ secrets.META_ACCESS_TOKEN }}
+          META_AD_ACCOUNT_ID: ${{ secrets.META_AD_ACCOUNT_ID }}
+        run: node sync.js
+
+      - name: Commit data.json if it changed
+        if: steps.guard.outputs.run == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Refresh board data"
+            git push
+          fi

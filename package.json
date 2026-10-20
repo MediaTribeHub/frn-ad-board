@@ -1,0 +1,11 @@
+{
+  "name": "frn-ad-board",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "sync": "node sync.js"
+  }
+}

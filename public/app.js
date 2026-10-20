@@ -4,6 +4,7 @@
   const STALE_AFTER_MS = 36 * 60 * 60 * 1000;
   const PREVIEW_TIMEOUT_MS = 8000;
   const DEFAULT_TZ = "America/New_York";
+  const VIEW_KEY = "frn-board-view";
 
   const $ = id => document.getElementById(id);
   const els = {
@@ -14,6 +15,7 @@
     filters: $("filters"),
     buckets: $("buckets"),
     status: $("status"),
+    view: $("view"),
     search: $("search"),
     count: $("count"),
     grid: $("grid"),
@@ -27,7 +29,15 @@
     modalLink: $("modal-link")
   };
 
-  const state = { data: null, bucket: "all", status: "all", query: "" };
+  const state = { data: null, bucket: "all", status: "all", query: "", view: savedView() };
+
+  // The list/cards choice is a per-viewer convenience; storage may be unavailable.
+  function savedView() {
+    try { return localStorage.getItem(VIEW_KEY) === "cards" ? "cards" : "list"; } catch (_) { return "list"; }
+  }
+  function saveView(view) {
+    try { localStorage.setItem(VIEW_KEY, view); } catch (_) { /* fine, it just won't be remembered */ }
+  }
   const modalState = { opener: null, scrollY: 0, timer: null };
 
   // ---------- tiny DOM helper (never uses innerHTML with data) ----------
@@ -94,7 +104,25 @@
 
   // ---------- loading ----------
 
+  function applyView() {
+    els.grid.classList.toggle("grid--list", state.view === "list");
+    syncPressed(els.view, "data-view", state.view);
+  }
+
   function renderSkeletons() {
+    applyView();
+    if (state.view === "list") {
+      els.grid.replaceChildren(...Array.from({ length: 8 }, () =>
+        h("div", { class: "row row--skeleton", "aria-hidden": "true" },
+          h("div", { class: "row__thumb" }),
+          h("div", { class: "row__main" },
+            h("div", { class: "skeleton skeleton--title" }),
+            h("div", { class: "skeleton skeleton--line" })
+          )
+        )
+      ));
+      return;
+    }
     els.grid.replaceChildren(...Array.from({ length: 6 }, () =>
       h("div", { class: "card card--skeleton", "aria-hidden": "true" },
         h("div", { class: "thumb" }),
@@ -230,7 +258,8 @@
 
     els.count.textContent = `Showing ${shown.length} of ${all.length} ${all.length === 1 ? "ad" : "ads"}`;
     els.grid.setAttribute("aria-busy", "false");
-    els.grid.replaceChildren(...shown.map(card));
+    applyView();
+    els.grid.replaceChildren(...shown.map(state.view === "list" ? row : card));
 
     if (shown.length === 0) {
       const filtered = state.bucket !== "all" || state.status !== "all" || state.query;
@@ -253,16 +282,53 @@
     return h("div", { class: "thumb__fallback", "aria-hidden": "true" }, ad.batch ? `Batch ${ad.batch}` : "");
   }
 
+  function thumbMedia(ad) {
+    if (!ad.thumbnailUrl) return thumbFallback(ad);
+    const img = h("img", { src: ad.thumbnailUrl, alt: "", loading: "lazy", decoding: "async", referrerpolicy: "no-referrer" });
+    img.addEventListener("error", () => img.replaceWith(thumbFallback(ad)), { once: true });
+    return img;
+  }
+
+  function launchedLabel(ad) {
+    return ad.launchedMs ? `Launched ${shortDate(new Date(ad.launchedMs), tz())}` : null;
+  }
+
+  function previewButton(ad, className, label, unavailableLabel) {
+    const hasPreview = Boolean(ad.previewUrl);
+    const button = h("button", {
+      type: "button",
+      class: className,
+      disabled: !hasPreview,
+      "aria-label": hasPreview ? `View ad preview: ${ad.label}` : null
+    }, hasPreview ? label : unavailableLabel);
+    if (hasPreview) button.addEventListener("click", () => openPreview(ad, button));
+    return button;
+  }
+
+  // One compact line per ad. The preview button stretches over the whole row.
+  function row(ad) {
+    const meta = [
+      ad.buckets[0] ? h("span", { class: "chip" }, ad.buckets[0]) : null,
+      ad.buckets.length > 1 ? h("span", { class: "chip", title: ad.buckets.slice(1).join(", ") }, `+${ad.buckets.length - 1}`) : null,
+      ad.version ? h("span", { class: "chip" }, `V${ad.version}`) : null
+    ].filter(Boolean);
+
+    return h("article", { class: `row${ad.previewUrl ? " is-clickable" : ""}` },
+      h("div", { class: "row__thumb" }, thumbMedia(ad)),
+      h("div", { class: "row__main" },
+        h("h3", { class: "row__name", title: ad.name }, ad.label),
+        ad.details ? h("p", { class: "row__details" }, ad.details) : null
+      ),
+      h("div", { class: "row__meta" }, meta),
+      h("div", { class: "row__date" }, launchedLabel(ad)),
+      h("div", { class: "row__status" }, statusPill(ad.status)),
+      h("div", { class: "row__action" }, previewButton(ad, "preview-button preview-button--compact", "Preview", "Unavailable"))
+    );
+  }
+
   function card(ad) {
     const hasPreview = Boolean(ad.previewUrl);
-
-    let media;
-    if (ad.thumbnailUrl) {
-      media = h("img", { src: ad.thumbnailUrl, alt: "", loading: "lazy", decoding: "async", referrerpolicy: "no-referrer" });
-      media.addEventListener("error", () => media.replaceWith(thumbFallback(ad)), { once: true });
-    } else {
-      media = thumbFallback(ad);
-    }
+    const media = thumbMedia(ad);
 
     const chips = [];
     if (ad.buckets[0]) chips.push(h("span", { class: "chip" }, ad.buckets[0]));
@@ -271,15 +337,9 @@
     }
     const bv = [ad.batch ? `Batch ${ad.batch}` : null, ad.version ? `V${ad.version}` : null].filter(Boolean).join(" · ");
     if (bv) chips.push(h("span", { class: "chip" }, bv));
-    if (ad.launchedMs) chips.push(h("span", { class: "chip" }, `Launched ${shortDate(new Date(ad.launchedMs), tz())}`));
+    if (ad.launchedMs) chips.push(h("span", { class: "chip" }, launchedLabel(ad)));
 
-    const button = h("button", {
-      type: "button",
-      class: "preview-button",
-      disabled: !hasPreview,
-      "aria-label": hasPreview ? `View ad preview: ${ad.label}` : null
-    }, hasPreview ? "View ad preview" : "Preview unavailable");
-    if (hasPreview) button.addEventListener("click", () => openPreview(ad, button));
+    const button = previewButton(ad, "preview-button", "View ad preview", "Preview unavailable");
 
     return h("article", { class: `card${hasPreview ? " is-clickable" : ""}` },
       h("div", { class: "thumb" }, media, statusPill(ad.status)),
@@ -357,6 +417,14 @@
     state.status = btn.dataset.status;
     syncPressed(els.status, "data-status", state.status);
     render();
+  });
+
+  els.view.addEventListener("click", e => {
+    const btn = e.target.closest("[data-view]");
+    if (!btn || btn.dataset.view === state.view) return;
+    state.view = btn.dataset.view;
+    saveView(state.view);
+    if (state.data) render(); else applyView();
   });
 
   let searchTimer = null;

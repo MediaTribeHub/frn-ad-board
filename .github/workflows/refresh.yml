@@ -1,11 +1,11 @@
 name: Refresh board
 
 on:
-  # 12:00 UTC is 8 AM in summer (EDT), 13:00 UTC is 8 AM in winter (EST).
-  # The guard below lets only the one that lands on 8 AM New York time through.
+  # GitHub often starts scheduled runs hours late, so we don't count on any one of them.
+  # Every 30 minutes from 7 AM ET onward, a run checks whether today's refresh has happened;
+  # the first one after 8 AM New York time that finds it hasn't, does it.
   schedule:
-    - cron: "0 12 * * *"
-    - cron: "0 13 * * *"
+    - cron: "7,37 11-23 * * *"
   workflow_dispatch:
 
 permissions:
@@ -21,7 +21,10 @@ jobs:
     outputs:
       run: ${{ steps.guard.outputs.run }}
     steps:
-      - name: Only run at 8 AM Eastern
+      - name: Check out
+        uses: actions/checkout@v4
+
+      - name: Refresh once a day, after 8 AM Eastern
         id: guard
         run: |
           if [ "${{ github.event_name }}" != "schedule" ]; then
@@ -29,17 +32,24 @@ jobs:
             echo "run=true" >> "$GITHUB_OUTPUT"
             exit 0
           fi
+          today=$(TZ=America/New_York date +%F)
           hour=$(TZ=America/New_York date +%H)
-          if [ "$hour" = "08" ]; then
-            echo "run=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "It's ${hour}:00 in New York, not 8 AM. Nothing to do."
+          if [ "$hour" -lt 8 ]; then
+            echo "It's ${hour}:00 in New York, before 8 AM. Nothing to do yet."
             echo "run=false" >> "$GITHUB_OUTPUT"
+            exit 0
           fi
-
-      - name: Check out
-        if: steps.guard.outputs.run == 'true'
-        uses: actions/checkout@v4
+          last=$(jq -r '.lastUpdated // empty' public/data.json 2>/dev/null || true)
+          if [ -n "$last" ]; then
+            last_day=$(TZ=America/New_York date -d "$last" +%F)
+            last_hour=$(TZ=America/New_York date -d "$last" +%H)
+            if [ "$last_day" = "$today" ] && [ "$last_hour" -ge 8 ]; then
+              echo "Already refreshed today at ${last_hour}:00 New York time. Nothing to do."
+              echo "run=false" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+          fi
+          echo "run=true" >> "$GITHUB_OUTPUT"
 
       - name: Set up Node 20
         if: steps.guard.outputs.run == 'true'
